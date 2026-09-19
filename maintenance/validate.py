@@ -3,7 +3,7 @@ import argparse, hashlib, json, re, sys, zipfile
 from pathlib import Path
 from build import flatten
 
-BASE=Path(__file__).resolve().parents[1]; CORE=BASE/'xjtlu-major-advisor'; VERSION='0.1.1-rc1'; DATA_VERSION='0.1.0-rc1'
+BASE=Path(__file__).resolve().parents[1]; CORE=BASE/'xjtlu-major-advisor'; VERSION='0.1.2-rc1'; DATA_VERSION='0.1.0-rc1'
 
 def main():
     errors=[]; checks=[]
@@ -21,7 +21,7 @@ def main():
     check('no_missing_or_orphan_profiles',profiles==set(ids),str(sorted(profiles^set(ids))))
     check('source_ids_unique',len(sources)==len(sourceids))
     check('directory_count_dynamic',cat['directory_count']==len(ids)==idx['directory_count'])
-    check('no_packaged_real_thresholds',all(e['eligibility_status']=='pending_verification' for e in cat['majors']))
+    check('default_personal_eligibility_pending',all(e['eligibility_status']=='pending_verification' for e in cat['majors']))
     for e in cat['majors']:
         p=CORE/'references/majors'/f'{e["major_id"]}.md'; txt=p.read_text(encoding='utf-8')
         check('profile_identity:'+e['major_id'],e['major_id'] in txt and e['official_name'] in txt and DATA_VERSION in txt)
@@ -78,7 +78,7 @@ def main():
     check('no_key_or_private_path_patterns',not secret_hits,'; '.join(secret_hits))
     # Authorship and synthetic-data labeling are also reviewed by a human-readable audit.
     check('minimum_example_reports',len(list((BASE/'examples').glob('*/report.md')))>=2)
-    result={'version':VERSION,'date':'2026-09-18','kind':'static_artifact_validation','passed':not errors,'checks':checks,'counts':{'checks':len(checks),'failed':len(errors),'profiles':len(profiles),'sources':len(sources),'markdown_scanned':scanned,'archives':archivecounts},'limits':['Pattern scans cannot prove absence of all possible personal data; provenance and manual review required.','No platform runtime or actual student counseling claim.']}
+    result={'version':VERSION,'date':'2026-09-19','kind':'static_artifact_validation','passed':not errors,'checks':checks,'counts':{'checks':len(checks),'failed':len(errors),'profiles':len(profiles),'sources':len(sources),'markdown_scanned':scanned,'archives':archivecounts},'limits':['Pattern scans cannot prove absence of all possible personal data; provenance and manual review required.','No platform runtime or actual student counseling claim.']}
     out=BASE/'validation/static-results.json'; out.parent.mkdir(exist_ok=True); out.write_text(json.dumps(result,ensure_ascii=False,indent=2),encoding='utf-8')
     print(json.dumps(result['counts'],ensure_ascii=False)); print('\n'.join(errors) if errors else 'PASS')
     return 1 if errors else 0

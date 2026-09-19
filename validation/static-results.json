@@ -1,6 +1,6 @@
 {
-  "version": "0.1.1-rc1",
-  "date": "2026-09-18",
+  "version": "0.1.2-rc1",
+  "date": "2026-09-19",
   "kind": "static_artifact_validation",
   "passed": true,
   "checks": [
@@ -30,7 +30,7 @@
       "detail": ""
     },
     {
-      "check": "no_packaged_real_thresholds",
+      "check": "default_personal_eligibility_pending",
       "passed": true,
       "detail": ""
     },
@@ -1620,6 +1620,16 @@
       "detail": ""
     },
     {
+      "check": "txt_equivalence:03-完整通用总控提示词.md",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "txt_equivalence:04-场景指令.md",
+      "passed": true,
+      "detail": ""
+    },
+    {
       "check": "txt_equivalence:C00-职业与升学方向卡.md",
       "passed": true,
       "detail": ""
@@ -1670,7 +1680,7 @@
       "detail": ""
     },
     {
-      "check": "zip_integrity:xjtlu-major-advisor-chatgpt-plugin-0.1.1-rc1.zip",
+      "check": "zip_integrity:xjtlu-major-advisor-chatgpt-plugin-0.1.2-rc1.zip",
       "passed": true,
       "detail": ""
     },
@@ -1680,12 +1690,12 @@
       "detail": ""
     },
     {
-      "check": "package_core_identity:xjtlu-major-advisor-chatgpt-plugin-0.1.1-rc1.zip",
+      "check": "package_core_identity:xjtlu-major-advisor-chatgpt-plugin-0.1.2-rc1.zip",
       "passed": true,
       "detail": ""
     },
     {
-      "check": "zip_integrity:xjtlu-major-advisor-core-0.1.1-rc1.zip",
+      "check": "zip_integrity:xjtlu-major-advisor-core-0.1.2-rc1.zip",
       "passed": true,
       "detail": ""
     },
@@ -1695,47 +1705,47 @@
       "detail": ""
     },
     {
-      "check": "package_core_identity:xjtlu-major-advisor-core-0.1.1-rc1.zip",
+      "check": "package_core_identity:xjtlu-major-advisor-core-0.1.2-rc1.zip",
       "passed": true,
       "detail": ""
     },
     {
-      "check": "zip_integrity:xjtlu-major-advisor-doubao-0.1.1-rc1.zip",
+      "check": "zip_integrity:xjtlu-major-advisor-doubao-0.1.2-rc1.zip",
       "passed": true,
       "detail": ""
     },
     {
-      "check": "zip_integrity:xjtlu-major-advisor-source-0.1.1-rc1.zip",
+      "check": "zip_integrity:xjtlu-major-advisor-source-0.1.2-rc1.zip",
       "passed": true,
       "detail": ""
     },
     {
-      "check": "zip_integrity:xjtlu-major-advisor-traework-0.1.1-rc1.zip",
+      "check": "zip_integrity:xjtlu-major-advisor-traework-0.1.2-rc1.zip",
       "passed": true,
       "detail": ""
     },
     {
-      "check": "root_skill:xjtlu-major-advisor-traework-0.1.1-rc1.zip",
+      "check": "root_skill:xjtlu-major-advisor-traework-0.1.2-rc1.zip",
       "passed": true,
       "detail": ""
     },
     {
-      "check": "package_core_identity:xjtlu-major-advisor-traework-0.1.1-rc1.zip",
+      "check": "package_core_identity:xjtlu-major-advisor-traework-0.1.2-rc1.zip",
       "passed": true,
       "detail": ""
     },
     {
-      "check": "zip_integrity:xjtlu-major-advisor-workbuddy-0.1.1-rc1.zip",
+      "check": "zip_integrity:xjtlu-major-advisor-workbuddy-0.1.2-rc1.zip",
       "passed": true,
       "detail": ""
     },
     {
-      "check": "root_skill:xjtlu-major-advisor-workbuddy-0.1.1-rc1.zip",
+      "check": "root_skill:xjtlu-major-advisor-workbuddy-0.1.2-rc1.zip",
       "passed": true,
       "detail": ""
     },
     {
-      "check": "package_core_identity:xjtlu-major-advisor-workbuddy-0.1.1-rc1.zip",
+      "check": "package_core_identity:xjtlu-major-advisor-workbuddy-0.1.2-rc1.zip",
       "passed": true,
       "detail": ""
     },
@@ -1756,18 +1766,18 @@
     }
   ],
   "counts": {
-    "checks": 350,
+    "checks": 352,
     "failed": 0,
     "profiles": 52,
-    "sources": 85,
-    "markdown_scanned": 122,
+    "sources": 86,
+    "markdown_scanned": 130,
     "archives": {
-      "xjtlu-major-advisor-chatgpt-plugin-0.1.1-rc1.zip": 74,
-      "xjtlu-major-advisor-core-0.1.1-rc1.zip": 73,
-      "xjtlu-major-advisor-doubao-0.1.1-rc1.zip": 29,
-      "xjtlu-major-advisor-source-0.1.1-rc1.zip": 156,
-      "xjtlu-major-advisor-traework-0.1.1-rc1.zip": 73,
-      "xjtlu-major-advisor-workbuddy-0.1.1-rc1.zip": 73
+      "xjtlu-major-advisor-chatgpt-plugin-0.1.2-rc1.zip": 79,
+      "xjtlu-major-advisor-core-0.1.2-rc1.zip": 78,
+      "xjtlu-major-advisor-doubao-0.1.2-rc1.zip": 34,
+      "xjtlu-major-advisor-source-0.1.2-rc1.zip": 170,
+      "xjtlu-major-advisor-traework-0.1.2-rc1.zip": 78,
+      "xjtlu-major-advisor-workbuddy-0.1.2-rc1.zip": 78
     }
   },
   "limits": [

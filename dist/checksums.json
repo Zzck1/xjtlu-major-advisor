@@ -1,29 +1,29 @@
 {
-  "version": "0.1.1-rc1",
+  "version": "0.1.2-rc1",
   "files": {
-    "xjtlu-major-advisor-chatgpt-plugin-0.1.1-rc1.zip": {
-      "bytes": 239706,
-      "sha256": "5913ea52c82e527d4f9b14069ff3106cd51e65740bc5ccad5b3d6be31292e276"
+    "xjtlu-major-advisor-chatgpt-plugin-0.1.2-rc1.zip": {
+      "bytes": 266043,
+      "sha256": "4cbbc41fef5498a14800e6a4f24ef5410a5ac95804a50169f11868755cfd7e42"
     },
-    "xjtlu-major-advisor-core-0.1.1-rc1.zip": {
-      "bytes": 238036,
-      "sha256": "f00dcf0aa04185d0a3a3bcce831a9d6011668305ffb9c5160e3dec4d9910f4d3"
+    "xjtlu-major-advisor-core-0.1.2-rc1.zip": {
+      "bytes": 264301,
+      "sha256": "da87397f28c86e96c8f6ac2013322c07aa84be2bdd7b14239350f108da292b11"
     },
-    "xjtlu-major-advisor-doubao-0.1.1-rc1.zip": {
-      "bytes": 183261,
-      "sha256": "85859a99a89af8f8b94eaf5ec33dba55b742363dc49f6b9d11065b364b464a04"
+    "xjtlu-major-advisor-doubao-0.1.2-rc1.zip": {
+      "bytes": 227905,
+      "sha256": "73d1f4f7a26701af730992e476f0b45273e13398fd540527d9d0d4d587ce4571"
     },
-    "xjtlu-major-advisor-source-0.1.1-rc1.zip": {
-      "bytes": 607951,
-      "sha256": "cc49d803316957caee76b69c0e1877b4161c7c0bdd3c7fcefa7685015b7f7094"
+    "xjtlu-major-advisor-source-0.1.2-rc1.zip": {
+      "bytes": 688448,
+      "sha256": "dc71677b03411a413d1783811c22a574df87b797181c4cd675d31b9c4efd9a92"
     },
-    "xjtlu-major-advisor-traework-0.1.1-rc1.zip": {
-      "bytes": 235116,
-      "sha256": "8165c39527bcdec526443cca5d9c64ae55e2fdc9bc77abed64c33692ffcea6b7"
+    "xjtlu-major-advisor-traework-0.1.2-rc1.zip": {
+      "bytes": 261181,
+      "sha256": "ad58174bb67a0661d720416e416125a4e4dda184f2fb3b1d122f8348147bead6"
     },
-    "xjtlu-major-advisor-workbuddy-0.1.1-rc1.zip": {
-      "bytes": 235248,
-      "sha256": "f78fd6b1dabdfd681fa1a0ccb0680cfba6868f99958b3ce148e974b17dfc3ca1"
+    "xjtlu-major-advisor-workbuddy-0.1.2-rc1.zip": {
+      "bytes": 261298,
+      "sha256": "081b7f7d946de934e178cea9699c77c22fb60a59e137e7a5c8411836e8df672c"
     }
   }
 }

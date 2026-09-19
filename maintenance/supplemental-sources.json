@@ -1,0 +1,27 @@
+{
+  "version": "0.1.2-rc1",
+  "sources": [
+    {
+      "source_id": "T01",
+      "title": "专业录取要求一览表_校区版.xlsx",
+      "type": "user_provided_workbook",
+      "sheet": "专业录取要求",
+      "range": "A1:D62",
+      "sha256": "8aa01b97b573d3218228904f079e9c7d3d22d8a0a98101b658d4d23b44f0e380",
+      "received_at": "2026-09-19",
+      "extracted_at": "2026-09-19",
+      "publisher": null,
+      "publication_date": null,
+      "applicable_entry_years": null,
+      "applicable_entry_identities": null,
+      "official_authenticity_verified": false,
+      "limitations": [
+        "表头是第二学期专业要求课程；不能改写成大一第一学期先修门槛。",
+        "表中未注明发布单位、发布日期、适用届别和招生身份。",
+        "部分条目说明按第一学期成绩决定录取，但没有具体分数线、名额、竞争办法或完整条件。",
+        "空白额外录取要求不是已证明无门槛；未列专业不等于不招生或不可选。",
+        "本表校区和名称按用户资料保留；与当届正式材料冲突时待复核。"
+      ]
+    }
+  ]
+}

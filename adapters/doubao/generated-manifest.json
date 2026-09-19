@@ -1,5 +1,5 @@
 {
-  "version": "0.1.1-rc1",
+  "version": "0.1.2-rc1",
   "majors": [
     {
       "major_id": "xjtlu-materials-science-and-engineering-2",
@@ -315,14 +315,16 @@
     }
   ],
   "core_sources": {
-    "SKILL.md": "9d82cc1be37cf46fdaa65d5e83f9ef7b6bb9a5e9fbd708d2c578d97764c12449",
-    "references/eligibility.md": "4d386649647bea564dd5f8e2584d9e291222106d45f4c05f611c0227042512f1",
-    "references/interview.md": "376a851eb04fb9572a40119860315d7693fe9fec6b240d021d5c720834793cc3",
-    "references/matching.md": "d4a556a5d9a4c4697cf9d8945a9431e316fddc9269b4299105f103acde4e7cf3",
-    "references/session-state.md": "8f936a86a493bf5544202fc9ef0b42e145434d4e9cdcbf0c52ffa1703d4b415d",
-    "assets/report-template.md": "b36cfbe930a2988d79c79783dc2db744459f54a441ddb898b6992b59167b2093",
-    "references/docx-delivery.md": "559a58af333b90d9a1c7cf43081932a528d8e9e40e552c814fb70a6f6036c420",
-    "assets/session-summary-template.md": "61d859a048232c65f1153a2f77c783728386cbecafb41204e674214492e3f6be",
+    "SKILL.md": "2e51e9bba1b4cd20cd40b3263c6187d6b3c8f2463c76dbd53ddad4ffc5ebbddf",
+    "references/intake-screening.md": "538a63225069d7dcf80b5f804b088961cb9ecacd1425e8b4d68987ea15263032",
+    "references/admission-table.md": "7c30f14941504611218c49ebb40b1ccb2848bc04b670898580413a361edb1cbd",
+    "references/eligibility.md": "bb942db757f83323d48a26fb6d4644d907005b264308ebbe2ebc36014d25cc0f",
+    "references/interview.md": "cd1f54667040810c6e89e84416a81f4892a1bc2a3aa46e697d0c88eceeeeab8f",
+    "references/matching.md": "c463166c8f5e36c8062f8a12107186c05d7e616bb24a86b2c803e9fcfb1ba3b0",
+    "references/session-state.md": "5ebaf812380fe469024fb2e09c7696291ad163f0b6985f17cac2b534a7dca085",
+    "assets/report-template.md": "f741c8f4e38fb90dca1592b3ddffce67c8de14fb52205ad1e87073655b9f2abd",
+    "references/docx-delivery.md": "06337bd010caef044b2b754c82ff0be877c94d58614710721b1f4981b07890e9",
+    "assets/session-summary-template.md": "c8b6f266c3c5f7967f43d5a4999fedeaed18333ce1fb8635e4443d13069e1f5d",
     "references/major-index.md": "1dbc0c1e738d15c0544713780ea41597e67ea078c968acd98d9617a7e962e540"
   }
 }

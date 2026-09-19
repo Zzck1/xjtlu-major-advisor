@@ -1,6 +1,6 @@
 # 当前会话状态与续聊
 
-版本：`0.1.0-rc1`｜2026-09-18。
+版本：`0.1.2-rc1`｜2026-09-19。
 
 结构化记录用于避免重复提问、区分证据和推断、支持改答。它是当前会话的工作记录，不是公共学生数据库；学生无需看到每一步内部记录。
 
@@ -12,6 +12,10 @@
 | `read_files` / `unavailable_files` | 实际读取的文件及缺失；不以“上传成功”代替“已读到内容” |
 | `phase` | `intake`、`interview`、`profile_confirmation`、`report`、`follow_up` 或 `stopped` |
 | `answers` | 证据编号、信息槽、学生原话短摘或忠实摘要、已知／未知／跳过、是否已被修改 |
+| `course_facts` | 按需记录课程原话、代码、所属学期、已选／计划／完成／成绩状态、未知或跳过及未识别名称；不是开场必填问卷 |
+| `semester2_module_plan` | 单独核对的下学期已选／计划／可补选课程及来源；不能从其他学期自动填充 |
+| `taicang_preference` | 原话、avoid_taicang／require_taicang／open_to_either／unknown／skipped；未回答不默认推荐选项 |
+| `screening` | 逐方向保存T01行及学期、课程对照、额外要求、校区matches／conflicts／pending、范围内／校区冲突／待核实；与资格状态独立 |
 | `inferences` | 暂时分析、支持的回答与资料、待验证点；不得与学生原话混淆 |
 | `priorities` | 学生明确表达的取舍顺序；本人意愿、家长期望和现实约束分列 |
 | `eligibility` | 按稳定 `major_id` 存状态、适用年份与身份、政策来源／章节、必要条件、个人证据、未解决项 |
