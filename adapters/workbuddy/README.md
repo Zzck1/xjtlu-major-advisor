@@ -1,0 +1,29 @@
+# WorkBuddy 使用说明
+
+资料版本：0.1.1-rc1｜核验日期：2026-09-18｜状态：仅文档核验，安装及完整咨询待用户环境验证。
+
+## 学生如何开始
+
+1. 使用自己的 WorkBuddy 账号及可用模型。打开“专家·技能·连接器 → 技能”，选择“添加技能 → 上传技能”，上传 `dist/xjtlu-major-advisor-workbuddy-0.1.1-rc1.zip`。
+2. 在已安装列表确认“西浦选专业顾问”启用。新建自己的咨询任务，选择专用资料目录，在对话中选中该技能，输入：**开始选专业咨询**。
+3. 顾问应先检查资料版本，再每次问一个主要问题。最后查看完整报告，完成报告中的验证行动。需要保存报告时，允许它写入自己的任务目录即可。
+
+“添加技能”和文件上传入口依据[官方技能说明](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Skills-Market)。工作目录、技能选择以及 Ask / Craft 模式见[官方任务栏说明](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Task-Bar)。Ask 模式可先进行问答；需要实际文件时使用当前客户端提供的可写入模式。若模型只输出正文，可复制 Markdown，不代表附件已经生成。
+
+## 本包的适配与边界
+
+官方开放平台文档规定 `SKILL.md` 使用 YAML 前置信息，并支持 `references/` 补充资料；列为必填的字段含 `description`、中英文描述、版本和作者。本 WorkBuddy 包由同版本核心生成，补充平台元信息；学校事实仍取自相同资料。该规范来自[WorkBuddy 开放平台：技能](https://open.workbuddy.cn/docs/skill)，并不等同于本包已通过客户端或开放平台校验。
+
+本次没有 WorkBuddy 登录环境、导入记录或运行记录；客户端版本未知。ZIP 实际解析层级、`assets/` 内模板读取、中文文件名、完整资料读取、逐题等待和报告下载均待实测。不要把普通源码 ZIP 或 ChatGPT 插件 ZIP 当作 WorkBuddy 包。本包无需脚本、API Key 或连接器。
+
+若上传失败，将完整核心目录 `xjtlu-major-advisor/` 解压到自己的工作目录，粘贴[兼容启动词](启动词.md)。这是读取文件的聊天兼容入口；只有模型实际读到核心规则、索引及相关完整档案后，才可形成有依据的分析。它不证明原生安装已成功。
+
+## 首次验收
+
+按[平台核验记录](../../validation/platforms.md)完成 P01–P09。优先核对：启动是否只问入学年份；缺失档案时是否说出文件；未提供个人适用校内门槛时是否保留 `pending_verification`；报告是否有真实可打开的文件或完整正文。
+
+WorkBuddy 的“产物”和“全部文件”区支持查看生成结果，依据[官方结果查看说明](https://www.workbuddy.ai/docs/zh/workbuddy/Results)。查看到文件后再记录“文件输出已实测”，不能只凭模型宣称已保存。
+
+## 三份 Word 输出
+
+默认交付三个独立 `.docx`：①决策结论与适配候选；②你的选择画像与两个重点候选的差异；③就业探索、接下来的验证行动与信息边界。需要当前平台实际具备 Word 生成及下载能力。不能生成附件时说明限制并保留三组完整正文，不把聊天文本或改后缀文件称为 Word。三份 Word 的目标客户端输出仍需实测。

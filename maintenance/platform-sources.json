@@ -1,0 +1,301 @@
+{
+  "version": "0.1.0-rc1",
+  "checked_at": "2026-09-18",
+  "method": "Official pages opened with web retrieval; claims use page bodies, not snippets.",
+  "sources": [
+    {
+      "id": "P-WB-01",
+      "title": "WorkBuddy 官方首页",
+      "url": "https://www.workbuddy.ai/",
+      "publisher": "Tencent WorkBuddy",
+      "checked_at": "2026-09-18",
+      "published_at": null,
+      "read_status": "empty_body",
+      "supports": [],
+      "limitations": "起始入口返回空正文；不能用于证实安装能力。",
+      "platform_runtime_tested": false
+    },
+    {
+      "id": "P-WB-02",
+      "title": "WorkBuddy 技能",
+      "url": "https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Skills-Market",
+      "publisher": "Tencent WorkBuddy",
+      "checked_at": "2026-09-18",
+      "published_at": null,
+      "read_status": "body_read",
+      "supports": [
+        "本地技能包上传入口",
+        "技能启用/关闭"
+      ],
+      "limitations": "本包实际导入未测试。",
+      "platform_runtime_tested": false
+    },
+    {
+      "id": "P-WB-03",
+      "title": "WorkBuddy 开放平台技能",
+      "url": "https://open.workbuddy.cn/docs/skill",
+      "publisher": "Tencent WorkBuddy",
+      "checked_at": "2026-09-18",
+      "published_at": null,
+      "read_status": "body_read",
+      "supports": [
+        "SKILL.md结构",
+        "description/description_zh/description_en/version/author字段",
+        "references资源"
+      ],
+      "limitations": "开放平台格式，不视为客户端实际兼容证明；ZIP包内层级仍需实测。",
+      "platform_runtime_tested": false
+    },
+    {
+      "id": "P-WB-04",
+      "title": "WorkBuddy 新建任务栏",
+      "url": "https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Task-Bar",
+      "publisher": "Tencent WorkBuddy",
+      "checked_at": "2026-09-18",
+      "published_at": null,
+      "read_status": "body_read",
+      "supports": [
+        "Ask/Craft模式",
+        "工作目录",
+        "技能选择"
+      ],
+      "limitations": "模式和模型显示可能随版本变化。",
+      "platform_runtime_tested": false
+    },
+    {
+      "id": "P-WB-05",
+      "title": "WorkBuddy 结果查看",
+      "url": "https://www.workbuddy.ai/docs/zh/workbuddy/Results",
+      "publisher": "Tencent WorkBuddy",
+      "checked_at": "2026-09-18",
+      "published_at": null,
+      "read_status": "body_read",
+      "supports": [
+        "产物列表",
+        "文件查看",
+        "Markdown等结果"
+      ],
+      "limitations": "未验证本报告保存与下载。",
+      "platform_runtime_tested": false
+    },
+    {
+      "id": "P-TR-01",
+      "title": "TRAE 国际站 IDE Skills 起始入口",
+      "url": "https://docs.trae.ai/ide/skills",
+      "publisher": "TRAE",
+      "checked_at": "2026-09-18",
+      "published_at": null,
+      "read_status": "empty_body",
+      "supports": [],
+      "limitations": "返回空正文；产品不是本机已确认的TraeWork CN，未据此写安装说明。",
+      "platform_runtime_tested": false
+    },
+    {
+      "id": "P-TR-02",
+      "title": "TraeWork CN 技能",
+      "url": "https://docs.trae.cn/work_skills",
+      "publisher": "TRAE",
+      "checked_at": "2026-09-18",
+      "published_at": null,
+      "read_status": "body_read",
+      "supports": [
+        "ZIP/.skill根级SKILL.md",
+        "name/description YAML",
+        "插件市场上传",
+        "显式/自动调用",
+        "本地云端范围"
+      ],
+      "limitations": "本机身份由只读安装元信息补充确认，未安装或运行本包。",
+      "platform_runtime_tested": false
+    },
+    {
+      "id": "P-TR-03",
+      "title": "TraeWork 产物空间",
+      "url": "https://docs.trae.cn/work_my-space",
+      "publisher": "TRAE",
+      "checked_at": "2026-09-18",
+      "published_at": null,
+      "read_status": "body_read",
+      "supports": [
+        "本地与云端产物",
+        "原任务与新对话的上下文差别",
+        "产物查看"
+      ],
+      "limitations": "完整报告输出仍需实测。",
+      "platform_runtime_tested": false
+    },
+    {
+      "id": "P-TR-04",
+      "title": "TraeWork 对话",
+      "url": "https://docs.trae.cn/work_chat",
+      "publisher": "TRAE",
+      "checked_at": "2026-09-18",
+      "published_at": null,
+      "read_status": "body_read",
+      "supports": [
+        "添加本地附件和项目文件",
+        "技能上下文",
+        "主动提问与等待"
+      ],
+      "limitations": "产品提供问答机制不保证本技能按单问规则执行。",
+      "platform_runtime_tested": false
+    },
+    {
+      "id": "P-CG-01",
+      "title": "OpenAI Docs Build skills",
+      "url": "https://learn.chatgpt.com/docs/build-skills",
+      "publisher": "OpenAI",
+      "checked_at": "2026-09-18",
+      "published_at": null,
+      "read_status": "body_read",
+      "supports": [
+        "Skill结构",
+        "独立技能及插件支持入口",
+        "显式隐式调用"
+      ],
+      "limitations": "没有建立所有账号套餐及客户端统一支持矩阵。",
+      "platform_runtime_tested": false
+    },
+    {
+      "id": "P-CG-02",
+      "title": "OpenAI 插件包装",
+      "url": "https://developers.openai.com/plugins/build/plugins",
+      "publisher": "OpenAI",
+      "checked_at": "2026-09-18",
+      "published_at": null,
+      "read_status": "body_read",
+      "supports": [
+        "portable root plugin.json",
+        "兼容.codex-plugin/plugin.json",
+        "skills目录",
+        "本地marketplace安装"
+      ],
+      "limitations": "本包选择兼容清单；未登记本机marketplace，未公开发布。",
+      "platform_runtime_tested": false
+    },
+    {
+      "id": "P-CG-03",
+      "title": "OpenAI Plugins",
+      "url": "https://learn.chatgpt.com/docs/plugins",
+      "publisher": "OpenAI",
+      "checked_at": "2026-09-18",
+      "published_at": null,
+      "read_status": "body_read",
+      "supports": [
+        "支持客户端入口",
+        "Plugins Directory",
+        "新会话",
+        "权限边界"
+      ],
+      "limitations": "本地来源能否出现在学生账号仍需现场验证。",
+      "platform_runtime_tested": false
+    },
+    {
+      "id": "P-CG-04",
+      "title": "OpenAI Skill controls",
+      "url": "https://learn.chatgpt.com/docs/enterprise/skills",
+      "publisher": "OpenAI",
+      "checked_at": "2026-09-18",
+      "published_at": null,
+      "read_status": "body_read",
+      "supports": [
+        "workspace/filesystem/plugin分发和权限彼此独立"
+      ],
+      "limitations": "不由本地目录复制推定获得工作空间权限。",
+      "platform_runtime_tested": false
+    },
+    {
+      "id": "P-CG-05",
+      "title": "OpenAI 插件测试",
+      "url": "https://developers.openai.com/plugins/deploy/connect-chatgpt",
+      "publisher": "OpenAI",
+      "checked_at": "2026-09-18",
+      "published_at": null,
+      "read_status": "body_read",
+      "supports": [
+        "skills-only插件可直接测试完整包",
+        "本地marketplace安装后新会话测试"
+      ],
+      "limitations": "本次只有候选包，没有真实平台测试结果。",
+      "platform_runtime_tested": false
+    },
+    {
+      "id": "P-DB-01",
+      "title": "豆包云盘使用须知",
+      "url": "https://www.doubao.com/legal/ai_space",
+      "publisher": "豆包",
+      "checked_at": "2026-09-18",
+      "published_at": null,
+      "read_status": "body_read",
+      "supports": [
+        "上传入口",
+        "登录要求",
+        "文件存储"
+      ],
+      "limitations": "未给出统一接受类型、数量、大小或全文上下文承诺。",
+      "platform_runtime_tested": false
+    },
+    {
+      "id": "P-DB-02",
+      "title": "豆包隐私政策",
+      "url": "https://www.doubao.com/legal/privacy",
+      "publisher": "豆包",
+      "checked_at": "2026-09-18",
+      "published_at": null,
+      "read_status": "body_read",
+      "supports": [
+        "选定云盘文档作为参考资料"
+      ],
+      "limitations": "不能据此断言整个附件被完整读取。",
+      "platform_runtime_tested": false
+    },
+    {
+      "id": "P-DB-03",
+      "title": "豆包聊天入口",
+      "url": "https://www.doubao.com/chat/",
+      "publisher": "豆包",
+      "checked_at": "2026-09-18",
+      "published_at": null,
+      "read_status": "empty_body",
+      "supports": [],
+      "limitations": "无法读取正文，无法核验当前上传限额或联网开关。",
+      "platform_runtime_tested": false
+    },
+    {
+      "id": "P-DB-04",
+      "title": "豆包特定分享入口",
+      "url": "https://www.doubao.com/share?botId=7356055716631232575",
+      "publisher": "豆包",
+      "checked_at": "2026-09-18",
+      "published_at": null,
+      "read_status": "body_unavailable",
+      "supports": [],
+      "limitations": "搜索摘要有文件类型和数量，但实际打开仅图像，因此未将摘要当作已核实能力。",
+      "platform_runtime_tested": false
+    }
+  ],
+  "local_observations": [
+    {
+      "id": "LOCAL-TRAE-01",
+      "date": "2026-09-18",
+      "read_only": true,
+      "evidence": "Shortcut target, executable version and product.json product metadata only",
+      "shortcut_label": "TraeWork CN",
+      "nameAlias": "TraeWork CN",
+      "product_name": "TRAE SOLO CN",
+      "appVersion": "0.1.67",
+      "fileVersion": "2.3.85573",
+      "build_date": "2026-09-16",
+      "runtime_tested": false
+    },
+    {
+      "id": "LOCAL-DOUBAO-01",
+      "date": "2026-09-18",
+      "read_only": true,
+      "evidence": "Shortcut target and executable version only",
+      "product_name": "Doubao Launcher",
+      "version": "2.29.10",
+      "runtime_tested": false
+    }
+  ]
+}

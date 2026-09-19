@@ -1,0 +1,900 @@
+{
+  "version": "0.1.0-rc1",
+  "checked_at": "2026-09-18",
+  "directory_count": 52,
+  "parent_groups": [
+    {
+      "major_id": "xjtlu-parent-english",
+      "name": "英语",
+      "entry_type": "parent_group",
+      "counted_in_directory": false
+    }
+  ],
+  "majors": [
+    {
+      "major_id": "xjtlu-materials-science-and-engineering-2",
+      "official_name": "材料科学与工程",
+      "aliases": [
+        "材料科学与工程"
+      ],
+      "entry_type": "directory_entry",
+      "parent_id": null,
+      "group": "材料化学与物理",
+      "source_id": "S-xjtlu-materials-science-and-engineering-2",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/materials-science-and-engineering-2",
+      "eligibility_status": "pending_verification",
+      "internal_pathways": [],
+      "profile": "majors/xjtlu-materials-science-and-engineering-2.md"
+    },
+    {
+      "major_id": "xjtlu-urban-planning-and-design",
+      "official_name": "城乡规划",
+      "aliases": [
+        "城乡规划"
+      ],
+      "entry_type": "directory_entry",
+      "parent_id": null,
+      "group": "建筑设计与城市",
+      "source_id": "S-xjtlu-urban-planning-and-design",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/urban-planning-and-design",
+      "eligibility_status": "pending_verification",
+      "internal_pathways": [
+        {
+          "pathway_id": "xjtlu-urban-planning-and-design--planning",
+          "name": "城市规划"
+        },
+        {
+          "pathway_id": "xjtlu-urban-planning-and-design--design",
+          "name": "城市设计"
+        }
+      ],
+      "profile": "majors/xjtlu-urban-planning-and-design.md"
+    },
+    {
+      "major_id": "xjtlu-communication-studies",
+      "official_name": "传播学",
+      "aliases": [
+        "传播学"
+      ],
+      "entry_type": "directory_entry",
+      "parent_id": null,
+      "group": "人文语言与传播",
+      "source_id": "S-xjtlu-communication-studies",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/communication-studies",
+      "eligibility_status": "pending_verification",
+      "internal_pathways": [
+        {
+          "pathway_id": "xjtlu-communication-studies--digital",
+          "name": "数字媒体"
+        },
+        {
+          "pathway_id": "xjtlu-communication-studies--journalism-pr",
+          "name": "新闻与公关"
+        },
+        {
+          "pathway_id": "xjtlu-communication-studies--film",
+          "name": "电影研究"
+        }
+      ],
+      "profile": "majors/xjtlu-communication-studies.md"
+    },
+    {
+      "major_id": "xjtlu-electrical-engineering",
+      "official_name": "电气工程及其自动化",
+      "aliases": [
+        "电气工程及其自动化"
+      ],
+      "entry_type": "directory_entry",
+      "parent_id": null,
+      "group": "电子工程与制造",
+      "source_id": "S-xjtlu-electrical-engineering",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/electrical-engineering",
+      "eligibility_status": "pending_verification",
+      "internal_pathways": [],
+      "profile": "majors/xjtlu-electrical-engineering.md"
+    },
+    {
+      "major_id": "xjtlu-electronic-science-and-technology",
+      "official_name": "电子科学与技术",
+      "aliases": [
+        "电子科学与技术"
+      ],
+      "entry_type": "directory_entry",
+      "parent_id": null,
+      "group": "电子工程与制造",
+      "source_id": "S-xjtlu-electronic-science-and-technology",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/electronic-science-and-technology",
+      "eligibility_status": "pending_verification",
+      "internal_pathways": [],
+      "profile": "majors/xjtlu-electronic-science-and-technology.md"
+    },
+    {
+      "major_id": "xjtlu-translation-and-interpreting",
+      "official_name": "翻译",
+      "aliases": [
+        "翻译"
+      ],
+      "entry_type": "directory_entry",
+      "parent_id": null,
+      "group": "人文语言与传播",
+      "source_id": "S-xjtlu-translation-and-interpreting",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/translation-and-interpreting",
+      "eligibility_status": "pending_verification",
+      "internal_pathways": [],
+      "profile": "majors/xjtlu-translation-and-interpreting.md"
+    },
+    {
+      "major_id": "xjtlu-business-administration",
+      "official_name": "工商管理",
+      "aliases": [
+        "工商管理"
+      ],
+      "entry_type": "directory_entry",
+      "parent_id": null,
+      "group": "商业经济与金融",
+      "source_id": "S-xjtlu-business-administration",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/business-administration",
+      "eligibility_status": "pending_verification",
+      "internal_pathways": [],
+      "profile": "majors/xjtlu-business-administration.md"
+    },
+    {
+      "major_id": "xjtlu-industrial-design",
+      "official_name": "工业设计",
+      "aliases": [
+        "工业设计"
+      ],
+      "entry_type": "directory_entry",
+      "parent_id": null,
+      "group": "建筑设计与城市",
+      "source_id": "S-xjtlu-industrial-design",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/industrial-design",
+      "eligibility_status": "pending_verification",
+      "internal_pathways": [],
+      "profile": "majors/xjtlu-industrial-design.md"
+    },
+    {
+      "major_id": "xjtlu-intelligent-supply-chain",
+      "official_name": "供应链管理",
+      "aliases": [
+        "供应链管理"
+      ],
+      "entry_type": "directory_entry",
+      "parent_id": null,
+      "group": "商业经济与金融",
+      "source_id": "S-xjtlu-intelligent-supply-chain",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/intelligent-supply-chain",
+      "eligibility_status": "pending_verification",
+      "internal_pathways": [],
+      "profile": "majors/xjtlu-intelligent-supply-chain.md"
+    },
+    {
+      "major_id": "xjtlu-film-and-television-production",
+      "official_name": "广播电视学",
+      "aliases": [
+        "广播电视学"
+      ],
+      "entry_type": "directory_entry",
+      "parent_id": null,
+      "group": "创意媒体与艺术",
+      "source_id": "S-xjtlu-film-and-television-production",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/film-and-television-production",
+      "eligibility_status": "pending_verification",
+      "internal_pathways": [],
+      "profile": "majors/xjtlu-film-and-television-production.md"
+    },
+    {
+      "major_id": "xjtlu-international-business-with-a-language",
+      "official_name": "国际商务",
+      "aliases": [
+        "国际商务"
+      ],
+      "entry_type": "directory_entry",
+      "parent_id": null,
+      "group": "商业经济与金融",
+      "source_id": "S-xjtlu-international-business-with-a-language",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/international-business-with-a-language",
+      "eligibility_status": "pending_verification",
+      "internal_pathways": [],
+      "profile": "majors/xjtlu-international-business-with-a-language.md"
+    },
+    {
+      "major_id": "xjtlu-international-relations",
+      "official_name": "国际事务与国际关系",
+      "aliases": [
+        "国际事务与国际关系"
+      ],
+      "entry_type": "directory_entry",
+      "parent_id": null,
+      "group": "人文语言与传播",
+      "source_id": "S-xjtlu-international-relations",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/international-relations",
+      "eligibility_status": "pending_verification",
+      "internal_pathways": [],
+      "profile": "majors/xjtlu-international-relations.md"
+    },
+    {
+      "major_id": "xjtlu-china-studies",
+      "official_name": "汉学与中国学",
+      "aliases": [
+        "汉学与中国学"
+      ],
+      "entry_type": "directory_entry",
+      "parent_id": null,
+      "group": "人文语言与传播",
+      "source_id": "S-xjtlu-china-studies",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/china-studies",
+      "eligibility_status": "pending_verification",
+      "internal_pathways": [
+        {
+          "pathway_id": "xjtlu-china-studies--economy-global",
+          "name": "经济与全球事务"
+        },
+        {
+          "pathway_id": "xjtlu-china-studies--chinese-education",
+          "name": "汉语国际教育"
+        },
+        {
+          "pathway_id": "xjtlu-china-studies--chinese-language",
+          "name": "汉语",
+          "condition": "官网注明仅面向非中文母语学生；不外推为整个专业限制。"
+        }
+      ],
+      "profile": "majors/xjtlu-china-studies.md"
+    },
+    {
+      "major_id": "xjtlu-environmental-science",
+      "official_name": "环境科学",
+      "aliases": [
+        "环境科学"
+      ],
+      "entry_type": "directory_entry",
+      "parent_id": null,
+      "group": "生命环境与健康",
+      "source_id": "S-xjtlu-environmental-science",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/environmental-science",
+      "eligibility_status": "pending_verification",
+      "internal_pathways": [
+        {
+          "pathway_id": "xjtlu-environmental-science--ecology",
+          "name": "生态学"
+        },
+        {
+          "pathway_id": "xjtlu-environmental-science--pollution",
+          "name": "污染治理与修复"
+        },
+        {
+          "pathway_id": "xjtlu-environmental-science--management",
+          "name": "环境管理"
+        }
+      ],
+      "profile": "majors/xjtlu-environmental-science.md"
+    },
+    {
+      "major_id": "xjtlu-accounting",
+      "official_name": "会计学",
+      "aliases": [
+        "会计学"
+      ],
+      "entry_type": "directory_entry",
+      "parent_id": null,
+      "group": "商业经济与金融",
+      "source_id": "S-xjtlu-accounting",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/accounting",
+      "eligibility_status": "pending_verification",
+      "internal_pathways": [],
+      "profile": "majors/xjtlu-accounting.md"
+    },
+    {
+      "major_id": "xjtlu-architecture",
+      "official_name": "建筑学",
+      "aliases": [
+        "建筑学"
+      ],
+      "entry_type": "directory_entry",
+      "parent_id": null,
+      "group": "建筑设计与城市",
+      "source_id": "S-xjtlu-architecture",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/architecture",
+      "eligibility_status": "pending_verification",
+      "internal_pathways": [
+        {
+          "pathway_id": "xjtlu-architecture--advanced-intelligent-design",
+          "name": "高级智能设计"
+        },
+        {
+          "pathway_id": "xjtlu-architecture--adaptive-design",
+          "name": "适应性设计"
+        }
+      ],
+      "profile": "majors/xjtlu-architecture.md"
+    },
+    {
+      "major_id": "xjtlu-economics",
+      "official_name": "经济学",
+      "aliases": [
+        "经济学"
+      ],
+      "entry_type": "directory_entry",
+      "parent_id": null,
+      "group": "商业经济与金融",
+      "source_id": "S-xjtlu-economics",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/economics",
+      "eligibility_status": "pending_verification",
+      "internal_pathways": [],
+      "profile": "majors/xjtlu-economics.md"
+    },
+    {
+      "major_id": "xjtlu-economics-and-finance",
+      "official_name": "经济与金融",
+      "aliases": [
+        "经济与金融"
+      ],
+      "entry_type": "directory_entry",
+      "parent_id": null,
+      "group": "商业经济与金融",
+      "source_id": "S-xjtlu-economics-and-finance",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/economics-and-finance",
+      "eligibility_status": "pending_verification",
+      "internal_pathways": [],
+      "profile": "majors/xjtlu-economics-and-finance.md"
+    },
+    {
+      "major_id": "xjtlu-actuarial-science",
+      "official_name": "精算学",
+      "aliases": [
+        "精算学"
+      ],
+      "entry_type": "directory_entry",
+      "parent_id": null,
+      "group": "数学统计与数据",
+      "source_id": "S-xjtlu-actuarial-science",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/actuarial-science",
+      "eligibility_status": "pending_verification",
+      "internal_pathways": [],
+      "profile": "majors/xjtlu-actuarial-science.md"
+    },
+    {
+      "major_id": "xjtlu-financial-mathematics",
+      "official_name": "金融数学",
+      "aliases": [
+        "金融数学"
+      ],
+      "entry_type": "directory_entry",
+      "parent_id": null,
+      "group": "数学统计与数据",
+      "source_id": "S-xjtlu-financial-mathematics",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/financial-mathematics",
+      "eligibility_status": "pending_verification",
+      "internal_pathways": [],
+      "profile": "majors/xjtlu-financial-mathematics.md"
+    },
+    {
+      "major_id": "xjtlu-intelligent-robotics-engineering",
+      "official_name": "机器人工程",
+      "aliases": [
+        "机器人工程"
+      ],
+      "entry_type": "directory_entry",
+      "parent_id": null,
+      "group": "电子工程与制造",
+      "source_id": "S-xjtlu-intelligent-robotics-engineering",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/intelligent-robotics-engineering",
+      "eligibility_status": "pending_verification",
+      "internal_pathways": [],
+      "profile": "majors/xjtlu-intelligent-robotics-engineering.md"
+    },
+    {
+      "major_id": "xjtlu-computer-science-and-technology",
+      "official_name": "计算机科学与技术",
+      "aliases": [
+        "计算机科学与技术"
+      ],
+      "entry_type": "directory_entry",
+      "parent_id": null,
+      "group": "计算人工智能与系统",
+      "source_id": "S-xjtlu-computer-science-and-technology",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/computer-science-and-technology",
+      "eligibility_status": "pending_verification",
+      "internal_pathways": [],
+      "profile": "majors/xjtlu-computer-science-and-technology.md"
+    },
+    {
+      "major_id": "xjtlu-mechatronics-and-robotic-systems",
+      "official_name": "机械电子工程",
+      "aliases": [
+        "机械电子工程"
+      ],
+      "entry_type": "directory_entry",
+      "parent_id": null,
+      "group": "电子工程与制造",
+      "source_id": "S-xjtlu-mechatronics-and-robotic-systems",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/mechatronics-and-robotic-systems",
+      "eligibility_status": "pending_verification",
+      "internal_pathways": [],
+      "profile": "majors/xjtlu-mechatronics-and-robotic-systems.md"
+    },
+    {
+      "major_id": "xjtlu-artificial-intelligence",
+      "official_name": "人工智能",
+      "aliases": [
+        "人工智能"
+      ],
+      "entry_type": "directory_entry",
+      "parent_id": null,
+      "group": "计算人工智能与系统",
+      "source_id": "S-xjtlu-artificial-intelligence",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/artificial-intelligence",
+      "eligibility_status": "pending_verification",
+      "internal_pathways": [
+        {
+          "pathway_id": "xjtlu-artificial-intelligence--aiai-xec",
+          "name": "人工智能行业前沿方向",
+          "location": "苏州太仓"
+        },
+        {
+          "pathway_id": "xjtlu-artificial-intelligence--is-sip",
+          "name": "智能系统方向",
+          "location": "苏州工业园区"
+        }
+      ],
+      "profile": "majors/xjtlu-artificial-intelligence.md"
+    },
+    {
+      "major_id": "xjtlu-human-resource-management",
+      "official_name": "人力资源管理",
+      "aliases": [
+        "人力资源管理"
+      ],
+      "entry_type": "directory_entry",
+      "parent_id": null,
+      "group": "商业经济与金融",
+      "source_id": "S-xjtlu-human-resource-management",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/human-resource-management",
+      "eligibility_status": "pending_verification",
+      "internal_pathways": [],
+      "profile": "majors/xjtlu-human-resource-management.md"
+    },
+    {
+      "major_id": "xjtlu-biological-sciences",
+      "official_name": "生物科学",
+      "aliases": [
+        "生物科学"
+      ],
+      "entry_type": "directory_entry",
+      "parent_id": null,
+      "group": "生命环境与健康",
+      "source_id": "S-xjtlu-biological-sciences",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/biological-sciences",
+      "eligibility_status": "pending_verification",
+      "internal_pathways": [],
+      "profile": "majors/xjtlu-biological-sciences.md"
+    },
+    {
+      "major_id": "xjtlu-bioinformatics",
+      "official_name": "生物信息学",
+      "aliases": [
+        "生物信息学"
+      ],
+      "entry_type": "directory_entry",
+      "parent_id": null,
+      "group": "生命环境与健康",
+      "source_id": "S-xjtlu-bioinformatics",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/bioinformatics",
+      "eligibility_status": "pending_verification",
+      "internal_pathways": [],
+      "profile": "majors/xjtlu-bioinformatics.md"
+    },
+    {
+      "major_id": "xjtlu-biomedical-sciences",
+      "official_name": "生物医学科学",
+      "aliases": [
+        "生物医学科学"
+      ],
+      "entry_type": "directory_entry",
+      "parent_id": null,
+      "group": "生命环境与健康",
+      "source_id": "S-xjtlu-biomedical-sciences",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/biomedical-sciences",
+      "eligibility_status": "pending_verification",
+      "internal_pathways": [],
+      "profile": "majors/xjtlu-biomedical-sciences.md"
+    },
+    {
+      "major_id": "xjtlu-biopharmaceuticals",
+      "official_name": "生物制药",
+      "aliases": [
+        "生物制药"
+      ],
+      "entry_type": "directory_entry",
+      "parent_id": null,
+      "group": "生命环境与健康",
+      "source_id": "S-xjtlu-biopharmaceuticals",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/biopharmaceuticals",
+      "eligibility_status": "pending_verification",
+      "internal_pathways": [],
+      "profile": "majors/xjtlu-biopharmaceuticals.md"
+    },
+    {
+      "major_id": "xjtlu-marketing",
+      "official_name": "市场营销",
+      "aliases": [
+        "市场营销"
+      ],
+      "entry_type": "directory_entry",
+      "parent_id": null,
+      "group": "商业经济与金融",
+      "source_id": "S-xjtlu-marketing",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/marketing",
+      "eligibility_status": "pending_verification",
+      "internal_pathways": [],
+      "profile": "majors/xjtlu-marketing.md"
+    },
+    {
+      "major_id": "xjtlu-data-science-and-big-data-technology",
+      "official_name": "数据科学与大数据技术",
+      "aliases": [
+        "数据科学与大数据技术"
+      ],
+      "entry_type": "directory_entry",
+      "parent_id": null,
+      "group": "计算人工智能与系统",
+      "source_id": "S-xjtlu-data-science-and-big-data-technology",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/data-science-and-big-data-technology",
+      "eligibility_status": "pending_verification",
+      "internal_pathways": [],
+      "profile": "majors/xjtlu-data-science-and-big-data-technology.md"
+    },
+    {
+      "major_id": "xjtlu-digital-media-technology",
+      "official_name": "数字媒体技术",
+      "aliases": [
+        "数字媒体技术"
+      ],
+      "entry_type": "directory_entry",
+      "parent_id": null,
+      "group": "计算人工智能与系统",
+      "source_id": "S-xjtlu-digital-media-technology",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/digital-media-technology",
+      "eligibility_status": "pending_verification",
+      "internal_pathways": [],
+      "profile": "majors/xjtlu-digital-media-technology.md"
+    },
+    {
+      "major_id": "xjtlu-digital-media-arts",
+      "official_name": "数字媒体艺术",
+      "aliases": [
+        "数字媒体艺术"
+      ],
+      "entry_type": "directory_entry",
+      "parent_id": null,
+      "group": "创意媒体与艺术",
+      "source_id": "S-xjtlu-digital-media-arts",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/digital-media-arts",
+      "eligibility_status": "pending_verification",
+      "internal_pathways": [],
+      "profile": "majors/xjtlu-digital-media-arts.md"
+    },
+    {
+      "major_id": "xjtlu-telecommunications-engineering",
+      "official_name": "通信工程",
+      "aliases": [
+        "通信工程"
+      ],
+      "entry_type": "directory_entry",
+      "parent_id": null,
+      "group": "电子工程与制造",
+      "source_id": "S-xjtlu-telecommunications-engineering",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/telecommunications-engineering",
+      "eligibility_status": "pending_verification",
+      "internal_pathways": [],
+      "profile": "majors/xjtlu-telecommunications-engineering.md"
+    },
+    {
+      "major_id": "xjtlu-civil-engineering",
+      "official_name": "土木工程",
+      "aliases": [
+        "土木工程"
+      ],
+      "entry_type": "directory_entry",
+      "parent_id": null,
+      "group": "建筑设计与城市",
+      "source_id": "S-xjtlu-civil-engineering",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/civil-engineering",
+      "eligibility_status": "pending_verification",
+      "internal_pathways": [
+        {
+          "pathway_id": "xjtlu-civil-engineering--civil-environment",
+          "name": "土木与环境工程"
+        },
+        {
+          "pathway_id": "xjtlu-civil-engineering--smart-construction",
+          "name": "智能建筑工程与管理"
+        }
+      ],
+      "profile": "majors/xjtlu-civil-engineering.md"
+    },
+    {
+      "major_id": "xjtlu-microelectronic-science-and-engineering",
+      "official_name": "微电子科学与工程",
+      "aliases": [
+        "微电子科学与工程"
+      ],
+      "entry_type": "directory_entry",
+      "parent_id": null,
+      "group": "电子工程与制造",
+      "source_id": "S-xjtlu-microelectronic-science-and-engineering",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/microelectronic-science-and-engineering",
+      "eligibility_status": "pending_verification",
+      "internal_pathways": [],
+      "profile": "majors/xjtlu-microelectronic-science-and-engineering.md"
+    },
+    {
+      "major_id": "xjtlu-internet-of-things-engineering",
+      "official_name": "物联网工程",
+      "aliases": [
+        "物联网工程"
+      ],
+      "entry_type": "directory_entry",
+      "parent_id": null,
+      "group": "电子工程与制造",
+      "source_id": "S-xjtlu-internet-of-things-engineering",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/internet-of-things-engineering",
+      "eligibility_status": "pending_verification",
+      "internal_pathways": [],
+      "profile": "majors/xjtlu-internet-of-things-engineering.md"
+    },
+    {
+      "major_id": "xjtlu-psychology-bsc",
+      "official_name": "心理学",
+      "aliases": [
+        "心理学"
+      ],
+      "entry_type": "directory_entry",
+      "parent_id": null,
+      "group": "生命环境与健康",
+      "source_id": "S-xjtlu-psychology-bsc",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/psychology-bsc",
+      "eligibility_status": "pending_verification",
+      "internal_pathways": [],
+      "profile": "majors/xjtlu-psychology-bsc.md"
+    },
+    {
+      "major_id": "xjtlu-information-management-and-information-systems",
+      "official_name": "信息管理与信息系统",
+      "aliases": [
+        "信息管理与信息系统"
+      ],
+      "entry_type": "directory_entry",
+      "parent_id": null,
+      "group": "商业经济与金融",
+      "source_id": "S-xjtlu-information-management-and-information-systems",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/information-management-and-information-systems",
+      "eligibility_status": "pending_verification",
+      "internal_pathways": [],
+      "profile": "majors/xjtlu-information-management-and-information-systems.md"
+    },
+    {
+      "major_id": "xjtlu-information-and-computing-science",
+      "official_name": "信息与计算科学",
+      "aliases": [
+        "信息与计算科学"
+      ],
+      "entry_type": "directory_entry",
+      "parent_id": null,
+      "group": "计算人工智能与系统",
+      "source_id": "S-xjtlu-information-and-computing-science",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/information-and-computing-science",
+      "eligibility_status": "pending_verification",
+      "internal_pathways": [],
+      "profile": "majors/xjtlu-information-and-computing-science.md"
+    },
+    {
+      "major_id": "xjtlu-pharmaceutical-sciences",
+      "official_name": "药学",
+      "aliases": [
+        "药学"
+      ],
+      "entry_type": "directory_entry",
+      "parent_id": null,
+      "group": "生命环境与健康",
+      "source_id": "S-xjtlu-pharmaceutical-sciences",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/pharmaceutical-sciences",
+      "eligibility_status": "pending_verification",
+      "internal_pathways": [],
+      "profile": "majors/xjtlu-pharmaceutical-sciences.md"
+    },
+    {
+      "major_id": "xjtlu-filmmaking",
+      "official_name": "影视摄影与制作​",
+      "aliases": [
+        "影视摄影与制作"
+      ],
+      "entry_type": "directory_entry",
+      "parent_id": null,
+      "group": "创意媒体与艺术",
+      "source_id": "S-xjtlu-filmmaking",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/filmmaking",
+      "eligibility_status": "pending_verification",
+      "internal_pathways": [],
+      "profile": "majors/xjtlu-filmmaking.md"
+    },
+    {
+      "major_id": "xjtlu-applied-chemistry",
+      "official_name": "应用化学",
+      "aliases": [
+        "应用化学"
+      ],
+      "entry_type": "directory_entry",
+      "parent_id": null,
+      "group": "材料化学与物理",
+      "source_id": "S-xjtlu-applied-chemistry",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/applied-chemistry",
+      "eligibility_status": "pending_verification",
+      "internal_pathways": [],
+      "profile": "majors/xjtlu-applied-chemistry.md"
+    },
+    {
+      "major_id": "xjtlu-applied-mathematics",
+      "official_name": "应用数学",
+      "aliases": [
+        "应用数学",
+        "数学与应用数学（2026章程名称，对应关系待校方确认）"
+      ],
+      "entry_type": "directory_entry",
+      "parent_id": null,
+      "group": "数学统计与数据",
+      "source_id": "S-xjtlu-applied-mathematics",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/applied-mathematics",
+      "eligibility_status": "pending_verification",
+      "internal_pathways": [],
+      "profile": "majors/xjtlu-applied-mathematics.md"
+    },
+    {
+      "major_id": "xjtlu-applied-statistics",
+      "official_name": "应用统计学",
+      "aliases": [
+        "应用统计学"
+      ],
+      "entry_type": "directory_entry",
+      "parent_id": null,
+      "group": "数学统计与数据",
+      "source_id": "S-xjtlu-applied-statistics",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/applied-statistics",
+      "eligibility_status": "pending_verification",
+      "internal_pathways": [],
+      "profile": "majors/xjtlu-applied-statistics.md"
+    },
+    {
+      "major_id": "xjtlu-applied-physics-bsc",
+      "official_name": "应用物理学",
+      "aliases": [
+        "应用物理学"
+      ],
+      "entry_type": "directory_entry",
+      "parent_id": null,
+      "group": "材料化学与物理",
+      "source_id": "S-xjtlu-applied-physics-bsc",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/applied-physics-bsc",
+      "eligibility_status": "pending_verification",
+      "internal_pathways": [],
+      "profile": "majors/xjtlu-applied-physics-bsc.md"
+    },
+    {
+      "major_id": "xjtlu-english-and-communication-studies",
+      "official_name": "英语（传媒英语）",
+      "aliases": [
+        "英语（传媒英语）"
+      ],
+      "entry_type": "direction",
+      "parent_id": "xjtlu-parent-english",
+      "group": "人文语言与传播",
+      "source_id": "S-xjtlu-english-and-communication-studies",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/english-and-communication-studies",
+      "eligibility_status": "pending_verification",
+      "internal_pathways": [],
+      "profile": "majors/xjtlu-english-and-communication-studies.md"
+    },
+    {
+      "major_id": "xjtlu-english-and-business",
+      "official_name": "英语（金融商务英语）",
+      "aliases": [
+        "英语（金融商务英语）"
+      ],
+      "entry_type": "direction",
+      "parent_id": "xjtlu-parent-english",
+      "group": "人文语言与传播",
+      "source_id": "S-xjtlu-english-and-business",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/english-and-business",
+      "eligibility_status": "pending_verification",
+      "internal_pathways": [
+        {
+          "pathway_id": "xjtlu-english-and-business--finance-economics",
+          "name": "金融经济"
+        },
+        {
+          "pathway_id": "xjtlu-english-and-business--business-management",
+          "name": "商务管理"
+        }
+      ],
+      "profile": "majors/xjtlu-english-and-business.md"
+    },
+    {
+      "major_id": "xjtlu-english-studies",
+      "official_name": "英语（全球语境下的英语研究）",
+      "aliases": [
+        "英语（全球语境下的英语研究）"
+      ],
+      "entry_type": "direction",
+      "parent_id": "xjtlu-parent-english",
+      "group": "人文语言与传播",
+      "source_id": "S-xjtlu-english-studies",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/english-studies",
+      "eligibility_status": "pending_verification",
+      "internal_pathways": [],
+      "profile": "majors/xjtlu-english-studies.md"
+    },
+    {
+      "major_id": "xjtlu-applied-linguistics",
+      "official_name": "英语（应用语言学）",
+      "aliases": [
+        "英语（应用语言学）"
+      ],
+      "entry_type": "direction",
+      "parent_id": "xjtlu-parent-english",
+      "group": "人文语言与传播",
+      "source_id": "S-xjtlu-applied-linguistics",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/applied-linguistics",
+      "eligibility_status": "pending_verification",
+      "internal_pathways": [],
+      "profile": "majors/xjtlu-applied-linguistics.md"
+    },
+    {
+      "major_id": "xjtlu-arts-technology-and-entertainment",
+      "official_name": "艺术与科技",
+      "aliases": [
+        "艺术与科技"
+      ],
+      "entry_type": "directory_entry",
+      "parent_id": null,
+      "group": "创意媒体与艺术",
+      "source_id": "S-xjtlu-arts-technology-and-entertainment",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/arts-technology-and-entertainment",
+      "eligibility_status": "pending_verification",
+      "internal_pathways": [
+        {
+          "pathway_id": "xjtlu-arts-technology-and-entertainment--immersive",
+          "name": "动态与沉浸式艺术"
+        },
+        {
+          "pathway_id": "xjtlu-arts-technology-and-entertainment--games",
+          "name": "游戏设计与开发"
+        },
+        {
+          "pathway_id": "xjtlu-arts-technology-and-entertainment--audiovisual",
+          "name": "视听内容创作"
+        },
+        {
+          "pathway_id": "xjtlu-arts-technology-and-entertainment--creative-management",
+          "name": "创意策划管理"
+        }
+      ],
+      "profile": "majors/xjtlu-arts-technology-and-entertainment.md"
+    },
+    {
+      "major_id": "xjtlu-intelligent-manufacturing-engineering",
+      "official_name": "智能制造工程",
+      "aliases": [
+        "智能制造工程"
+      ],
+      "entry_type": "directory_entry",
+      "parent_id": null,
+      "group": "电子工程与制造",
+      "source_id": "S-xjtlu-intelligent-manufacturing-engineering",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/intelligent-manufacturing-engineering",
+      "eligibility_status": "pending_verification",
+      "internal_pathways": [],
+      "profile": "majors/xjtlu-intelligent-manufacturing-engineering.md"
+    }
+  ]
+}

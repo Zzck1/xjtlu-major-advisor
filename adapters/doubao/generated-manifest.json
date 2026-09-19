@@ -1,0 +1,328 @@
+{
+  "version": "0.1.1-rc1",
+  "majors": [
+    {
+      "major_id": "xjtlu-materials-science-and-engineering-2",
+      "group_file": "details/G01-材料化学与物理.md",
+      "source_file": "references/majors/xjtlu-materials-science-and-engineering-2.md",
+      "source_sha256": "7dad6c0f5e07896fe3bb6e46536603712dbbf8817e9e2f0b8ae8c74ec3e6399d"
+    },
+    {
+      "major_id": "xjtlu-applied-chemistry",
+      "group_file": "details/G01-材料化学与物理.md",
+      "source_file": "references/majors/xjtlu-applied-chemistry.md",
+      "source_sha256": "e0a9d2ae5970ab9ef5f30bf1a4ca9c370fcf71950a090eb8412fddaba9d8334f"
+    },
+    {
+      "major_id": "xjtlu-applied-physics-bsc",
+      "group_file": "details/G01-材料化学与物理.md",
+      "source_file": "references/majors/xjtlu-applied-physics-bsc.md",
+      "source_sha256": "e5c54748c65cdbcc76637e1a8f0454a54fbcf449d9a6a1028e4213f5ed806785"
+    },
+    {
+      "major_id": "xjtlu-urban-planning-and-design",
+      "group_file": "details/G02-建筑设计与城市.md",
+      "source_file": "references/majors/xjtlu-urban-planning-and-design.md",
+      "source_sha256": "c3c0162881baa32d3f81c6908ca0cf4719fe2ad540a08f5569b009bd3df29b99"
+    },
+    {
+      "major_id": "xjtlu-industrial-design",
+      "group_file": "details/G02-建筑设计与城市.md",
+      "source_file": "references/majors/xjtlu-industrial-design.md",
+      "source_sha256": "a2e8d13ab3e55f6df72fdfb92c6fce9be5858f634ead8ebf3dadbcc914620c79"
+    },
+    {
+      "major_id": "xjtlu-architecture",
+      "group_file": "details/G02-建筑设计与城市.md",
+      "source_file": "references/majors/xjtlu-architecture.md",
+      "source_sha256": "052b79b4ba806c59ff4b0c9cd1764f14b8fd8d05af04470b08da6b9cd045c139"
+    },
+    {
+      "major_id": "xjtlu-civil-engineering",
+      "group_file": "details/G02-建筑设计与城市.md",
+      "source_file": "references/majors/xjtlu-civil-engineering.md",
+      "source_sha256": "d1c2244c7594d3a1d54c3c7a6fcfddd5a87357717e427bc9f2f4fa52bffb9627"
+    },
+    {
+      "major_id": "xjtlu-communication-studies",
+      "group_file": "details/G03-人文语言与传播.md",
+      "source_file": "references/majors/xjtlu-communication-studies.md",
+      "source_sha256": "448400831b10501db6e2b7dfe4b6b4ad65ad6ab284548a41a51e1d3287a891cf"
+    },
+    {
+      "major_id": "xjtlu-translation-and-interpreting",
+      "group_file": "details/G03-人文语言与传播.md",
+      "source_file": "references/majors/xjtlu-translation-and-interpreting.md",
+      "source_sha256": "2a4c63731b703b9444404b3c561d402fec6a1148aeee3d89a21d377fdd04a729"
+    },
+    {
+      "major_id": "xjtlu-international-relations",
+      "group_file": "details/G03-人文语言与传播.md",
+      "source_file": "references/majors/xjtlu-international-relations.md",
+      "source_sha256": "598640dc66821e2df86ed64787a1d316d155da3354d3e833b271eec569319f67"
+    },
+    {
+      "major_id": "xjtlu-china-studies",
+      "group_file": "details/G03-人文语言与传播.md",
+      "source_file": "references/majors/xjtlu-china-studies.md",
+      "source_sha256": "69d6963303f796fde5b60896ec5ac2e85c4045679d402a58091e5c1aa7b7795a"
+    },
+    {
+      "major_id": "xjtlu-english-and-communication-studies",
+      "group_file": "details/G03-人文语言与传播.md",
+      "source_file": "references/majors/xjtlu-english-and-communication-studies.md",
+      "source_sha256": "50af325122c3dfd74763afa8781bf566e16b8898bb41b561fc9010a90867444b"
+    },
+    {
+      "major_id": "xjtlu-english-and-business",
+      "group_file": "details/G03-人文语言与传播.md",
+      "source_file": "references/majors/xjtlu-english-and-business.md",
+      "source_sha256": "9e9f5586881b218e965573f77ba9c6267cb511cc5f4bc517a6986dea2811505a"
+    },
+    {
+      "major_id": "xjtlu-english-studies",
+      "group_file": "details/G03-人文语言与传播.md",
+      "source_file": "references/majors/xjtlu-english-studies.md",
+      "source_sha256": "5aeca46abc7d95962bac0a70e8f96a8015ce8b1424607abbf68b34dc20cbaba2"
+    },
+    {
+      "major_id": "xjtlu-applied-linguistics",
+      "group_file": "details/G03-人文语言与传播.md",
+      "source_file": "references/majors/xjtlu-applied-linguistics.md",
+      "source_sha256": "474dfa87fd6c409f3ff27a53a50d0fcd7fbfc938a2bbfff77052458785e00d9a"
+    },
+    {
+      "major_id": "xjtlu-electrical-engineering",
+      "group_file": "details/G04-电子工程与制造.md",
+      "source_file": "references/majors/xjtlu-electrical-engineering.md",
+      "source_sha256": "2a4d905db33ef9b2b2cf6cfd7d47d936472f65b092f404cdd0864e1ad2ba067a"
+    },
+    {
+      "major_id": "xjtlu-electronic-science-and-technology",
+      "group_file": "details/G04-电子工程与制造.md",
+      "source_file": "references/majors/xjtlu-electronic-science-and-technology.md",
+      "source_sha256": "70d7f260a93ba1697d72d50d40eed8f7b140ed2ac0e55248cc02cb7400a282e9"
+    },
+    {
+      "major_id": "xjtlu-intelligent-robotics-engineering",
+      "group_file": "details/G04-电子工程与制造.md",
+      "source_file": "references/majors/xjtlu-intelligent-robotics-engineering.md",
+      "source_sha256": "df29e7bbab0936c683d2c2ba86ea4b3e998ab89c47334269de2348259b133582"
+    },
+    {
+      "major_id": "xjtlu-mechatronics-and-robotic-systems",
+      "group_file": "details/G04-电子工程与制造.md",
+      "source_file": "references/majors/xjtlu-mechatronics-and-robotic-systems.md",
+      "source_sha256": "2c4341d434d0788c1087dd6c7660c2e53a3637d277fc6285e9f3e2c8df73235b"
+    },
+    {
+      "major_id": "xjtlu-telecommunications-engineering",
+      "group_file": "details/G04-电子工程与制造.md",
+      "source_file": "references/majors/xjtlu-telecommunications-engineering.md",
+      "source_sha256": "7a25d281ae6d25f33e2136bf903d6258e974f2a68e9a2515319438a4768e3b68"
+    },
+    {
+      "major_id": "xjtlu-microelectronic-science-and-engineering",
+      "group_file": "details/G04-电子工程与制造.md",
+      "source_file": "references/majors/xjtlu-microelectronic-science-and-engineering.md",
+      "source_sha256": "4a36f841deed43d8eee730455dee69464a9633ffd35884baa599cd3ac52ef60d"
+    },
+    {
+      "major_id": "xjtlu-internet-of-things-engineering",
+      "group_file": "details/G04-电子工程与制造.md",
+      "source_file": "references/majors/xjtlu-internet-of-things-engineering.md",
+      "source_sha256": "ab1270b295ca49b39425285d1e728e7a0e64d63410ff689bb9cd67c1f524d5a9"
+    },
+    {
+      "major_id": "xjtlu-intelligent-manufacturing-engineering",
+      "group_file": "details/G04-电子工程与制造.md",
+      "source_file": "references/majors/xjtlu-intelligent-manufacturing-engineering.md",
+      "source_sha256": "39a86c69d800101dd5e83dcd937a317a0ebc1159c733b399b7cfaf5aa7339972"
+    },
+    {
+      "major_id": "xjtlu-business-administration",
+      "group_file": "details/G05-商业经济与金融.md",
+      "source_file": "references/majors/xjtlu-business-administration.md",
+      "source_sha256": "7ffe88eab6efe4c59954f03f024259366a9b444871a1ef0f3265bd041935833f"
+    },
+    {
+      "major_id": "xjtlu-intelligent-supply-chain",
+      "group_file": "details/G05-商业经济与金融.md",
+      "source_file": "references/majors/xjtlu-intelligent-supply-chain.md",
+      "source_sha256": "27bf2ef2b0239adafca03aed2aec91ca6bf8bf910f11205c3c04c0c995157b3d"
+    },
+    {
+      "major_id": "xjtlu-international-business-with-a-language",
+      "group_file": "details/G05-商业经济与金融.md",
+      "source_file": "references/majors/xjtlu-international-business-with-a-language.md",
+      "source_sha256": "d54021d2113122b3df2c1fcb02ba62344723d107ac4f372bcfe1732392c86bc7"
+    },
+    {
+      "major_id": "xjtlu-accounting",
+      "group_file": "details/G05-商业经济与金融.md",
+      "source_file": "references/majors/xjtlu-accounting.md",
+      "source_sha256": "d445c40580bbcd8fbf437a21c89e6067caa86caae498e6a2de4b0842388a894a"
+    },
+    {
+      "major_id": "xjtlu-economics",
+      "group_file": "details/G05-商业经济与金融.md",
+      "source_file": "references/majors/xjtlu-economics.md",
+      "source_sha256": "df1b659cfcc6c8582915a44eb41c21cbec491ffb68c117e5ac82b0732ea861bd"
+    },
+    {
+      "major_id": "xjtlu-economics-and-finance",
+      "group_file": "details/G05-商业经济与金融.md",
+      "source_file": "references/majors/xjtlu-economics-and-finance.md",
+      "source_sha256": "d97ec5ef9242e74c4d47f5e20d294a8b5a8ff98369c9bab568edb9e7ee05e3dd"
+    },
+    {
+      "major_id": "xjtlu-human-resource-management",
+      "group_file": "details/G05-商业经济与金融.md",
+      "source_file": "references/majors/xjtlu-human-resource-management.md",
+      "source_sha256": "982a25cbd46e51b8ed4bd07edcc6650cfdce44b7e040e053dc4ac0e73443ebc7"
+    },
+    {
+      "major_id": "xjtlu-marketing",
+      "group_file": "details/G05-商业经济与金融.md",
+      "source_file": "references/majors/xjtlu-marketing.md",
+      "source_sha256": "5ed62d5d59ea81f2089794c7b2404cb5a8e4c5163318478e70377656bfde03b9"
+    },
+    {
+      "major_id": "xjtlu-information-management-and-information-systems",
+      "group_file": "details/G05-商业经济与金融.md",
+      "source_file": "references/majors/xjtlu-information-management-and-information-systems.md",
+      "source_sha256": "2fbdbd6114ad739c17a8b45fa1116a96c88b294c4cd3d2ef41af1d02b7420356"
+    },
+    {
+      "major_id": "xjtlu-film-and-television-production",
+      "group_file": "details/G06-创意媒体与艺术.md",
+      "source_file": "references/majors/xjtlu-film-and-television-production.md",
+      "source_sha256": "b52a4d316272c3fd97fb88ea13be76d0cdeb8eb72732bd23f7b2b64872d12d01"
+    },
+    {
+      "major_id": "xjtlu-digital-media-arts",
+      "group_file": "details/G06-创意媒体与艺术.md",
+      "source_file": "references/majors/xjtlu-digital-media-arts.md",
+      "source_sha256": "4edfbd7ae45b4d10df6fa365955f0dcd03b5ed11a947f2b95497fa08c4ef98a2"
+    },
+    {
+      "major_id": "xjtlu-filmmaking",
+      "group_file": "details/G06-创意媒体与艺术.md",
+      "source_file": "references/majors/xjtlu-filmmaking.md",
+      "source_sha256": "412778c43570573de7cb27eb3280018af59f97436664ebbbf6e4d5a1a496dfa8"
+    },
+    {
+      "major_id": "xjtlu-arts-technology-and-entertainment",
+      "group_file": "details/G06-创意媒体与艺术.md",
+      "source_file": "references/majors/xjtlu-arts-technology-and-entertainment.md",
+      "source_sha256": "a115b6f32c036043169d302718082fe784258161cdad7e6764d188a38baaa97c"
+    },
+    {
+      "major_id": "xjtlu-environmental-science",
+      "group_file": "details/G07-生命环境与健康.md",
+      "source_file": "references/majors/xjtlu-environmental-science.md",
+      "source_sha256": "71a5f9293f8f8ea5c20c5436fce5df05f1c09348ae5e4d214b9fbdfa128d55bf"
+    },
+    {
+      "major_id": "xjtlu-biological-sciences",
+      "group_file": "details/G07-生命环境与健康.md",
+      "source_file": "references/majors/xjtlu-biological-sciences.md",
+      "source_sha256": "b0b45bc605d9a878c0827999b1c01809e74c2d07f27be3e71aeb243c39c7a881"
+    },
+    {
+      "major_id": "xjtlu-bioinformatics",
+      "group_file": "details/G07-生命环境与健康.md",
+      "source_file": "references/majors/xjtlu-bioinformatics.md",
+      "source_sha256": "0e25fbe369d27b2fa6ea4eff6f4e1fb38b52aad6025fa45594b7581a9d1fdf06"
+    },
+    {
+      "major_id": "xjtlu-biomedical-sciences",
+      "group_file": "details/G07-生命环境与健康.md",
+      "source_file": "references/majors/xjtlu-biomedical-sciences.md",
+      "source_sha256": "d327290d23bb480340f877d42a43f561d10193eeea90cf1864512acc6f316f83"
+    },
+    {
+      "major_id": "xjtlu-biopharmaceuticals",
+      "group_file": "details/G07-生命环境与健康.md",
+      "source_file": "references/majors/xjtlu-biopharmaceuticals.md",
+      "source_sha256": "ead59676255a97635c6d0bd1bf4b75de9a93998452de30012f7c36d33d5896c2"
+    },
+    {
+      "major_id": "xjtlu-psychology-bsc",
+      "group_file": "details/G07-生命环境与健康.md",
+      "source_file": "references/majors/xjtlu-psychology-bsc.md",
+      "source_sha256": "36bb006a4e0f0b42e3db4969cc9cad48ed8ba39ede474bd62b1b301e1dcab656"
+    },
+    {
+      "major_id": "xjtlu-pharmaceutical-sciences",
+      "group_file": "details/G07-生命环境与健康.md",
+      "source_file": "references/majors/xjtlu-pharmaceutical-sciences.md",
+      "source_sha256": "ca814b77cd11c9fb98ce3b91fae9a70aa3ebda036a1889b4f1fac0710bd49719"
+    },
+    {
+      "major_id": "xjtlu-actuarial-science",
+      "group_file": "details/G08-数学统计与数据.md",
+      "source_file": "references/majors/xjtlu-actuarial-science.md",
+      "source_sha256": "05b170e9f933340c1a762920763b6b5a9fc0da8ccf5c8998b81e3936f8f1b46f"
+    },
+    {
+      "major_id": "xjtlu-financial-mathematics",
+      "group_file": "details/G08-数学统计与数据.md",
+      "source_file": "references/majors/xjtlu-financial-mathematics.md",
+      "source_sha256": "a95aa008638a38927f4f88a86f39afad97f12ffcbdf7ad7d413565d57c3971eb"
+    },
+    {
+      "major_id": "xjtlu-applied-mathematics",
+      "group_file": "details/G08-数学统计与数据.md",
+      "source_file": "references/majors/xjtlu-applied-mathematics.md",
+      "source_sha256": "2f608c7642e0c6304e99d1951d8c0ab78d70acce6d7640ca3394db7682d6fabe"
+    },
+    {
+      "major_id": "xjtlu-applied-statistics",
+      "group_file": "details/G08-数学统计与数据.md",
+      "source_file": "references/majors/xjtlu-applied-statistics.md",
+      "source_sha256": "282bd3bfc88ab3beec54ce74e3af1d7be67e4808980ece29135652f70b19a974"
+    },
+    {
+      "major_id": "xjtlu-computer-science-and-technology",
+      "group_file": "details/G09-计算人工智能与系统.md",
+      "source_file": "references/majors/xjtlu-computer-science-and-technology.md",
+      "source_sha256": "3775f8d087f3ab8c6fe46519984da90999ebb7f76ac733c2a67a1ce1bafc6420"
+    },
+    {
+      "major_id": "xjtlu-artificial-intelligence",
+      "group_file": "details/G09-计算人工智能与系统.md",
+      "source_file": "references/majors/xjtlu-artificial-intelligence.md",
+      "source_sha256": "589325d1f6ea124a88081da6636912bd947d4a8dfbfb25934bd7d2d3a32ed94d"
+    },
+    {
+      "major_id": "xjtlu-data-science-and-big-data-technology",
+      "group_file": "details/G09-计算人工智能与系统.md",
+      "source_file": "references/majors/xjtlu-data-science-and-big-data-technology.md",
+      "source_sha256": "652ee945d60e7591f69829fd3aeea2f29899dbf3aedfe64f825b6852fa51a0f6"
+    },
+    {
+      "major_id": "xjtlu-digital-media-technology",
+      "group_file": "details/G09-计算人工智能与系统.md",
+      "source_file": "references/majors/xjtlu-digital-media-technology.md",
+      "source_sha256": "800d77e5833e662d9c5f5019f8dacfa78d1963b5361c9af6b8b8ffe33ff7af51"
+    },
+    {
+      "major_id": "xjtlu-information-and-computing-science",
+      "group_file": "details/G09-计算人工智能与系统.md",
+      "source_file": "references/majors/xjtlu-information-and-computing-science.md",
+      "source_sha256": "e93b4c6d48a525dc560c3b05f096ae729f36fe79d30f9e57849441cd7f7de873"
+    }
+  ],
+  "core_sources": {
+    "SKILL.md": "9d82cc1be37cf46fdaa65d5e83f9ef7b6bb9a5e9fbd708d2c578d97764c12449",
+    "references/eligibility.md": "4d386649647bea564dd5f8e2584d9e291222106d45f4c05f611c0227042512f1",
+    "references/interview.md": "376a851eb04fb9572a40119860315d7693fe9fec6b240d021d5c720834793cc3",
+    "references/matching.md": "d4a556a5d9a4c4697cf9d8945a9431e316fddc9269b4299105f103acde4e7cf3",
+    "references/session-state.md": "8f936a86a493bf5544202fc9ef0b42e145434d4e9cdcbf0c52ffa1703d4b415d",
+    "assets/report-template.md": "b36cfbe930a2988d79c79783dc2db744459f54a441ddb898b6992b59167b2093",
+    "references/docx-delivery.md": "559a58af333b90d9a1c7cf43081932a528d8e9e40e552c814fb70a6f6036c420",
+    "assets/session-summary-template.md": "61d859a048232c65f1153a2f77c783728386cbecafb41204e674214492e3f6be",
+    "references/major-index.md": "1dbc0c1e738d15c0544713780ea41597e67ea078c968acd98d9617a7e962e540"
+  }
+}

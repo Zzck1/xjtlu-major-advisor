@@ -1,0 +1,293 @@
+[
+  {
+    "source_id": "C01",
+    "url": "https://www.bls.gov/ooh/computer-and-information-technology/software-developers.htm",
+    "title": "BLS Occupational Outlook Handbook — Software Developers, Quality Assurance Analysts, and Testers",
+    "checked_at": "2026-09-18",
+    "source_updated_at": "2026-08-27",
+    "applicable_year": "2026-08-27 职业说明版本；未使用工资或就业预测数值",
+    "region": "美国",
+    "scope": "美国软件开发、质量保证与测试职业概况；不适用于中国招聘或个人工作资格",
+    "supports": [
+      "软件开发的需求、设计、测试维护和协作任务",
+      "典型本科教育入口，部分雇主偏好硕士",
+      "编程基础是重要准备"
+    ],
+    "status": "verified_original_content",
+    "read_sections": [
+      "What They Do / How to Become One 或项目 Key information / Entry requirements"
+    ],
+    "artifact_paths": [
+      "xjtlu-major-advisor/references/career/computing-data.md"
+    ],
+    "limitations": "仅支持列出的任务或教育路径；不证明中国招聘、个人资格、收入或录取结果"
+  },
+  {
+    "source_id": "C02",
+    "url": "https://www.bls.gov/ooh/math/data-scientists.htm",
+    "title": "BLS Occupational Outlook Handbook — Data Scientists",
+    "checked_at": "2026-09-18",
+    "source_updated_at": "2026-08-27",
+    "applicable_year": "2026-08-27 职业说明版本；未使用工资或就业预测数值",
+    "region": "美国",
+    "scope": "美国数据科学职业概况；不适用于中国招聘或个人工作资格",
+    "supports": [
+      "数据整理、模型验证、结果呈现任务",
+      "典型本科入口；部分岗位要求或偏好硕士、博士"
+    ],
+    "status": "verified_original_content",
+    "read_sections": [
+      "What They Do / How to Become One 或项目 Key information / Entry requirements"
+    ],
+    "artifact_paths": [
+      "xjtlu-major-advisor/references/career/computing-data.md"
+    ],
+    "limitations": "仅支持列出的任务或教育路径；不证明中国招聘、个人资格、收入或录取结果"
+  },
+  {
+    "source_id": "C03",
+    "url": "https://www.bls.gov/ooh/business-and-financial/financial-analysts.htm",
+    "title": "BLS Occupational Outlook Handbook — Financial Analysts",
+    "checked_at": "2026-09-18",
+    "source_updated_at": "2026-08-27",
+    "applicable_year": "2026-08-27 职业说明版本；未使用工资或就业预测数值",
+    "region": "美国",
+    "scope": "美国金融分析职业概况；证券执照需按地区及具体岗位另查",
+    "supports": [
+      "财务资料、趋势风险分析及报告任务",
+      "典型本科入口；部分雇主偏好硕士，实习有助经验积累",
+      "部分美国岗位另有执照要求"
+    ],
+    "status": "verified_original_content",
+    "read_sections": [
+      "What They Do / How to Become One 或项目 Key information / Entry requirements"
+    ],
+    "artifact_paths": [
+      "xjtlu-major-advisor/references/career/business-finance.md"
+    ],
+    "limitations": "仅支持列出的任务或教育路径；不证明中国招聘、个人资格、收入或录取结果"
+  },
+  {
+    "source_id": "C04",
+    "url": "https://www.bls.gov/ooh/architecture-and-engineering/mechanical-engineers.htm",
+    "title": "BLS Occupational Outlook Handbook — Mechanical Engineers",
+    "checked_at": "2026-09-18",
+    "source_updated_at": "2026-08-27",
+    "applicable_year": "2026-08-27 职业说明版本；未使用工资或就业预测数值",
+    "region": "美国",
+    "scope": "美国机械工程职业概况；不覆盖全部工程分支或中国工程注册",
+    "supports": [
+      "设计、原型、测试和修改任务",
+      "典型机械工程或相关工程技术本科入口",
+      "入门职位与向公众提供专业服务的执照要求不同",
+      "部分研究和高校教职路径需要博士"
+    ],
+    "status": "verified_original_content",
+    "read_sections": [
+      "What They Do / How to Become One 或项目 Key information / Entry requirements"
+    ],
+    "artifact_paths": [
+      "xjtlu-major-advisor/references/career/engineering.md"
+    ],
+    "limitations": "仅支持列出的任务或教育路径；不证明中国招聘、个人资格、收入或录取结果"
+  },
+  {
+    "source_id": "C05",
+    "url": "https://www.bls.gov/ooh/life-physical-and-social-science/biological-technicians.htm",
+    "title": "BLS Occupational Outlook Handbook — Biological Technicians",
+    "checked_at": "2026-09-18",
+    "source_updated_at": "2026-08-27",
+    "applicable_year": "2026-08-27 职业说明版本；未使用工资或就业预测数值",
+    "region": "美国",
+    "scope": "美国生物技术支持职业概况；不代表临床检验或中国岗位门槛",
+    "supports": [
+      "实验准备、记录及数据处理任务",
+      "典型生物或相关本科入口；在校实验经历重要"
+    ],
+    "status": "verified_original_content",
+    "read_sections": [
+      "What They Do / How to Become One 或项目 Key information / Entry requirements"
+    ],
+    "artifact_paths": [
+      "xjtlu-major-advisor/references/career/life-health.md"
+    ],
+    "limitations": "仅支持列出的任务或教育路径；不证明中国招聘、个人资格、收入或录取结果"
+  },
+  {
+    "source_id": "C06",
+    "url": "https://www.bls.gov/ooh/life-physical-and-social-science/medical-scientists.htm",
+    "title": "BLS Occupational Outlook Handbook — Medical Scientists",
+    "checked_at": "2026-09-18",
+    "source_updated_at": "2026-08-27",
+    "applicable_year": "2026-08-27 职业说明版本；未使用工资或就业预测数值",
+    "region": "美国",
+    "scope": "美国医学研究职业概况；不构成临床执业资格认定",
+    "supports": [
+      "通常博士或医学学位，部分职位可由硕士与经验进入",
+      "医学研究与患者诊治执业资格需要区分"
+    ],
+    "status": "verified_original_content",
+    "read_sections": [
+      "What They Do / How to Become One 或项目 Key information / Entry requirements"
+    ],
+    "artifact_paths": [
+      "xjtlu-major-advisor/references/career/life-health.md"
+    ],
+    "limitations": "仅支持列出的任务或教育路径；不证明中国招聘、个人资格、收入或录取结果"
+  },
+  {
+    "source_id": "C07",
+    "url": "https://www.bls.gov/ooh/architecture-and-engineering/architects.htm",
+    "title": "BLS Occupational Outlook Handbook — Architects",
+    "checked_at": "2026-09-18",
+    "source_updated_at": "2026-08-27",
+    "applicable_year": "2026-08-27 职业说明版本；未使用工资或就业预测数值",
+    "region": "美国",
+    "scope": "美国建筑师职业概况；不是西浦学位认证证明或中国注册规则",
+    "supports": [
+      "建筑设计包含需求、绘图、成本与专业协作",
+      "美国典型注册路径涉及教育、实践和考试，具体要求须按地区确认"
+    ],
+    "status": "verified_original_content",
+    "read_sections": [
+      "What They Do / How to Become One 或项目 Key information / Entry requirements"
+    ],
+    "artifact_paths": [
+      "xjtlu-major-advisor/references/career/architecture.md"
+    ],
+    "limitations": "仅支持列出的任务或教育路径；不证明中国招聘、个人资格、收入或录取结果"
+  },
+  {
+    "source_id": "C08",
+    "url": "https://www.bls.gov/ooh/arts-and-design/industrial-designers.htm",
+    "title": "BLS Occupational Outlook Handbook — Industrial Designers",
+    "checked_at": "2026-09-18",
+    "source_updated_at": "2026-08-27",
+    "applicable_year": "2026-08-27 职业说明版本；未使用工资或就业预测数值",
+    "region": "美国",
+    "scope": "美国工业和实体产品设计职业概况；不代表全部创意产业",
+    "supports": [
+      "设计结合使用、功能、外观与制造约束",
+      "典型本科入口及电子作品集要求"
+    ],
+    "status": "verified_original_content",
+    "read_sections": [
+      "What They Do / How to Become One 或项目 Key information / Entry requirements"
+    ],
+    "artifact_paths": [
+      "xjtlu-major-advisor/references/career/creative-design.md"
+    ],
+    "limitations": "仅支持列出的任务或教育路径；不证明中国招聘、个人资格、收入或录取结果"
+  },
+  {
+    "source_id": "C09",
+    "url": "https://www.bls.gov/ooh/life-physical-and-social-science/psychologists.htm",
+    "title": "BLS Occupational Outlook Handbook — Psychologists",
+    "checked_at": "2026-09-18",
+    "source_updated_at": "2026-08-27",
+    "applicable_year": "2026-08-27 职业说明版本；未使用工资或就业预测数值",
+    "region": "美国",
+    "scope": "美国心理学职业概况；各司法辖区专业服务资格另查",
+    "supports": [
+      "心理学家通常需要研究生层级训练",
+      "美国临床和咨询心理学家通常博士级教育，执照条件依地区与岗位不同"
+    ],
+    "status": "verified_original_content",
+    "read_sections": [
+      "What They Do / How to Become One 或项目 Key information / Entry requirements"
+    ],
+    "artifact_paths": [
+      "xjtlu-major-advisor/references/career/human-social.md"
+    ],
+    "limitations": "仅支持列出的任务或教育路径；不证明中国招聘、个人资格、收入或录取结果"
+  },
+  {
+    "source_id": "C10",
+    "url": "https://www.bls.gov/ooh/media-and-communication/interpreters-and-translators.htm",
+    "title": "BLS Occupational Outlook Handbook — Interpreters and Translators",
+    "checked_at": "2026-09-18",
+    "source_updated_at": "2026-08-27",
+    "applicable_year": "2026-08-27 职业说明版本；未使用工资或就业预测数值",
+    "region": "美国",
+    "scope": "美国口笔译职业概况；不覆盖中国翻译或教师资格",
+    "supports": [
+      "典型本科入口与至少两种语言、对应口笔译技能",
+      "领域知识与语言技能可以结合",
+      "特定场景可能另有认证要求"
+    ],
+    "status": "verified_original_content",
+    "read_sections": [
+      "What They Do / How to Become One 或项目 Key information / Entry requirements"
+    ],
+    "artifact_paths": [
+      "xjtlu-major-advisor/references/career/language.md"
+    ],
+    "limitations": "仅支持列出的任务或教育路径；不证明中国招聘、个人资格、收入或录取结果"
+  },
+  {
+    "source_id": "C11",
+    "url": "https://www.ucl.ac.uk/study/prospective-students/graduate/courses/data-science-msc",
+    "title": "UCL — Data Science MSc",
+    "checked_at": "2026-09-18",
+    "source_updated_at": null,
+    "applicable_year": "2027/28",
+    "region": "英国",
+    "scope": "英国 UCL 单个项目；当前页面适用 2027/28、2027年9月入学；不得推广到其他项目或未来届别",
+    "supports": [
+      "需要量化学科背景",
+      "大学数学方法、线性代数、概率统计和编程基础；高级编程语言经验"
+    ],
+    "status": "verified_original_content",
+    "read_sections": [
+      "What They Do / How to Become One 或项目 Key information / Entry requirements"
+    ],
+    "artifact_paths": [
+      "xjtlu-major-advisor/references/career/computing-data.md"
+    ],
+    "limitations": "仅支持列出的任务或教育路径；不证明中国招聘、个人资格、收入或录取结果"
+  },
+  {
+    "source_id": "C12",
+    "url": "https://www.lse.ac.uk/study-at-lse/graduate/masters-in-management",
+    "title": "LSE — Master's in Management",
+    "checked_at": "2026-09-18",
+    "source_updated_at": null,
+    "applicable_year": "2026/27",
+    "region": "英国",
+    "scope": "英国 LSE 单个项目；当前页面适用 2026/27；不代表所有商科硕士",
+    "supports": [
+      "欢迎不同本科背景申请，同时有学位、语言及其他申请要求",
+      "当前页面显示该年申请关闭"
+    ],
+    "status": "verified_original_content",
+    "read_sections": [
+      "What They Do / How to Become One 或项目 Key information / Entry requirements"
+    ],
+    "artifact_paths": [
+      "xjtlu-major-advisor/references/career/business-finance.md"
+    ],
+    "limitations": "仅支持列出的任务或教育路径；不证明中国招聘、个人资格、收入或录取结果"
+  },
+  {
+    "source_id": "C13",
+    "url": "https://www.bls.gov/ooh/business-and-financial/market-research-analysts.htm",
+    "title": "BLS Occupational Outlook Handbook — Market Research Analysts",
+    "checked_at": "2026-09-18",
+    "source_updated_at": "2026-08-27",
+    "applicable_year": "2026-08-27 职业说明版本；未使用工资或就业预测数值",
+    "region": "美国",
+    "scope": "美国市场研究职业概况；不代表全部人文社科岗位",
+    "supports": [
+      "调查方法、数据分析与报告呈现任务",
+      "典型本科入口含商科、传播和社会科学相关背景；部分岗位偏好或要求硕士"
+    ],
+    "status": "verified_original_content",
+    "read_sections": [
+      "What They Do / How to Become One 或项目 Key information / Entry requirements"
+    ],
+    "artifact_paths": [
+      "xjtlu-major-advisor/references/career/human-social.md"
+    ],
+    "limitations": "仅支持列出的任务或教育路径；不证明中国招聘、个人资格、收入或录取结果"
+  }
+]

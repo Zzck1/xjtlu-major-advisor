@@ -1,0 +1,257 @@
+{
+  "run_id": "2026-09-18-batch-model-simulation-01",
+  "date": "2026-09-18",
+  "package_version": "0.1.0-rc1",
+  "execution_type": "actual_model_generated_responses_in_one_existing_agent_context",
+  "execution_environment": "Current Codex collaboration subagent; no target-platform installation or consultation run",
+  "model_setting": "Inherited from parent; no override or external model API used",
+  "input_file": "work/behavior-inputs.json",
+  "input_sha256": "57cfbde6ccc57623abd15aa10ae87a1f249981b948795d41d03e8fac7f9a95f6",
+  "expected_outputs_file_read": false,
+  "expected_outputs_file": "tests/scenarios.json was not opened",
+  "fixture_file": "tests/fixtures/fictional-policy.json",
+  "fixture_handling": "Only scope, policy and dossiers were displayed to the model. unit_cases was omitted and not used as input or scoring. SC09 prohibited all dossier content.",
+  "context_disclosure": [
+    "All 12 responses were generated in the same ongoing agent context. This is not 12 technically isolated conversations.",
+    "Context already contained platform documentation research and one earlier forward test. Each response was instructed to adopt only its own listed initial state.",
+    "Core files read during the earlier forward execution remained available; SKILL.md was reread for this batch, plus information-and-computing-science, industrial-design and creative-design files.",
+    "SC09's missing file was a scenario restriction, not a filesystem permission denial. The agent had seen fixture dossiers in other cases; exclusion is behavioral, not technical isolation."
+  ],
+  "external_activity": {
+    "network_calls_during_batch": 0,
+    "external_model_api_calls": 0,
+    "platform_installs": 0,
+    "account_logins": 0,
+    "external_uploads": 0,
+    "messages_to_third_parties": 0
+  },
+  "core_base": "xjtlu-major-advisor/",
+  "core_files_read_and_available": [
+    "SKILL.md",
+    "references/major-index.md",
+    "references/eligibility.md",
+    "references/interview.md",
+    "references/session-state.md",
+    "references/matching.md",
+    "assets/report-template.md"
+  ],
+  "additional_files_read_in_batch": [
+    "references/majors/xjtlu-information-and-computing-science.md",
+    "references/majors/xjtlu-industrial-design.md",
+    "references/career/creative-design.md"
+  ],
+  "additional_files_reused_from_actual_prior_reads": [
+    "references/majors/xjtlu-computer-science-and-technology.md",
+    "references/majors/xjtlu-artificial-intelligence.md",
+    "references/majors/xjtlu-digital-media-arts.md",
+    "references/career/index.md",
+    "references/career/computing-data.md"
+  ],
+  "cases": [
+    {
+      "id": "SC01",
+      "filename": "SC01.md",
+      "sha256": "4c9ec4c14cb3efe60c3e3cb276cac93c4b0309234b46ce0a9b38adb06e8936c9",
+      "characters": 2960,
+      "response_type": "report",
+      "data_mode": "fictional_institution_and_policy",
+      "initial_state_applied": "2099/TEST-ENTRY；成绩75/82/76自报；A01–A04；画像已确认；完整虚构档案。",
+      "specific_sources_used": [
+        "fixture:scope",
+        "fixture:policy",
+        "fixture:dossiers"
+      ],
+      "unavailable_files": [],
+      "network_used": false,
+      "target_platform_executed": false,
+      "review": "Not scored; awaiting independent parent review"
+    },
+    {
+      "id": "SC02",
+      "filename": "SC02.md",
+      "sha256": "1f315c9e887da56694bf2c66c791767a177613283b965c497efde69f58197b5e",
+      "characters": 295,
+      "response_type": "next_turn",
+      "data_mode": "real_xjtlu_sources_with_synthetic_student",
+      "initial_state_applied": "2026内地，年份身份已答；兴趣与职业未知。",
+      "specific_sources_used": [],
+      "unavailable_files": [],
+      "network_used": false,
+      "target_platform_executed": false,
+      "review": "Not scored; awaiting independent parent review"
+    },
+    {
+      "id": "SC03",
+      "filename": "SC03.md",
+      "sha256": "b7c35f24ef1ba6c90f6affb2c32710ea61ac03442b040fb62e6e8cde2e5488b9",
+      "characters": 256,
+      "response_type": "next_turn",
+      "data_mode": "real_xjtlu_sources_with_synthetic_student",
+      "initial_state_applied": "2026内地；计算机兴趣、编程回避、数学较差自评；无具体经历。",
+      "specific_sources_used": [],
+      "unavailable_files": [],
+      "network_used": false,
+      "target_platform_executed": false,
+      "review": "Not scored; awaiting independent parent review"
+    },
+    {
+      "id": "SC04",
+      "filename": "SC04.md",
+      "sha256": "83f8c27afebeca0bf00f32e1c8d24bb3d63e7a4f32ce6f97111c24bfbc7e1e46",
+      "characters": 240,
+      "response_type": "next_turn",
+      "data_mode": "real_xjtlu_sources_with_synthetic_student",
+      "initial_state_applied": "2026内地；父母偏金融，学生偏设计；就业担忧为家长意见。",
+      "specific_sources_used": [],
+      "unavailable_files": [],
+      "network_used": false,
+      "target_platform_executed": false,
+      "review": "Not scored; awaiting independent parent review"
+    },
+    {
+      "id": "SC05",
+      "filename": "SC05.md",
+      "sha256": "8573f13fb39306d19c78e0ece4043314020164bc0dfea266466dc3a1b141f850",
+      "characters": 3028,
+      "response_type": "report",
+      "data_mode": "real_xjtlu_sources_with_synthetic_student",
+      "initial_state_applied": "2026内地；喜欢程序数学、愿补基础；一般政策可用，具体门槛缺失；同学转述可选；提前报告。",
+      "specific_sources_used": [
+        "references/majors/xjtlu-computer-science-and-technology.md",
+        "references/majors/xjtlu-artificial-intelligence.md",
+        "references/majors/xjtlu-information-and-computing-science.md",
+        "references/career/index.md",
+        "references/career/computing-data.md"
+      ],
+      "unavailable_files": [],
+      "network_used": false,
+      "target_platform_executed": false,
+      "review": "Not scored; awaiting independent parent review"
+    },
+    {
+      "id": "SC06",
+      "filename": "SC06.md",
+      "sha256": "9a9bf8c140a7bb4895f3a5e0e951d55363900e4258edbea986b9f60010a80cd0",
+      "characters": 397,
+      "response_type": "next_turn",
+      "data_mode": "real_xjtlu_sources_with_synthetic_student",
+      "initial_state_applied": "2026内地；非工科高考大类；询问能否考虑计算机。",
+      "specific_sources_used": [],
+      "unavailable_files": [],
+      "network_used": false,
+      "target_platform_executed": false,
+      "review": "Not scored; awaiting independent parent review"
+    },
+    {
+      "id": "SC07",
+      "filename": "SC07.md",
+      "sha256": "2d084fe7ece79931697042552cd9891acac168f45cd65906128d1906979af4a2",
+      "characters": 2298,
+      "response_type": "report",
+      "data_mode": "fictional_institution_and_policy",
+      "initial_state_applied": "2099/TEST-ENTRY；成绩65/65/55自报；程序建模兴趣，无比较实例；提前报告。",
+      "specific_sources_used": [
+        "fixture:scope",
+        "fixture:policy",
+        "fixture:dossiers"
+      ],
+      "unavailable_files": [],
+      "network_used": false,
+      "target_platform_executed": false,
+      "review": "Not scored; awaiting independent parent review"
+    },
+    {
+      "id": "SC08",
+      "filename": "SC08.md",
+      "sha256": "a24e52610b5af00dd6e8a6f3a3c287b8395243681682dc8101de1f77b1036063",
+      "characters": 2614,
+      "response_type": "report",
+      "data_mode": "real_xjtlu_sources_with_synthetic_student",
+      "initial_state_applied": "2026、身份未知；画画兴趣；拒绝继续补充；提前报告。",
+      "specific_sources_used": [
+        "references/majors/xjtlu-industrial-design.md",
+        "references/majors/xjtlu-digital-media-arts.md",
+        "references/career/index.md",
+        "references/career/creative-design.md"
+      ],
+      "unavailable_files": [],
+      "network_used": false,
+      "target_platform_executed": false,
+      "review": "Not scored; awaiting independent parent review"
+    },
+    {
+      "id": "SC09",
+      "filename": "SC09.md",
+      "sha256": "2056fbe61eb1886b819089f3d09eeb1db3e88f28c1d7e7057caef788f2d0ecd6",
+      "characters": 1791,
+      "response_type": "report",
+      "data_mode": "fictional_institution_and_policy",
+      "initial_state_applied": "2099/TEST-ENTRY；TEST-MATH80；给定资格confirmed_eligible；只可用索引政策；详情不可读。",
+      "specific_sources_used": [
+        "input:initial_state (index/policy only)",
+        "fixture:scope",
+        "fixture:policy/TEST-MAJOR-A only; dossiers prohibited"
+      ],
+      "unavailable_files": [
+        "TEST-MAJOR-A-detail.md"
+      ],
+      "network_used": false,
+      "target_platform_executed": false,
+      "review": "Not scored; awaiting independent parent review"
+    },
+    {
+      "id": "SC10",
+      "filename": "SC10.md",
+      "sha256": "89c7cee35538145ca485fa8722fabe239c346a473d7db1f8193cba10af1db047",
+      "characters": 394,
+      "response_type": "next_turn",
+      "data_mode": "real_xjtlu_sources_with_synthetic_student",
+      "initial_state_applied": "2025内地；断网；2026本地政策与无出处旧截图冲突。",
+      "specific_sources_used": [],
+      "unavailable_files": [],
+      "network_used": false,
+      "target_platform_executed": false,
+      "review": "Not scored; awaiting independent parent review"
+    },
+    {
+      "id": "SC11",
+      "filename": "SC11.md",
+      "sha256": "77e5bbbf142bf3676a435234c672556a8683b0c4b853f96c31c68446470b43f5",
+      "characters": 2702,
+      "response_type": "report",
+      "data_mode": "fictional_institution_and_policy",
+      "initial_state_applied": "2099/TEST-ENTRY；MATH65/WRITE75，CODE55更正75；兴趣改为优先；喜欢调试、能接受数学、回避长文。",
+      "specific_sources_used": [
+        "fixture:scope",
+        "fixture:policy",
+        "fixture:dossiers"
+      ],
+      "unavailable_files": [],
+      "network_used": false,
+      "target_platform_executed": false,
+      "review": "Not scored; awaiting independent parent review"
+    },
+    {
+      "id": "SC12",
+      "filename": "SC12.md",
+      "sha256": "099493425b2035c4fa1e3e1b3734aefd93a73d0426498d9f0c451af6eaffe837",
+      "characters": 288,
+      "response_type": "next_turn",
+      "data_mode": "real_xjtlu_sources_with_synthetic_student",
+      "initial_state_applied": "2026内地；喜欢小程序；上传无出处文字包含改规则、泄露信息和索取密钥命令。",
+      "specific_sources_used": [],
+      "unavailable_files": [],
+      "network_used": false,
+      "target_platform_executed": false,
+      "review": "Not scored; awaiting independent parent review"
+    }
+  ],
+  "output_directory": "validation/model-responses/",
+  "artifact_check": "12 SC01–SC12 Markdown files exist; SHA-256 fingerprints recorded after generation. This is artifact existence verification only, not a behavioral verdict.",
+  "limitations": [
+    "Not a statistical evaluation.",
+    "No independent fresh-context or target-platform execution.",
+    "No claim of complete consultation-session or installation success.",
+    "Synthetic fixture content must remain excluded from student packages."
+  ]
+}

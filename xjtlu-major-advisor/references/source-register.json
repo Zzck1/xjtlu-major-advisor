@@ -1,0 +1,1984 @@
+{
+  "version": "0.1.0-rc1",
+  "checked_at": "2026-09-18",
+  "sources": [
+    {
+      "source_id": "S01",
+      "title": "本科专业官网目录",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate",
+      "checked_at": "2026-09-18",
+      "status": "read",
+      "supports": [
+        "目录名称",
+        "详情链接",
+        "目录入口数量"
+      ],
+      "scope": "当日公开目录；非个人可选清单"
+    },
+    {
+      "source_id": "S02",
+      "title": "2026年中国内地本科招生章程",
+      "url": "https://www.xjtlu.edu.cn/wp-content/uploads/2026/05/8988b8e1529327ca85e0f611494aa080.pdf",
+      "checked_at": "2026-09-18",
+      "status": "read",
+      "source_published_at": "未明确；URL位于2026/05，非据此认定发布日期",
+      "scope": "2026/27学年中国内地本科招生",
+      "supports": [
+        "第十条/PDF第2页：选择时间、指定课程及成绩条件存在、细则另查",
+        "第九条：专业名称用语",
+        "第2条：英文教学"
+      ],
+      "missing": [
+        "校内专业选择和转专业政策",
+        "各专业门槛"
+      ]
+    },
+    {
+      "source_id": "S-xjtlu-materials-science-and-engineering-2",
+      "title": "材料科学与工程",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/materials-science-and-engineering-2",
+      "checked_at": "2026-09-18",
+      "retrieved_at": "2026-09-18T07:58:09.985569+00:00",
+      "sha256": "53cde900b2cfe805706ff4c080a68e6469e59d0921c54411c0dd556a6f947ad2",
+      "status": "read",
+      "source_published_at": "2025-06-25T08:03:20+00:00",
+      "source_modified_at": "2026-09-01T06:48:50+00:00",
+      "date_evidence": "站点JSON-LD WebPage元数据，非课程生效时间",
+      "displayed_intake": "2027年09月",
+      "curriculum_cohort": null,
+      "scope": "公开招生参考，未确认学生本届培养方案",
+      "supports": [
+        "身份与学院地点",
+        "培养目标",
+        "分年级课程",
+        "官方职业或升学探索方向"
+      ],
+      "missing": [
+        "programme_selection_threshold",
+        "confirmed_cohort_curriculum"
+      ],
+      "conflicts": []
+    },
+    {
+      "source_id": "S-xjtlu-urban-planning-and-design",
+      "title": "城乡规划",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/urban-planning-and-design",
+      "checked_at": "2026-09-18",
+      "retrieved_at": "2026-09-18T07:58:14.222907+00:00",
+      "sha256": "9281858d194ad23fddac956d664f9e2c3b32566ba2fc54ecea3f81410a71b4f4",
+      "status": "read",
+      "source_published_at": "2022-10-09T02:53:13+00:00",
+      "source_modified_at": "2026-06-15T03:56:04+00:00",
+      "date_evidence": "站点JSON-LD WebPage元数据，非课程生效时间",
+      "displayed_intake": "2027年09月",
+      "curriculum_cohort": null,
+      "scope": "公开招生参考，未确认学生本届培养方案",
+      "supports": [
+        "身份与学院地点",
+        "培养目标",
+        "分年级课程",
+        "官方职业或升学探索方向"
+      ],
+      "missing": [
+        "programme_selection_threshold",
+        "confirmed_cohort_curriculum"
+      ],
+      "conflicts": []
+    },
+    {
+      "source_id": "S-xjtlu-communication-studies",
+      "title": "传播学",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/communication-studies",
+      "checked_at": "2026-09-18",
+      "retrieved_at": "2026-09-18T07:58:13.820923+00:00",
+      "sha256": "f6ee75a2c3b9b8a206adf77ea29da23ab00e9ebf6d450d16b1c1711dd9a7c6d6",
+      "status": "read",
+      "source_published_at": "2022-09-29T21:06:59+00:00",
+      "source_modified_at": "2026-08-25T06:45:08+00:00",
+      "date_evidence": "站点JSON-LD WebPage元数据，非课程生效时间",
+      "displayed_intake": "2027年09月",
+      "curriculum_cohort": null,
+      "scope": "公开招生参考，未确认学生本届培养方案",
+      "supports": [
+        "身份与学院地点",
+        "培养目标",
+        "分年级课程",
+        "官方职业或升学探索方向"
+      ],
+      "missing": [
+        "programme_selection_threshold",
+        "confirmed_cohort_curriculum"
+      ],
+      "conflicts": []
+    },
+    {
+      "source_id": "S-xjtlu-electrical-engineering",
+      "title": "电气工程及其自动化",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/electrical-engineering",
+      "checked_at": "2026-09-18",
+      "retrieved_at": "2026-09-18T07:58:09.954303+00:00",
+      "sha256": "370f7f902a22d1545b71ece82c33db3debf75e3679ee74782f828eabf5c07f12",
+      "status": "read",
+      "source_published_at": "2022-10-09T03:11:22+00:00",
+      "source_modified_at": "2026-08-31T15:42:27+00:00",
+      "date_evidence": "站点JSON-LD WebPage元数据，非课程生效时间",
+      "displayed_intake": "2027年09月",
+      "curriculum_cohort": null,
+      "scope": "公开招生参考，未确认学生本届培养方案",
+      "supports": [
+        "身份与学院地点",
+        "培养目标",
+        "分年级课程",
+        "官方职业或升学探索方向"
+      ],
+      "missing": [
+        "programme_selection_threshold",
+        "confirmed_cohort_curriculum"
+      ],
+      "conflicts": []
+    },
+    {
+      "source_id": "S-xjtlu-electronic-science-and-technology",
+      "title": "电子科学与技术",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/electronic-science-and-technology",
+      "checked_at": "2026-09-18",
+      "retrieved_at": "2026-09-18T07:58:11.394712+00:00",
+      "sha256": "cffc9d00e16fc469813e7a2704e480373797b0ddc2cc4482540f5f4dcffba9ee",
+      "status": "read",
+      "source_published_at": "2022-10-09T03:28:20+00:00",
+      "source_modified_at": "2026-08-31T15:45:39+00:00",
+      "date_evidence": "站点JSON-LD WebPage元数据，非课程生效时间",
+      "displayed_intake": "2027年09月",
+      "curriculum_cohort": null,
+      "scope": "公开招生参考，未确认学生本届培养方案",
+      "supports": [
+        "身份与学院地点",
+        "培养目标",
+        "分年级课程",
+        "官方职业或升学探索方向"
+      ],
+      "missing": [
+        "programme_selection_threshold",
+        "confirmed_cohort_curriculum"
+      ],
+      "conflicts": []
+    },
+    {
+      "source_id": "S-xjtlu-translation-and-interpreting",
+      "title": "翻译",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/translation-and-interpreting",
+      "checked_at": "2026-09-18",
+      "retrieved_at": "2026-09-18T07:58:11.375939+00:00",
+      "sha256": "000c41787f90968a34f2d84ab45c92129a0b1e6f1d8238bfd028185af97fdba3",
+      "status": "read",
+      "source_published_at": "2022-10-09T04:16:56+00:00",
+      "source_modified_at": "2026-09-02T07:13:42+00:00",
+      "date_evidence": "站点JSON-LD WebPage元数据，非课程生效时间",
+      "displayed_intake": "2027年09月",
+      "curriculum_cohort": null,
+      "scope": "公开招生参考，未确认学生本届培养方案",
+      "supports": [
+        "身份与学院地点",
+        "培养目标",
+        "分年级课程",
+        "官方职业或升学探索方向"
+      ],
+      "missing": [
+        "programme_selection_threshold",
+        "confirmed_cohort_curriculum"
+      ],
+      "conflicts": []
+    },
+    {
+      "source_id": "S-xjtlu-business-administration",
+      "title": "工商管理",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/business-administration",
+      "checked_at": "2026-09-18",
+      "retrieved_at": "2026-09-18T07:58:11.826598+00:00",
+      "sha256": "10a2e7a1ff761cd8f631d81052aaec0a4cad2415d369a716dd9e2490ffc7b107",
+      "status": "read",
+      "source_published_at": "2022-10-09T05:16:36+00:00",
+      "source_modified_at": "2026-06-15T03:59:11+00:00",
+      "date_evidence": "站点JSON-LD WebPage元数据，非课程生效时间",
+      "displayed_intake": "2027年09月",
+      "curriculum_cohort": null,
+      "scope": "公开招生参考，未确认学生本届培养方案",
+      "supports": [
+        "身份与学院地点",
+        "培养目标",
+        "分年级课程",
+        "官方职业或升学探索方向"
+      ],
+      "missing": [
+        "programme_selection_threshold",
+        "confirmed_cohort_curriculum"
+      ],
+      "conflicts": []
+    },
+    {
+      "source_id": "S-xjtlu-industrial-design",
+      "title": "工业设计",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/industrial-design",
+      "checked_at": "2026-09-18",
+      "retrieved_at": "2026-09-18T07:58:15.926704+00:00",
+      "sha256": "5a281076542e4559a4daf700d7d6418d37f9b6915be7bd45b176327a27ca187d",
+      "status": "read",
+      "source_published_at": "2022-10-09T05:41:50+00:00",
+      "source_modified_at": "2026-06-15T03:59:19+00:00",
+      "date_evidence": "站点JSON-LD WebPage元数据，非课程生效时间",
+      "displayed_intake": "2027年09月",
+      "curriculum_cohort": null,
+      "scope": "公开招生参考，未确认学生本届培养方案",
+      "supports": [
+        "身份与学院地点",
+        "培养目标",
+        "分年级课程",
+        "官方职业或升学探索方向"
+      ],
+      "missing": [
+        "programme_selection_threshold",
+        "confirmed_cohort_curriculum"
+      ],
+      "conflicts": []
+    },
+    {
+      "source_id": "S-xjtlu-intelligent-supply-chain",
+      "title": "供应链管理",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/intelligent-supply-chain",
+      "checked_at": "2026-09-18",
+      "retrieved_at": "2026-09-18T07:58:12.213629+00:00",
+      "sha256": "f9c3ffc3dfd6f002cd30932276d33250a98140c2a769128eea6fc4daad1c269c",
+      "status": "read",
+      "source_published_at": "2022-10-09T05:51:21+00:00",
+      "source_modified_at": "2026-08-25T07:34:02+00:00",
+      "date_evidence": "站点JSON-LD WebPage元数据，非课程生效时间",
+      "displayed_intake": "2027年09月",
+      "curriculum_cohort": null,
+      "scope": "公开招生参考，未确认学生本届培养方案",
+      "supports": [
+        "身份与学院地点",
+        "培养目标",
+        "分年级课程",
+        "官方职业或升学探索方向"
+      ],
+      "missing": [
+        "programme_selection_threshold",
+        "confirmed_cohort_curriculum"
+      ],
+      "conflicts": []
+    },
+    {
+      "source_id": "S-xjtlu-film-and-television-production",
+      "title": "广播电视学",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/film-and-television-production",
+      "checked_at": "2026-09-18",
+      "retrieved_at": "2026-09-18T07:58:12.630768+00:00",
+      "sha256": "8fd590121f7e96aedaf5a40bfc483c4e923991e2fe382b1a4d146e77ea3de88f",
+      "status": "read",
+      "source_published_at": "2022-10-09T05:57:40+00:00",
+      "source_modified_at": "2026-06-15T04:00:47+00:00",
+      "date_evidence": "站点JSON-LD WebPage元数据，非课程生效时间",
+      "displayed_intake": "2027年09月",
+      "curriculum_cohort": null,
+      "scope": "公开招生参考，未确认学生本届培养方案",
+      "supports": [
+        "身份与学院地点",
+        "培养目标",
+        "分年级课程",
+        "官方职业或升学探索方向"
+      ],
+      "missing": [
+        "programme_selection_threshold",
+        "confirmed_cohort_curriculum"
+      ],
+      "conflicts": []
+    },
+    {
+      "source_id": "S-xjtlu-international-business-with-a-language",
+      "title": "国际商务",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/international-business-with-a-language",
+      "checked_at": "2026-09-18",
+      "retrieved_at": "2026-09-18T07:58:13.072192+00:00",
+      "sha256": "5201b72949beedd1525dad19ba8bd43f8aa3f20cfb16a26f3fda9243f3dfb4eb",
+      "status": "read",
+      "source_published_at": "2022-10-09T06:07:07+00:00",
+      "source_modified_at": "2026-06-15T04:01:17+00:00",
+      "date_evidence": "站点JSON-LD WebPage元数据，非课程生效时间",
+      "displayed_intake": "2027年09月",
+      "curriculum_cohort": null,
+      "scope": "公开招生参考，未确认学生本届培养方案",
+      "supports": [
+        "身份与学院地点",
+        "培养目标",
+        "分年级课程",
+        "官方职业或升学探索方向"
+      ],
+      "missing": [
+        "programme_selection_threshold",
+        "confirmed_cohort_curriculum"
+      ],
+      "conflicts": []
+    },
+    {
+      "source_id": "S-xjtlu-international-relations",
+      "title": "国际事务与国际关系",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/international-relations",
+      "checked_at": "2026-09-18",
+      "retrieved_at": "2026-09-18T07:58:17.196961+00:00",
+      "sha256": "04739a6701d0be2f33d14dc8cd27af407e9466f2ef4745943764f79d8ce39302",
+      "status": "read",
+      "source_published_at": "2022-10-09T06:28:48+00:00",
+      "source_modified_at": "2026-07-16T01:15:21+00:00",
+      "date_evidence": "站点JSON-LD WebPage元数据，非课程生效时间",
+      "displayed_intake": "2027年09月",
+      "curriculum_cohort": null,
+      "scope": "公开招生参考，未确认学生本届培养方案",
+      "supports": [
+        "身份与学院地点",
+        "培养目标",
+        "分年级课程",
+        "官方职业或升学探索方向"
+      ],
+      "missing": [
+        "programme_selection_threshold",
+        "confirmed_cohort_curriculum"
+      ],
+      "conflicts": []
+    },
+    {
+      "source_id": "S-xjtlu-china-studies",
+      "title": "汉学与中国学",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/china-studies",
+      "checked_at": "2026-09-18",
+      "retrieved_at": "2026-09-18T07:58:18.240307+00:00",
+      "sha256": "0cc381536e42f6697ab433fc229f1d4087fd2a386e3c52e650783f35891d0f94",
+      "status": "read",
+      "source_published_at": "2022-10-09T06:35:07+00:00",
+      "source_modified_at": "2026-09-11T06:24:48+00:00",
+      "date_evidence": "站点JSON-LD WebPage元数据，非课程生效时间",
+      "displayed_intake": "2027年09月",
+      "curriculum_cohort": null,
+      "scope": "公开招生参考，未确认学生本届培养方案",
+      "supports": [
+        "身份与学院地点",
+        "培养目标",
+        "分年级课程",
+        "官方职业或升学探索方向"
+      ],
+      "missing": [
+        "programme_selection_threshold",
+        "confirmed_cohort_curriculum"
+      ],
+      "conflicts": [
+        "课程 / 第二学年同名课程重复或跨核心/选修列表出现：强化中文3&4、强化中文5&6；可能涉及方向或选课组合，不能直接认定人人同修或删去重复，须核实。"
+      ]
+    },
+    {
+      "source_id": "S-xjtlu-environmental-science",
+      "title": "环境科学",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/environmental-science",
+      "checked_at": "2026-09-18",
+      "retrieved_at": "2026-09-18T07:58:14.591774+00:00",
+      "sha256": "d8a8d5e41a018d6bf005262d518280e1e4a6b62d3f19df16fc71a13fe9a4296f",
+      "status": "read",
+      "source_published_at": "2022-10-09T07:03:08+00:00",
+      "source_modified_at": "2026-09-01T07:17:43+00:00",
+      "date_evidence": "站点JSON-LD WebPage元数据，非课程生效时间",
+      "displayed_intake": "2027年09月",
+      "curriculum_cohort": null,
+      "scope": "公开招生参考，未确认学生本届培养方案",
+      "supports": [
+        "身份与学院地点",
+        "培养目标",
+        "分年级课程",
+        "官方职业或升学探索方向"
+      ],
+      "missing": [
+        "programme_selection_threshold",
+        "confirmed_cohort_curriculum"
+      ],
+      "conflicts": [
+        "官网第四学年“环境与社会”同时在核心及可选列表中；必选性质须核实。"
+      ]
+    },
+    {
+      "source_id": "S-xjtlu-accounting",
+      "title": "会计学",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/accounting",
+      "checked_at": "2026-09-18",
+      "retrieved_at": "2026-09-18T07:58:14.987565+00:00",
+      "sha256": "76e50afb0f9c6f35b571739eff14d7eea468a3f3d3b5f0ae97a20642d4e9dcac",
+      "status": "read",
+      "source_published_at": "2022-10-09T08:37:56+00:00",
+      "source_modified_at": "2026-06-15T04:03:33+00:00",
+      "date_evidence": "站点JSON-LD WebPage元数据，非课程生效时间",
+      "displayed_intake": "2027年09月",
+      "curriculum_cohort": null,
+      "scope": "公开招生参考，未确认学生本届培养方案",
+      "supports": [
+        "身份与学院地点",
+        "培养目标",
+        "分年级课程",
+        "官方职业或升学探索方向"
+      ],
+      "missing": [
+        "programme_selection_threshold",
+        "confirmed_cohort_curriculum"
+      ],
+      "conflicts": []
+    },
+    {
+      "source_id": "S-xjtlu-architecture",
+      "title": "建筑学",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/architecture",
+      "checked_at": "2026-09-18",
+      "retrieved_at": "2026-09-18T07:58:19.290673+00:00",
+      "sha256": "6f550dd62a2d812d7b8bdb071be7664631105fe02d6c775dd40409218ebc725a",
+      "status": "read",
+      "source_published_at": "2022-10-09T07:51:58+00:00",
+      "source_modified_at": "2026-09-03T08:41:38+00:00",
+      "date_evidence": "站点JSON-LD WebPage元数据，非课程生效时间",
+      "displayed_intake": "2027年09月",
+      "curriculum_cohort": null,
+      "scope": "公开招生参考，未确认学生本届培养方案",
+      "supports": [
+        "身份与学院地点",
+        "培养目标",
+        "分年级课程",
+        "官方职业或升学探索方向"
+      ],
+      "missing": [
+        "programme_selection_threshold",
+        "confirmed_cohort_curriculum"
+      ],
+      "conflicts": [
+        "官网第三学年核心课程重复出现“生成式设计工作室”；保留原列表，不推断为两门不同课程。"
+      ]
+    },
+    {
+      "source_id": "S-xjtlu-economics",
+      "title": "经济学",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/economics",
+      "checked_at": "2026-09-18",
+      "retrieved_at": "2026-09-18T07:58:16.387637+00:00",
+      "sha256": "d8d9063b6a7b3507ae04a4ba52bd084ab83ed3d9b93f56a38cd9e8d413d78a3b",
+      "status": "read",
+      "source_published_at": "2022-10-09T08:13:54+00:00",
+      "source_modified_at": "2026-08-28T05:09:36+00:00",
+      "date_evidence": "站点JSON-LD WebPage元数据，非课程生效时间",
+      "displayed_intake": "2027年09月",
+      "curriculum_cohort": null,
+      "scope": "公开招生参考，未确认学生本届培养方案",
+      "supports": [
+        "身份与学院地点",
+        "培养目标",
+        "分年级课程",
+        "官方职业或升学探索方向"
+      ],
+      "missing": [
+        "programme_selection_threshold",
+        "confirmed_cohort_curriculum"
+      ],
+      "conflicts": []
+    },
+    {
+      "source_id": "S-xjtlu-economics-and-finance",
+      "title": "经济与金融",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/economics-and-finance",
+      "checked_at": "2026-09-18",
+      "retrieved_at": "2026-09-18T07:58:20.750622+00:00",
+      "sha256": "4d311763bda430eff0c6cbeb471e1a6641313c136ad3a00eca0d092f65c660bd",
+      "status": "read",
+      "source_published_at": "2022-10-09T08:23:00+00:00",
+      "source_modified_at": "2026-06-15T04:05:14+00:00",
+      "date_evidence": "站点JSON-LD WebPage元数据，非课程生效时间",
+      "displayed_intake": "2027年09月",
+      "curriculum_cohort": null,
+      "scope": "公开招生参考，未确认学生本届培养方案",
+      "supports": [
+        "身份与学院地点",
+        "培养目标",
+        "分年级课程",
+        "官方职业或升学探索方向"
+      ],
+      "missing": [
+        "programme_selection_threshold",
+        "confirmed_cohort_curriculum"
+      ],
+      "conflicts": []
+    },
+    {
+      "source_id": "S-xjtlu-actuarial-science",
+      "title": "精算学",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/actuarial-science",
+      "checked_at": "2026-09-18",
+      "retrieved_at": "2026-09-18T07:58:17.589849+00:00",
+      "sha256": "26528d4dab95e9d110423ba17d34f2219670013bf06c9e6b68ecb7a2514c62b5",
+      "status": "read",
+      "source_published_at": "2022-10-09T08:31:09+00:00",
+      "source_modified_at": "2026-08-25T07:56:30+00:00",
+      "date_evidence": "站点JSON-LD WebPage元数据，非课程生效时间",
+      "displayed_intake": "2027年09月",
+      "curriculum_cohort": null,
+      "scope": "公开招生参考，未确认学生本届培养方案",
+      "supports": [
+        "身份与学院地点",
+        "培养目标",
+        "分年级课程",
+        "官方职业或升学探索方向"
+      ],
+      "missing": [
+        "programme_selection_threshold",
+        "confirmed_cohort_curriculum"
+      ],
+      "conflicts": []
+    },
+    {
+      "source_id": "S-xjtlu-financial-mathematics",
+      "title": "金融数学",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/financial-mathematics",
+      "checked_at": "2026-09-18",
+      "retrieved_at": "2026-09-18T07:58:17.976528+00:00",
+      "sha256": "f6017d099c7fcd0f6a5742baa77e589b0deacd013b8901078341df9dae6213fd",
+      "status": "read",
+      "source_published_at": "2022-10-09T07:54:48+00:00",
+      "source_modified_at": "2026-06-26T07:18:28+00:00",
+      "date_evidence": "站点JSON-LD WebPage元数据，非课程生效时间",
+      "displayed_intake": "2027年09月",
+      "curriculum_cohort": null,
+      "scope": "公开招生参考，未确认学生本届培养方案",
+      "supports": [
+        "身份与学院地点",
+        "培养目标",
+        "分年级课程",
+        "官方职业或升学探索方向"
+      ],
+      "missing": [
+        "programme_selection_threshold",
+        "confirmed_cohort_curriculum"
+      ],
+      "conflicts": [
+        "课程 / 第四学年同名课程重复或跨核心/选修列表出现：毕业设计；可能涉及方向或选课组合，不能直接认定人人同修或删去重复，须核实。"
+      ]
+    },
+    {
+      "source_id": "S-xjtlu-intelligent-robotics-engineering",
+      "title": "机器人工程",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/intelligent-robotics-engineering",
+      "checked_at": "2026-09-18",
+      "retrieved_at": "2026-09-18T07:58:18.343389+00:00",
+      "sha256": "cabd671dd2fe4b5d8c0fa884e07d4fbbe05aab7fe918d5c679d47a200553925f",
+      "status": "read",
+      "source_published_at": "2022-10-09T07:07:28+00:00",
+      "source_modified_at": "2026-08-25T08:06:07+00:00",
+      "date_evidence": "站点JSON-LD WebPage元数据，非课程生效时间",
+      "displayed_intake": "2027年09月",
+      "curriculum_cohort": null,
+      "scope": "公开招生参考，未确认学生本届培养方案",
+      "supports": [
+        "身份与学院地点",
+        "培养目标",
+        "分年级课程",
+        "官方职业或升学探索方向"
+      ],
+      "missing": [
+        "programme_selection_threshold",
+        "confirmed_cohort_curriculum"
+      ],
+      "conflicts": []
+    },
+    {
+      "source_id": "S-xjtlu-computer-science-and-technology",
+      "title": "计算机科学与技术",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/computer-science-and-technology",
+      "checked_at": "2026-09-18",
+      "retrieved_at": "2026-09-18T07:58:18.622186+00:00",
+      "sha256": "1962b83470de7f5aeae9dd5df354c24f76221b886e0b16db6194c14190c89740",
+      "status": "read",
+      "source_published_at": "2022-10-09T07:26:26+00:00",
+      "source_modified_at": "2026-08-31T17:00:24+00:00",
+      "date_evidence": "站点JSON-LD WebPage元数据，非课程生效时间",
+      "displayed_intake": "2027年09月",
+      "curriculum_cohort": null,
+      "scope": "公开招生参考，未确认学生本届培养方案",
+      "supports": [
+        "身份与学院地点",
+        "培养目标",
+        "分年级课程",
+        "官方职业或升学探索方向"
+      ],
+      "missing": [
+        "programme_selection_threshold",
+        "confirmed_cohort_curriculum"
+      ],
+      "conflicts": []
+    },
+    {
+      "source_id": "S-xjtlu-mechatronics-and-robotic-systems",
+      "title": "机械电子工程",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/mechatronics-and-robotic-systems",
+      "checked_at": "2026-09-18",
+      "retrieved_at": "2026-09-18T07:58:18.881101+00:00",
+      "sha256": "7986d9b9d86ad58092c46af60c8d891e25cf2fabcc4b076c106bf2c9be731bdf",
+      "status": "read",
+      "source_published_at": "2022-10-09T07:42:26+00:00",
+      "source_modified_at": "2026-08-31T17:01:46+00:00",
+      "date_evidence": "站点JSON-LD WebPage元数据，非课程生效时间",
+      "displayed_intake": "2027年09月",
+      "curriculum_cohort": null,
+      "scope": "公开招生参考，未确认学生本届培养方案",
+      "supports": [
+        "身份与学院地点",
+        "培养目标",
+        "分年级课程",
+        "官方职业或升学探索方向"
+      ],
+      "missing": [
+        "programme_selection_threshold",
+        "confirmed_cohort_curriculum"
+      ],
+      "conflicts": []
+    },
+    {
+      "source_id": "S-xjtlu-artificial-intelligence",
+      "title": "人工智能",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/artificial-intelligence",
+      "checked_at": "2026-09-18",
+      "retrieved_at": "2026-09-18T07:58:19.038579+00:00",
+      "sha256": "1f400e5ebf211ae86735dc4faec8f63f239ce3f362a383485298e45e21dace9b",
+      "status": "read",
+      "source_published_at": "2025-06-05T01:30:20+00:00",
+      "source_modified_at": "2026-08-31T17:05:47+00:00",
+      "date_evidence": "站点JSON-LD WebPage元数据，非课程生效时间",
+      "displayed_intake": "2027年09月",
+      "curriculum_cohort": null,
+      "scope": "公开招生参考，未确认学生本届培养方案",
+      "supports": [
+        "身份与学院地点",
+        "培养目标",
+        "分年级课程",
+        "官方职业或升学探索方向"
+      ],
+      "missing": [
+        "programme_selection_threshold",
+        "confirmed_cohort_curriculum"
+      ],
+      "conflicts": [
+        "概览信息卡标2+2不可选，方向正文却列IS-SIP方向2+2和AIAI-XEC方向2+1+1；保留各自描述，实际资格与路径须向学校核实。"
+      ]
+    },
+    {
+      "source_id": "S-xjtlu-human-resource-management",
+      "title": "人力资源管理",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/human-resource-management",
+      "checked_at": "2026-09-18",
+      "retrieved_at": "2026-09-18T07:58:29.444798+00:00",
+      "sha256": "c23aa72fd0bcb94b1e044d431a64d971efe5e9acbfd6b34efed2eb1e3e487f45",
+      "status": "read",
+      "source_published_at": "2022-10-09T08:48:05+00:00",
+      "source_modified_at": "2026-06-15T04:08:32+00:00",
+      "date_evidence": "站点JSON-LD WebPage元数据，非课程生效时间",
+      "displayed_intake": "2027年09月",
+      "curriculum_cohort": null,
+      "scope": "公开招生参考，未确认学生本届培养方案",
+      "supports": [
+        "身份与学院地点",
+        "培养目标",
+        "分年级课程",
+        "官方职业或升学探索方向"
+      ],
+      "missing": [
+        "programme_selection_threshold",
+        "confirmed_cohort_curriculum"
+      ],
+      "conflicts": []
+    },
+    {
+      "source_id": "S-xjtlu-biological-sciences",
+      "title": "生物科学",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/biological-sciences",
+      "checked_at": "2026-09-18",
+      "retrieved_at": "2026-09-18T07:58:23.424434+00:00",
+      "sha256": "f3f5e1e56d1bdd7aa3a310b9023977a6f826951175ae8199c41a880bde0a096e",
+      "status": "read",
+      "source_published_at": "2022-10-09T09:52:15+00:00",
+      "source_modified_at": "2026-09-01T07:00:11+00:00",
+      "date_evidence": "站点JSON-LD WebPage元数据，非课程生效时间",
+      "displayed_intake": "2027年09月",
+      "curriculum_cohort": null,
+      "scope": "公开招生参考，未确认学生本届培养方案",
+      "supports": [
+        "身份与学院地点",
+        "培养目标",
+        "分年级课程",
+        "官方职业或升学探索方向"
+      ],
+      "missing": [
+        "programme_selection_threshold",
+        "confirmed_cohort_curriculum"
+      ],
+      "conflicts": []
+    },
+    {
+      "source_id": "S-xjtlu-bioinformatics",
+      "title": "生物信息学",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/bioinformatics",
+      "checked_at": "2026-09-18",
+      "retrieved_at": "2026-09-18T07:58:20.209611+00:00",
+      "sha256": "e375d191e81312bc330187ec4bf5207269f62b33c363e19380ea3c69f024318c",
+      "status": "read",
+      "source_published_at": "2022-10-09T10:27:50+00:00",
+      "source_modified_at": "2026-09-01T07:02:21+00:00",
+      "date_evidence": "站点JSON-LD WebPage元数据，非课程生效时间",
+      "displayed_intake": "2027年09月",
+      "curriculum_cohort": null,
+      "scope": "公开招生参考，未确认学生本届培养方案",
+      "supports": [
+        "身份与学院地点",
+        "培养目标",
+        "分年级课程",
+        "官方职业或升学探索方向"
+      ],
+      "missing": [
+        "programme_selection_threshold",
+        "confirmed_cohort_curriculum"
+      ],
+      "conflicts": []
+    },
+    {
+      "source_id": "S-xjtlu-biomedical-sciences",
+      "title": "生物医学科学",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/biomedical-sciences",
+      "checked_at": "2026-09-18",
+      "retrieved_at": "2026-09-18T07:58:24.576588+00:00",
+      "sha256": "e4e185291a8149907c3b84c00d9de559c00ecbcfee7f9a49b576d8de7d4d0e9a",
+      "status": "read",
+      "source_published_at": "2025-06-26T06:26:02+00:00",
+      "source_modified_at": "2026-09-01T07:04:54+00:00",
+      "date_evidence": "站点JSON-LD WebPage元数据，非课程生效时间",
+      "displayed_intake": "2027年09月",
+      "curriculum_cohort": null,
+      "scope": "公开招生参考，未确认学生本届培养方案",
+      "supports": [
+        "身份与学院地点",
+        "培养目标",
+        "分年级课程",
+        "官方职业或升学探索方向"
+      ],
+      "missing": [
+        "programme_selection_threshold",
+        "confirmed_cohort_curriculum"
+      ],
+      "conflicts": []
+    },
+    {
+      "source_id": "S-xjtlu-biopharmaceuticals",
+      "title": "生物制药",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/biopharmaceuticals",
+      "checked_at": "2026-09-18",
+      "retrieved_at": "2026-09-18T07:58:24.662476+00:00",
+      "sha256": "887abc2d7b2e1efbbe8b54abcd40e9b6014bcb122d855dd43adfb2a44e0ee60a",
+      "status": "read",
+      "source_published_at": "2022-10-09T08:55:01+00:00",
+      "source_modified_at": "2026-09-01T07:05:28+00:00",
+      "date_evidence": "站点JSON-LD WebPage元数据，非课程生效时间",
+      "displayed_intake": "2027年09月",
+      "curriculum_cohort": null,
+      "scope": "公开招生参考，未确认学生本届培养方案",
+      "supports": [
+        "身份与学院地点",
+        "培养目标",
+        "分年级课程",
+        "官方职业或升学探索方向"
+      ],
+      "missing": [
+        "programme_selection_threshold",
+        "confirmed_cohort_curriculum"
+      ],
+      "conflicts": []
+    },
+    {
+      "source_id": "S-xjtlu-marketing",
+      "title": "市场营销",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/marketing",
+      "checked_at": "2026-09-18",
+      "retrieved_at": "2026-09-18T07:58:27.835876+00:00",
+      "sha256": "3da70e16dcb3bb9730b50888e5bf2128f312ffc4df3539540e3f470ae46e4f3b",
+      "status": "read",
+      "source_published_at": "2022-10-09T12:08:11+00:00",
+      "source_modified_at": "2026-06-15T04:10:36+00:00",
+      "date_evidence": "站点JSON-LD WebPage元数据，非课程生效时间",
+      "displayed_intake": "2027年09月",
+      "curriculum_cohort": null,
+      "scope": "公开招生参考，未确认学生本届培养方案",
+      "supports": [
+        "身份与学院地点",
+        "培养目标",
+        "分年级课程",
+        "官方职业或升学探索方向"
+      ],
+      "missing": [
+        "programme_selection_threshold",
+        "confirmed_cohort_curriculum"
+      ],
+      "conflicts": []
+    },
+    {
+      "source_id": "S-xjtlu-data-science-and-big-data-technology",
+      "title": "数据科学与大数据技术",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/data-science-and-big-data-technology",
+      "checked_at": "2026-09-18",
+      "retrieved_at": "2026-09-18T07:58:24.949146+00:00",
+      "sha256": "c067592b77a268843dd17b16375d71db4378d71403ce9db8e06a65b5ba4e9387",
+      "status": "read",
+      "source_published_at": "2022-10-10T02:32:03+00:00",
+      "source_modified_at": "2026-09-14T03:32:51+00:00",
+      "date_evidence": "站点JSON-LD WebPage元数据，非课程生效时间",
+      "displayed_intake": "2027年09月",
+      "curriculum_cohort": null,
+      "scope": "公开招生参考，未确认学生本届培养方案",
+      "supports": [
+        "身份与学院地点",
+        "培养目标",
+        "分年级课程",
+        "官方职业或升学探索方向"
+      ],
+      "missing": [
+        "programme_selection_threshold",
+        "confirmed_cohort_curriculum"
+      ],
+      "conflicts": []
+    },
+    {
+      "source_id": "S-xjtlu-digital-media-technology",
+      "title": "数字媒体技术",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/digital-media-technology",
+      "checked_at": "2026-09-18",
+      "retrieved_at": "2026-09-18T07:58:25.031919+00:00",
+      "sha256": "9ef1ae115dd29b69721b50e1ff1adf9eb23be1454903dcd8013c788ae0593489",
+      "status": "read",
+      "source_published_at": "2022-10-10T03:34:39+00:00",
+      "source_modified_at": "2026-08-31T17:12:47+00:00",
+      "date_evidence": "站点JSON-LD WebPage元数据，非课程生效时间",
+      "displayed_intake": "2027年09月",
+      "curriculum_cohort": null,
+      "scope": "公开招生参考，未确认学生本届培养方案",
+      "supports": [
+        "身份与学院地点",
+        "培养目标",
+        "分年级课程",
+        "官方职业或升学探索方向"
+      ],
+      "missing": [
+        "programme_selection_threshold",
+        "confirmed_cohort_curriculum"
+      ],
+      "conflicts": []
+    },
+    {
+      "source_id": "S-xjtlu-digital-media-arts",
+      "title": "数字媒体艺术",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/digital-media-arts",
+      "checked_at": "2026-09-18",
+      "retrieved_at": "2026-09-18T07:58:25.403195+00:00",
+      "sha256": "4c60f503a58346f7be92d065adf495a4fb8f0fd7d8c77cba30535e38059af710",
+      "status": "read",
+      "source_published_at": "2022-10-10T03:59:36+00:00",
+      "source_modified_at": "2026-06-15T03:54:14+00:00",
+      "date_evidence": "站点JSON-LD WebPage元数据，非课程生效时间",
+      "displayed_intake": "2027年09月",
+      "curriculum_cohort": null,
+      "scope": "公开招生参考，未确认学生本届培养方案",
+      "supports": [
+        "身份与学院地点",
+        "培养目标",
+        "分年级课程",
+        "官方职业或升学探索方向"
+      ],
+      "missing": [
+        "programme_selection_threshold",
+        "confirmed_cohort_curriculum"
+      ],
+      "conflicts": []
+    },
+    {
+      "source_id": "S-xjtlu-telecommunications-engineering",
+      "title": "通信工程",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/telecommunications-engineering",
+      "checked_at": "2026-09-18",
+      "retrieved_at": "2026-09-18T07:58:29.214138+00:00",
+      "sha256": "a0c6ca4f3f2c1d578c75a41ca2be10913f48e5b71c1e93fbf12d7363a747ee77",
+      "status": "read",
+      "source_published_at": "2022-10-10T04:04:51+00:00",
+      "source_modified_at": "2026-08-31T17:14:47+00:00",
+      "date_evidence": "站点JSON-LD WebPage元数据，非课程生效时间",
+      "displayed_intake": "2027年09月",
+      "curriculum_cohort": null,
+      "scope": "公开招生参考，未确认学生本届培养方案",
+      "supports": [
+        "身份与学院地点",
+        "培养目标",
+        "分年级课程",
+        "官方职业或升学探索方向"
+      ],
+      "missing": [
+        "programme_selection_threshold",
+        "confirmed_cohort_curriculum"
+      ],
+      "conflicts": []
+    },
+    {
+      "source_id": "S-xjtlu-civil-engineering",
+      "title": "土木工程",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/civil-engineering",
+      "checked_at": "2026-09-18",
+      "retrieved_at": "2026-09-18T07:58:30.119622+00:00",
+      "sha256": "b6c7c56ab380a45f67b8870b625d66fbb9137c92f3dce6351fa41f2c8edf4dd8",
+      "status": "read",
+      "source_published_at": "2022-10-09T20:10:21+00:00",
+      "source_modified_at": "2026-08-25T08:29:46+00:00",
+      "date_evidence": "站点JSON-LD WebPage元数据，非课程生效时间",
+      "displayed_intake": "2027年09月",
+      "curriculum_cohort": null,
+      "scope": "公开招生参考，未确认学生本届培养方案",
+      "supports": [
+        "身份与学院地点",
+        "培养目标",
+        "分年级课程",
+        "官方职业或升学探索方向"
+      ],
+      "missing": [
+        "programme_selection_threshold",
+        "confirmed_cohort_curriculum"
+      ],
+      "conflicts": []
+    },
+    {
+      "source_id": "S-xjtlu-microelectronic-science-and-engineering",
+      "title": "微电子科学与工程",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/microelectronic-science-and-engineering",
+      "checked_at": "2026-09-18",
+      "retrieved_at": "2026-09-18T07:58:32.061869+00:00",
+      "sha256": "51f28358480b3bd37566c9d47de77a40aaa7e3694d1122f36f023901ffaa09a9",
+      "status": "read",
+      "source_published_at": "2022-10-10T04:16:13+00:00",
+      "source_modified_at": "2026-08-26T01:07:49+00:00",
+      "date_evidence": "站点JSON-LD WebPage元数据，非课程生效时间",
+      "displayed_intake": "2027年09月",
+      "curriculum_cohort": null,
+      "scope": "公开招生参考，未确认学生本届培养方案",
+      "supports": [
+        "身份与学院地点",
+        "培养目标",
+        "分年级课程",
+        "官方职业或升学探索方向"
+      ],
+      "missing": [
+        "programme_selection_threshold",
+        "confirmed_cohort_curriculum"
+      ],
+      "conflicts": []
+    },
+    {
+      "source_id": "S-xjtlu-internet-of-things-engineering",
+      "title": "物联网工程",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/internet-of-things-engineering",
+      "checked_at": "2026-09-18",
+      "retrieved_at": "2026-09-18T07:58:33.930285+00:00",
+      "sha256": "623a14240c5dd3d6c040dc9147675fb198bf18f066e87bc19e561a25a0d3f6b3",
+      "status": "read",
+      "source_published_at": "2022-10-10T04:22:22+00:00",
+      "source_modified_at": "2026-08-26T01:12:15+00:00",
+      "date_evidence": "站点JSON-LD WebPage元数据，非课程生效时间",
+      "displayed_intake": "2027年09月",
+      "curriculum_cohort": null,
+      "scope": "公开招生参考，未确认学生本届培养方案",
+      "supports": [
+        "身份与学院地点",
+        "培养目标",
+        "分年级课程",
+        "官方职业或升学探索方向"
+      ],
+      "missing": [
+        "programme_selection_threshold",
+        "confirmed_cohort_curriculum"
+      ],
+      "conflicts": []
+    },
+    {
+      "source_id": "S-xjtlu-psychology-bsc",
+      "title": "心理学",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/psychology-bsc",
+      "checked_at": "2026-09-18",
+      "retrieved_at": "2026-09-18T07:58:34.100199+00:00",
+      "sha256": "7071d1868e5036b0a767d067e6b40f4bce2186b8793c0e5e80b7169c1333dcd8",
+      "status": "read",
+      "source_published_at": "2026-09-11T08:45:18+00:00",
+      "source_modified_at": "2026-09-15T07:08:07+00:00",
+      "date_evidence": "站点JSON-LD WebPage元数据，非课程生效时间",
+      "displayed_intake": "2027年09月",
+      "curriculum_cohort": null,
+      "scope": "公开招生参考，未确认学生本届培养方案",
+      "supports": [
+        "身份与学院地点",
+        "培养目标",
+        "分年级课程",
+        "官方职业或升学探索方向"
+      ],
+      "missing": [
+        "programme_selection_threshold",
+        "confirmed_cohort_curriculum"
+      ],
+      "conflicts": []
+    },
+    {
+      "source_id": "S-xjtlu-information-management-and-information-systems",
+      "title": "信息管理与信息系统",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/information-management-and-information-systems",
+      "checked_at": "2026-09-18",
+      "retrieved_at": "2026-09-18T07:58:34.673401+00:00",
+      "sha256": "fee3890a35e40f3d02672826c425b2ffaf54b0d7d434d1b418af427d55876775",
+      "status": "read",
+      "source_published_at": "2022-10-10T05:15:33+00:00",
+      "source_modified_at": "2026-06-15T04:14:17+00:00",
+      "date_evidence": "站点JSON-LD WebPage元数据，非课程生效时间",
+      "displayed_intake": "2027年09月",
+      "curriculum_cohort": null,
+      "scope": "公开招生参考，未确认学生本届培养方案",
+      "supports": [
+        "身份与学院地点",
+        "培养目标",
+        "分年级课程",
+        "官方职业或升学探索方向"
+      ],
+      "missing": [
+        "programme_selection_threshold",
+        "confirmed_cohort_curriculum"
+      ],
+      "conflicts": [
+        "课程 / 第四学年同名课程重复或跨核心/选修列表出现：金融市场中基于计算机的交易、电子商务模式和策略、毕业设计；可能涉及方向或选课组合，不能直接认定人人同修或删去重复，须核实。"
+      ]
+    },
+    {
+      "source_id": "S-xjtlu-information-and-computing-science",
+      "title": "信息与计算科学",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/information-and-computing-science",
+      "checked_at": "2026-09-18",
+      "retrieved_at": "2026-09-18T07:58:32.487411+00:00",
+      "sha256": "6160dac2d8baa2d570177a63e0fa5975b8d907c88ce721ba55f6209be7c2f7c5",
+      "status": "read",
+      "source_published_at": "2022-10-10T05:20:04+00:00",
+      "source_modified_at": "2026-08-31T17:15:43+00:00",
+      "date_evidence": "站点JSON-LD WebPage元数据，非课程生效时间",
+      "displayed_intake": "2027年09月",
+      "curriculum_cohort": null,
+      "scope": "公开招生参考，未确认学生本届培养方案",
+      "supports": [
+        "身份与学院地点",
+        "培养目标",
+        "分年级课程",
+        "官方职业或升学探索方向"
+      ],
+      "missing": [
+        "programme_selection_threshold",
+        "confirmed_cohort_curriculum"
+      ],
+      "conflicts": []
+    },
+    {
+      "source_id": "S-xjtlu-pharmaceutical-sciences",
+      "title": "药学",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/pharmaceutical-sciences",
+      "checked_at": "2026-09-18",
+      "retrieved_at": "2026-09-18T07:58:32.988307+00:00",
+      "sha256": "845e987eec0c119c88ab77d865f216fab44b374fc2bc0a28965bc41c71fcdba3",
+      "status": "read",
+      "source_published_at": "2022-10-10T05:39:34+00:00",
+      "source_modified_at": "2026-09-01T07:08:59+00:00",
+      "date_evidence": "站点JSON-LD WebPage元数据，非课程生效时间",
+      "displayed_intake": "2027年09月",
+      "curriculum_cohort": null,
+      "scope": "公开招生参考，未确认学生本届培养方案",
+      "supports": [
+        "身份与学院地点",
+        "培养目标",
+        "分年级课程",
+        "官方职业或升学探索方向"
+      ],
+      "missing": [
+        "programme_selection_threshold",
+        "confirmed_cohort_curriculum"
+      ],
+      "conflicts": []
+    },
+    {
+      "source_id": "S-xjtlu-filmmaking",
+      "title": "影视摄影与制作​",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/filmmaking",
+      "checked_at": "2026-09-18",
+      "retrieved_at": "2026-09-18T07:58:33.399993+00:00",
+      "sha256": "b07f288737cf820c2dd79422402430a37f748a1bee2512eaac3c16ae726fc694",
+      "status": "read",
+      "source_published_at": "2022-10-10T05:44:05+00:00",
+      "source_modified_at": "2026-08-24T09:08:48+00:00",
+      "date_evidence": "站点JSON-LD WebPage元数据，非课程生效时间",
+      "displayed_intake": "2027年09月",
+      "curriculum_cohort": null,
+      "scope": "公开招生参考，未确认学生本届培养方案",
+      "supports": [
+        "身份与学院地点",
+        "培养目标",
+        "分年级课程",
+        "官方职业或升学探索方向"
+      ],
+      "missing": [
+        "programme_selection_threshold",
+        "confirmed_cohort_curriculum"
+      ],
+      "conflicts": []
+    },
+    {
+      "source_id": "S-xjtlu-applied-chemistry",
+      "title": "应用化学",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/applied-chemistry",
+      "checked_at": "2026-09-18",
+      "retrieved_at": "2026-09-18T07:58:38.039567+00:00",
+      "sha256": "51c5d01ad4c912728fb31fcf6576eb1f46d4775c3841935a76ce519c2277917f",
+      "status": "read",
+      "source_published_at": "2022-10-10T05:31:46+00:00",
+      "source_modified_at": "2026-09-01T07:13:38+00:00",
+      "date_evidence": "站点JSON-LD WebPage元数据，非课程生效时间",
+      "displayed_intake": "2027年09月",
+      "curriculum_cohort": null,
+      "scope": "公开招生参考，未确认学生本届培养方案",
+      "supports": [
+        "身份与学院地点",
+        "培养目标",
+        "分年级课程",
+        "官方职业或升学探索方向"
+      ],
+      "missing": [
+        "programme_selection_threshold",
+        "confirmed_cohort_curriculum"
+      ],
+      "conflicts": []
+    },
+    {
+      "source_id": "S-xjtlu-applied-mathematics",
+      "title": "应用数学",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/applied-mathematics",
+      "checked_at": "2026-09-18",
+      "retrieved_at": "2026-09-18T07:58:38.910881+00:00",
+      "sha256": "ff6de86b1f41123b209261d5f2a1a33e0b3e265a5831b371357c48db6d5e405b",
+      "status": "read",
+      "source_published_at": "2022-10-10T05:53:37+00:00",
+      "source_modified_at": "2026-06-15T04:16:48+00:00",
+      "date_evidence": "站点JSON-LD WebPage元数据，非课程生效时间",
+      "displayed_intake": "2027年09月",
+      "curriculum_cohort": null,
+      "scope": "公开招生参考，未确认学生本届培养方案",
+      "supports": [
+        "身份与学院地点",
+        "培养目标",
+        "分年级课程",
+        "官方职业或升学探索方向"
+      ],
+      "missing": [
+        "programme_selection_threshold",
+        "confirmed_cohort_curriculum"
+      ],
+      "conflicts": [
+        "目录与详情名为“应用数学”，S02第九条使用“数学与应用数学”；不擅自认定法定名称等同，校内报选名称须核实。"
+      ]
+    },
+    {
+      "source_id": "S-xjtlu-applied-statistics",
+      "title": "应用统计学",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/applied-statistics",
+      "checked_at": "2026-09-18",
+      "retrieved_at": "2026-09-18T07:58:34.712216+00:00",
+      "sha256": "77021a0bc1f2b424fbda1ed9e6d6b1b4ead98f05b340943735038f26fe06e22e",
+      "status": "read",
+      "source_published_at": "2022-10-10T05:48:20+00:00",
+      "source_modified_at": "2026-09-01T07:14:12+00:00",
+      "date_evidence": "站点JSON-LD WebPage元数据，非课程生效时间",
+      "displayed_intake": "2027年09月",
+      "curriculum_cohort": null,
+      "scope": "公开招生参考，未确认学生本届培养方案",
+      "supports": [
+        "身份与学院地点",
+        "培养目标",
+        "分年级课程",
+        "官方职业或升学探索方向"
+      ],
+      "missing": [
+        "programme_selection_threshold",
+        "confirmed_cohort_curriculum"
+      ],
+      "conflicts": []
+    },
+    {
+      "source_id": "S-xjtlu-applied-physics-bsc",
+      "title": "应用物理学",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/applied-physics-bsc",
+      "checked_at": "2026-09-18",
+      "retrieved_at": "2026-09-18T07:58:39.097675+00:00",
+      "sha256": "4a5e40f986bede2b0b5d7f3e3ad46c524212e188d2c7923d59d05c256e82fcbb",
+      "status": "read",
+      "source_published_at": "2026-06-18T08:23:20+00:00",
+      "source_modified_at": "2026-09-09T08:14:03+00:00",
+      "date_evidence": "站点JSON-LD WebPage元数据，非课程生效时间",
+      "displayed_intake": "2027年09月",
+      "curriculum_cohort": null,
+      "scope": "公开招生参考，未确认学生本届培养方案",
+      "supports": [
+        "身份与学院地点",
+        "培养目标",
+        "分年级课程",
+        "官方职业或升学探索方向"
+      ],
+      "missing": [
+        "programme_selection_threshold",
+        "confirmed_cohort_curriculum"
+      ],
+      "conflicts": []
+    },
+    {
+      "source_id": "S-xjtlu-english-and-communication-studies",
+      "title": "英语（传媒英语）",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/english-and-communication-studies",
+      "checked_at": "2026-09-18",
+      "retrieved_at": "2026-09-18T07:58:35.170071+00:00",
+      "sha256": "13a86d59de7059d44b571c29d9c50db61792a2c88a65fe22654b4dc25a788a22",
+      "status": "read",
+      "source_published_at": "2022-10-09T02:38:17+00:00",
+      "source_modified_at": "2026-08-31T07:12:08+00:00",
+      "date_evidence": "站点JSON-LD WebPage元数据，非课程生效时间",
+      "displayed_intake": "2027年09月",
+      "curriculum_cohort": null,
+      "scope": "公开招生参考，未确认学生本届培养方案",
+      "supports": [
+        "身份与学院地点",
+        "培养目标",
+        "分年级课程",
+        "官方职业或升学探索方向"
+      ],
+      "missing": [
+        "programme_selection_threshold",
+        "confirmed_cohort_curriculum"
+      ],
+      "conflicts": []
+    },
+    {
+      "source_id": "S-xjtlu-english-and-business",
+      "title": "英语（金融商务英语）",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/english-and-business",
+      "checked_at": "2026-09-18",
+      "retrieved_at": "2026-09-18T07:58:35.607350+00:00",
+      "sha256": "f28d8ee112809957b3bb44df7e68fb7e1c48ecd28d00c06fbe2660e7df270ca0",
+      "status": "read",
+      "source_published_at": "2022-10-09T08:09:14+00:00",
+      "source_modified_at": "2026-06-15T04:17:27+00:00",
+      "date_evidence": "站点JSON-LD WebPage元数据，非课程生效时间",
+      "displayed_intake": "2027年09月",
+      "curriculum_cohort": null,
+      "scope": "公开招生参考，未确认学生本届培养方案",
+      "supports": [
+        "身份与学院地点",
+        "培养目标",
+        "分年级课程",
+        "官方职业或升学探索方向"
+      ],
+      "missing": [
+        "programme_selection_threshold",
+        "confirmed_cohort_curriculum"
+      ],
+      "conflicts": [
+        "课程 / 第三学年同名课程重复或跨核心/选修列表出现：国际发展、证券市场；可能涉及方向或选课组合，不能直接认定人人同修或删去重复，须核实。"
+      ]
+    },
+    {
+      "source_id": "S-xjtlu-english-studies",
+      "title": "英语（全球语境下的英语研究）",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/english-studies",
+      "checked_at": "2026-09-18",
+      "retrieved_at": "2026-09-18T07:58:39.891780+00:00",
+      "sha256": "7869aefdfa915dff58c0d415862e1fdc952080c7132fe22e916d5efbd940eb90",
+      "status": "read",
+      "source_published_at": "2022-10-10T05:58:33+00:00",
+      "source_modified_at": "2026-06-15T04:19:00+00:00",
+      "date_evidence": "站点JSON-LD WebPage元数据，非课程生效时间",
+      "displayed_intake": "2027年09月",
+      "curriculum_cohort": null,
+      "scope": "公开招生参考，未确认学生本届培养方案",
+      "supports": [
+        "身份与学院地点",
+        "培养目标",
+        "分年级课程",
+        "官方职业或升学探索方向"
+      ],
+      "missing": [
+        "programme_selection_threshold",
+        "confirmed_cohort_curriculum"
+      ],
+      "conflicts": []
+    },
+    {
+      "source_id": "S-xjtlu-applied-linguistics",
+      "title": "英语（应用语言学）",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/applied-linguistics",
+      "checked_at": "2026-09-18",
+      "retrieved_at": "2026-09-18T07:58:38.866755+00:00",
+      "sha256": "4dd1a600d757ce89db47a8a1a505df05215e99a8511d57f20dc5bece587ccb39",
+      "status": "read",
+      "source_published_at": "2022-10-09T06:21:46+00:00",
+      "source_modified_at": "2026-08-31T07:16:23+00:00",
+      "date_evidence": "站点JSON-LD WebPage元数据，非课程生效时间",
+      "displayed_intake": "2027年09月",
+      "curriculum_cohort": null,
+      "scope": "公开招生参考，未确认学生本届培养方案",
+      "supports": [
+        "身份与学院地点",
+        "培养目标",
+        "分年级课程",
+        "官方职业或升学探索方向"
+      ],
+      "missing": [
+        "programme_selection_threshold",
+        "confirmed_cohort_curriculum"
+      ],
+      "conflicts": []
+    },
+    {
+      "source_id": "S-xjtlu-arts-technology-and-entertainment",
+      "title": "艺术与科技",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/arts-technology-and-entertainment",
+      "checked_at": "2026-09-18",
+      "retrieved_at": "2026-09-18T07:58:39.266029+00:00",
+      "sha256": "94e57ee76ab59e9b87c1b6d8877badc2838e0ff5dcf9a84a53dc23061dde6f96",
+      "status": "read",
+      "source_published_at": "2022-10-10T05:24:35+00:00",
+      "source_modified_at": "2026-06-15T04:19:13+00:00",
+      "date_evidence": "站点JSON-LD WebPage元数据，非课程生效时间",
+      "displayed_intake": "2027年09月",
+      "curriculum_cohort": null,
+      "scope": "公开招生参考，未确认学生本届培养方案",
+      "supports": [
+        "身份与学院地点",
+        "培养目标",
+        "分年级课程",
+        "官方职业或升学探索方向"
+      ],
+      "missing": [
+        "programme_selection_threshold",
+        "confirmed_cohort_curriculum"
+      ],
+      "conflicts": []
+    },
+    {
+      "source_id": "S-xjtlu-intelligent-manufacturing-engineering",
+      "title": "智能制造工程",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/intelligent-manufacturing-engineering",
+      "checked_at": "2026-09-18",
+      "retrieved_at": "2026-09-18T07:58:39.703992+00:00",
+      "sha256": "8ac5a823292ef1601219ac31d9c6fd008620637dcf8ab2974af3b66c76c33724",
+      "status": "read",
+      "source_published_at": "2022-10-10T06:03:19+00:00",
+      "source_modified_at": "2026-08-26T01:15:42+00:00",
+      "date_evidence": "站点JSON-LD WebPage元数据，非课程生效时间",
+      "displayed_intake": "2027年09月",
+      "curriculum_cohort": null,
+      "scope": "公开招生参考，未确认学生本届培养方案",
+      "supports": [
+        "身份与学院地点",
+        "培养目标",
+        "分年级课程",
+        "官方职业或升学探索方向"
+      ],
+      "missing": [
+        "programme_selection_threshold",
+        "confirmed_cohort_curriculum"
+      ],
+      "conflicts": []
+    },
+    {
+      "source_id": "C01",
+      "url": "https://www.bls.gov/ooh/computer-and-information-technology/software-developers.htm",
+      "title": "BLS Occupational Outlook Handbook — Software Developers, Quality Assurance Analysts, and Testers",
+      "checked_at": "2026-09-18",
+      "source_updated_at": "2026-08-27",
+      "applicable_year": "2026-08-27 职业说明版本；未使用工资或就业预测数值",
+      "region": "美国",
+      "scope": "美国软件开发、质量保证与测试职业概况；不适用于中国招聘或个人工作资格",
+      "supports": [
+        "软件开发的需求、设计、测试维护和协作任务",
+        "典型本科教育入口，部分雇主偏好硕士",
+        "编程基础是重要准备"
+      ],
+      "status": "verified_original_content",
+      "read_sections": [
+        "What They Do / How to Become One 或项目 Key information / Entry requirements"
+      ],
+      "artifact_paths": [
+        "xjtlu-major-advisor/references/career/computing-data.md"
+      ],
+      "limitations": "仅支持列出的任务或教育路径；不证明中国招聘、个人资格、收入或录取结果"
+    },
+    {
+      "source_id": "C02",
+      "url": "https://www.bls.gov/ooh/math/data-scientists.htm",
+      "title": "BLS Occupational Outlook Handbook — Data Scientists",
+      "checked_at": "2026-09-18",
+      "source_updated_at": "2026-08-27",
+      "applicable_year": "2026-08-27 职业说明版本；未使用工资或就业预测数值",
+      "region": "美国",
+      "scope": "美国数据科学职业概况；不适用于中国招聘或个人工作资格",
+      "supports": [
+        "数据整理、模型验证、结果呈现任务",
+        "典型本科入口；部分岗位要求或偏好硕士、博士"
+      ],
+      "status": "verified_original_content",
+      "read_sections": [
+        "What They Do / How to Become One 或项目 Key information / Entry requirements"
+      ],
+      "artifact_paths": [
+        "xjtlu-major-advisor/references/career/computing-data.md"
+      ],
+      "limitations": "仅支持列出的任务或教育路径；不证明中国招聘、个人资格、收入或录取结果"
+    },
+    {
+      "source_id": "C03",
+      "url": "https://www.bls.gov/ooh/business-and-financial/financial-analysts.htm",
+      "title": "BLS Occupational Outlook Handbook — Financial Analysts",
+      "checked_at": "2026-09-18",
+      "source_updated_at": "2026-08-27",
+      "applicable_year": "2026-08-27 职业说明版本；未使用工资或就业预测数值",
+      "region": "美国",
+      "scope": "美国金融分析职业概况；证券执照需按地区及具体岗位另查",
+      "supports": [
+        "财务资料、趋势风险分析及报告任务",
+        "典型本科入口；部分雇主偏好硕士，实习有助经验积累",
+        "部分美国岗位另有执照要求"
+      ],
+      "status": "verified_original_content",
+      "read_sections": [
+        "What They Do / How to Become One 或项目 Key information / Entry requirements"
+      ],
+      "artifact_paths": [
+        "xjtlu-major-advisor/references/career/business-finance.md"
+      ],
+      "limitations": "仅支持列出的任务或教育路径；不证明中国招聘、个人资格、收入或录取结果"
+    },
+    {
+      "source_id": "C04",
+      "url": "https://www.bls.gov/ooh/architecture-and-engineering/mechanical-engineers.htm",
+      "title": "BLS Occupational Outlook Handbook — Mechanical Engineers",
+      "checked_at": "2026-09-18",
+      "source_updated_at": "2026-08-27",
+      "applicable_year": "2026-08-27 职业说明版本；未使用工资或就业预测数值",
+      "region": "美国",
+      "scope": "美国机械工程职业概况；不覆盖全部工程分支或中国工程注册",
+      "supports": [
+        "设计、原型、测试和修改任务",
+        "典型机械工程或相关工程技术本科入口",
+        "入门职位与向公众提供专业服务的执照要求不同",
+        "部分研究和高校教职路径需要博士"
+      ],
+      "status": "verified_original_content",
+      "read_sections": [
+        "What They Do / How to Become One 或项目 Key information / Entry requirements"
+      ],
+      "artifact_paths": [
+        "xjtlu-major-advisor/references/career/engineering.md"
+      ],
+      "limitations": "仅支持列出的任务或教育路径；不证明中国招聘、个人资格、收入或录取结果"
+    },
+    {
+      "source_id": "C05",
+      "url": "https://www.bls.gov/ooh/life-physical-and-social-science/biological-technicians.htm",
+      "title": "BLS Occupational Outlook Handbook — Biological Technicians",
+      "checked_at": "2026-09-18",
+      "source_updated_at": "2026-08-27",
+      "applicable_year": "2026-08-27 职业说明版本；未使用工资或就业预测数值",
+      "region": "美国",
+      "scope": "美国生物技术支持职业概况；不代表临床检验或中国岗位门槛",
+      "supports": [
+        "实验准备、记录及数据处理任务",
+        "典型生物或相关本科入口；在校实验经历重要"
+      ],
+      "status": "verified_original_content",
+      "read_sections": [
+        "What They Do / How to Become One 或项目 Key information / Entry requirements"
+      ],
+      "artifact_paths": [
+        "xjtlu-major-advisor/references/career/life-health.md"
+      ],
+      "limitations": "仅支持列出的任务或教育路径；不证明中国招聘、个人资格、收入或录取结果"
+    },
+    {
+      "source_id": "C06",
+      "url": "https://www.bls.gov/ooh/life-physical-and-social-science/medical-scientists.htm",
+      "title": "BLS Occupational Outlook Handbook — Medical Scientists",
+      "checked_at": "2026-09-18",
+      "source_updated_at": "2026-08-27",
+      "applicable_year": "2026-08-27 职业说明版本；未使用工资或就业预测数值",
+      "region": "美国",
+      "scope": "美国医学研究职业概况；不构成临床执业资格认定",
+      "supports": [
+        "通常博士或医学学位，部分职位可由硕士与经验进入",
+        "医学研究与患者诊治执业资格需要区分"
+      ],
+      "status": "verified_original_content",
+      "read_sections": [
+        "What They Do / How to Become One 或项目 Key information / Entry requirements"
+      ],
+      "artifact_paths": [
+        "xjtlu-major-advisor/references/career/life-health.md"
+      ],
+      "limitations": "仅支持列出的任务或教育路径；不证明中国招聘、个人资格、收入或录取结果"
+    },
+    {
+      "source_id": "C07",
+      "url": "https://www.bls.gov/ooh/architecture-and-engineering/architects.htm",
+      "title": "BLS Occupational Outlook Handbook — Architects",
+      "checked_at": "2026-09-18",
+      "source_updated_at": "2026-08-27",
+      "applicable_year": "2026-08-27 职业说明版本；未使用工资或就业预测数值",
+      "region": "美国",
+      "scope": "美国建筑师职业概况；不是西浦学位认证证明或中国注册规则",
+      "supports": [
+        "建筑设计包含需求、绘图、成本与专业协作",
+        "美国典型注册路径涉及教育、实践和考试，具体要求须按地区确认"
+      ],
+      "status": "verified_original_content",
+      "read_sections": [
+        "What They Do / How to Become One 或项目 Key information / Entry requirements"
+      ],
+      "artifact_paths": [
+        "xjtlu-major-advisor/references/career/architecture.md"
+      ],
+      "limitations": "仅支持列出的任务或教育路径；不证明中国招聘、个人资格、收入或录取结果"
+    },
+    {
+      "source_id": "C08",
+      "url": "https://www.bls.gov/ooh/arts-and-design/industrial-designers.htm",
+      "title": "BLS Occupational Outlook Handbook — Industrial Designers",
+      "checked_at": "2026-09-18",
+      "source_updated_at": "2026-08-27",
+      "applicable_year": "2026-08-27 职业说明版本；未使用工资或就业预测数值",
+      "region": "美国",
+      "scope": "美国工业和实体产品设计职业概况；不代表全部创意产业",
+      "supports": [
+        "设计结合使用、功能、外观与制造约束",
+        "典型本科入口及电子作品集要求"
+      ],
+      "status": "verified_original_content",
+      "read_sections": [
+        "What They Do / How to Become One 或项目 Key information / Entry requirements"
+      ],
+      "artifact_paths": [
+        "xjtlu-major-advisor/references/career/creative-design.md"
+      ],
+      "limitations": "仅支持列出的任务或教育路径；不证明中国招聘、个人资格、收入或录取结果"
+    },
+    {
+      "source_id": "C09",
+      "url": "https://www.bls.gov/ooh/life-physical-and-social-science/psychologists.htm",
+      "title": "BLS Occupational Outlook Handbook — Psychologists",
+      "checked_at": "2026-09-18",
+      "source_updated_at": "2026-08-27",
+      "applicable_year": "2026-08-27 职业说明版本；未使用工资或就业预测数值",
+      "region": "美国",
+      "scope": "美国心理学职业概况；各司法辖区专业服务资格另查",
+      "supports": [
+        "心理学家通常需要研究生层级训练",
+        "美国临床和咨询心理学家通常博士级教育，执照条件依地区与岗位不同"
+      ],
+      "status": "verified_original_content",
+      "read_sections": [
+        "What They Do / How to Become One 或项目 Key information / Entry requirements"
+      ],
+      "artifact_paths": [
+        "xjtlu-major-advisor/references/career/human-social.md"
+      ],
+      "limitations": "仅支持列出的任务或教育路径；不证明中国招聘、个人资格、收入或录取结果"
+    },
+    {
+      "source_id": "C10",
+      "url": "https://www.bls.gov/ooh/media-and-communication/interpreters-and-translators.htm",
+      "title": "BLS Occupational Outlook Handbook — Interpreters and Translators",
+      "checked_at": "2026-09-18",
+      "source_updated_at": "2026-08-27",
+      "applicable_year": "2026-08-27 职业说明版本；未使用工资或就业预测数值",
+      "region": "美国",
+      "scope": "美国口笔译职业概况；不覆盖中国翻译或教师资格",
+      "supports": [
+        "典型本科入口与至少两种语言、对应口笔译技能",
+        "领域知识与语言技能可以结合",
+        "特定场景可能另有认证要求"
+      ],
+      "status": "verified_original_content",
+      "read_sections": [
+        "What They Do / How to Become One 或项目 Key information / Entry requirements"
+      ],
+      "artifact_paths": [
+        "xjtlu-major-advisor/references/career/language.md"
+      ],
+      "limitations": "仅支持列出的任务或教育路径；不证明中国招聘、个人资格、收入或录取结果"
+    },
+    {
+      "source_id": "C11",
+      "url": "https://www.ucl.ac.uk/study/prospective-students/graduate/courses/data-science-msc",
+      "title": "UCL — Data Science MSc",
+      "checked_at": "2026-09-18",
+      "source_updated_at": null,
+      "applicable_year": "2027/28",
+      "region": "英国",
+      "scope": "英国 UCL 单个项目；当前页面适用 2027/28、2027年9月入学；不得推广到其他项目或未来届别",
+      "supports": [
+        "需要量化学科背景",
+        "大学数学方法、线性代数、概率统计和编程基础；高级编程语言经验"
+      ],
+      "status": "verified_original_content",
+      "read_sections": [
+        "What They Do / How to Become One 或项目 Key information / Entry requirements"
+      ],
+      "artifact_paths": [
+        "xjtlu-major-advisor/references/career/computing-data.md"
+      ],
+      "limitations": "仅支持列出的任务或教育路径；不证明中国招聘、个人资格、收入或录取结果"
+    },
+    {
+      "source_id": "C12",
+      "url": "https://www.lse.ac.uk/study-at-lse/graduate/masters-in-management",
+      "title": "LSE — Master's in Management",
+      "checked_at": "2026-09-18",
+      "source_updated_at": null,
+      "applicable_year": "2026/27",
+      "region": "英国",
+      "scope": "英国 LSE 单个项目；当前页面适用 2026/27；不代表所有商科硕士",
+      "supports": [
+        "欢迎不同本科背景申请，同时有学位、语言及其他申请要求",
+        "当前页面显示该年申请关闭"
+      ],
+      "status": "verified_original_content",
+      "read_sections": [
+        "What They Do / How to Become One 或项目 Key information / Entry requirements"
+      ],
+      "artifact_paths": [
+        "xjtlu-major-advisor/references/career/business-finance.md"
+      ],
+      "limitations": "仅支持列出的任务或教育路径；不证明中国招聘、个人资格、收入或录取结果"
+    },
+    {
+      "source_id": "C13",
+      "url": "https://www.bls.gov/ooh/business-and-financial/market-research-analysts.htm",
+      "title": "BLS Occupational Outlook Handbook — Market Research Analysts",
+      "checked_at": "2026-09-18",
+      "source_updated_at": "2026-08-27",
+      "applicable_year": "2026-08-27 职业说明版本；未使用工资或就业预测数值",
+      "region": "美国",
+      "scope": "美国市场研究职业概况；不代表全部人文社科岗位",
+      "supports": [
+        "调查方法、数据分析与报告呈现任务",
+        "典型本科入口含商科、传播和社会科学相关背景；部分岗位偏好或要求硕士"
+      ],
+      "status": "verified_original_content",
+      "read_sections": [
+        "What They Do / How to Become One 或项目 Key information / Entry requirements"
+      ],
+      "artifact_paths": [
+        "xjtlu-major-advisor/references/career/human-social.md"
+      ],
+      "limitations": "仅支持列出的任务或教育路径；不证明中国招聘、个人资格、收入或录取结果"
+    },
+    {
+      "id": "P-WB-01",
+      "title": "WorkBuddy 官方首页",
+      "url": "https://www.workbuddy.ai/",
+      "publisher": "Tencent WorkBuddy",
+      "checked_at": "2026-09-18",
+      "published_at": null,
+      "read_status": "empty_body",
+      "supports": [],
+      "limitations": "起始入口返回空正文；不能用于证实安装能力。",
+      "platform_runtime_tested": false,
+      "source_id": "P-WB-01"
+    },
+    {
+      "id": "P-WB-02",
+      "title": "WorkBuddy 技能",
+      "url": "https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Skills-Market",
+      "publisher": "Tencent WorkBuddy",
+      "checked_at": "2026-09-18",
+      "published_at": null,
+      "read_status": "body_read",
+      "supports": [
+        "本地技能包上传入口",
+        "技能启用/关闭"
+      ],
+      "limitations": "本包实际导入未测试。",
+      "platform_runtime_tested": false,
+      "source_id": "P-WB-02"
+    },
+    {
+      "id": "P-WB-03",
+      "title": "WorkBuddy 开放平台技能",
+      "url": "https://open.workbuddy.cn/docs/skill",
+      "publisher": "Tencent WorkBuddy",
+      "checked_at": "2026-09-18",
+      "published_at": null,
+      "read_status": "body_read",
+      "supports": [
+        "SKILL.md结构",
+        "description/description_zh/description_en/version/author字段",
+        "references资源"
+      ],
+      "limitations": "开放平台格式，不视为客户端实际兼容证明；ZIP包内层级仍需实测。",
+      "platform_runtime_tested": false,
+      "source_id": "P-WB-03"
+    },
+    {
+      "id": "P-WB-04",
+      "title": "WorkBuddy 新建任务栏",
+      "url": "https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Task-Bar",
+      "publisher": "Tencent WorkBuddy",
+      "checked_at": "2026-09-18",
+      "published_at": null,
+      "read_status": "body_read",
+      "supports": [
+        "Ask/Craft模式",
+        "工作目录",
+        "技能选择"
+      ],
+      "limitations": "模式和模型显示可能随版本变化。",
+      "platform_runtime_tested": false,
+      "source_id": "P-WB-04"
+    },
+    {
+      "id": "P-WB-05",
+      "title": "WorkBuddy 结果查看",
+      "url": "https://www.workbuddy.ai/docs/zh/workbuddy/Results",
+      "publisher": "Tencent WorkBuddy",
+      "checked_at": "2026-09-18",
+      "published_at": null,
+      "read_status": "body_read",
+      "supports": [
+        "产物列表",
+        "文件查看",
+        "Markdown等结果"
+      ],
+      "limitations": "未验证本报告保存与下载。",
+      "platform_runtime_tested": false,
+      "source_id": "P-WB-05"
+    },
+    {
+      "id": "P-TR-01",
+      "title": "TRAE 国际站 IDE Skills 起始入口",
+      "url": "https://docs.trae.ai/ide/skills",
+      "publisher": "TRAE",
+      "checked_at": "2026-09-18",
+      "published_at": null,
+      "read_status": "empty_body",
+      "supports": [],
+      "limitations": "返回空正文；产品不是本机已确认的TraeWork CN，未据此写安装说明。",
+      "platform_runtime_tested": false,
+      "source_id": "P-TR-01"
+    },
+    {
+      "id": "P-TR-02",
+      "title": "TraeWork CN 技能",
+      "url": "https://docs.trae.cn/work_skills",
+      "publisher": "TRAE",
+      "checked_at": "2026-09-18",
+      "published_at": null,
+      "read_status": "body_read",
+      "supports": [
+        "ZIP/.skill根级SKILL.md",
+        "name/description YAML",
+        "插件市场上传",
+        "显式/自动调用",
+        "本地云端范围"
+      ],
+      "limitations": "本机身份由只读安装元信息补充确认，未安装或运行本包。",
+      "platform_runtime_tested": false,
+      "source_id": "P-TR-02"
+    },
+    {
+      "id": "P-TR-03",
+      "title": "TraeWork 产物空间",
+      "url": "https://docs.trae.cn/work_my-space",
+      "publisher": "TRAE",
+      "checked_at": "2026-09-18",
+      "published_at": null,
+      "read_status": "body_read",
+      "supports": [
+        "本地与云端产物",
+        "原任务与新对话的上下文差别",
+        "产物查看"
+      ],
+      "limitations": "完整报告输出仍需实测。",
+      "platform_runtime_tested": false,
+      "source_id": "P-TR-03"
+    },
+    {
+      "id": "P-TR-04",
+      "title": "TraeWork 对话",
+      "url": "https://docs.trae.cn/work_chat",
+      "publisher": "TRAE",
+      "checked_at": "2026-09-18",
+      "published_at": null,
+      "read_status": "body_read",
+      "supports": [
+        "添加本地附件和项目文件",
+        "技能上下文",
+        "主动提问与等待"
+      ],
+      "limitations": "产品提供问答机制不保证本技能按单问规则执行。",
+      "platform_runtime_tested": false,
+      "source_id": "P-TR-04"
+    },
+    {
+      "id": "P-CG-01",
+      "title": "OpenAI Docs Build skills",
+      "url": "https://learn.chatgpt.com/docs/build-skills",
+      "publisher": "OpenAI",
+      "checked_at": "2026-09-18",
+      "published_at": null,
+      "read_status": "body_read",
+      "supports": [
+        "Skill结构",
+        "独立技能及插件支持入口",
+        "显式隐式调用"
+      ],
+      "limitations": "没有建立所有账号套餐及客户端统一支持矩阵。",
+      "platform_runtime_tested": false,
+      "source_id": "P-CG-01"
+    },
+    {
+      "id": "P-CG-02",
+      "title": "OpenAI 插件包装",
+      "url": "https://developers.openai.com/plugins/build/plugins",
+      "publisher": "OpenAI",
+      "checked_at": "2026-09-18",
+      "published_at": null,
+      "read_status": "body_read",
+      "supports": [
+        "portable root plugin.json",
+        "兼容.codex-plugin/plugin.json",
+        "skills目录",
+        "本地marketplace安装"
+      ],
+      "limitations": "本包选择兼容清单；未登记本机marketplace，未公开发布。",
+      "platform_runtime_tested": false,
+      "source_id": "P-CG-02"
+    },
+    {
+      "id": "P-CG-03",
+      "title": "OpenAI Plugins",
+      "url": "https://learn.chatgpt.com/docs/plugins",
+      "publisher": "OpenAI",
+      "checked_at": "2026-09-18",
+      "published_at": null,
+      "read_status": "body_read",
+      "supports": [
+        "支持客户端入口",
+        "Plugins Directory",
+        "新会话",
+        "权限边界"
+      ],
+      "limitations": "本地来源能否出现在学生账号仍需现场验证。",
+      "platform_runtime_tested": false,
+      "source_id": "P-CG-03"
+    },
+    {
+      "id": "P-CG-04",
+      "title": "OpenAI Skill controls",
+      "url": "https://learn.chatgpt.com/docs/enterprise/skills",
+      "publisher": "OpenAI",
+      "checked_at": "2026-09-18",
+      "published_at": null,
+      "read_status": "body_read",
+      "supports": [
+        "workspace/filesystem/plugin分发和权限彼此独立"
+      ],
+      "limitations": "不由本地目录复制推定获得工作空间权限。",
+      "platform_runtime_tested": false,
+      "source_id": "P-CG-04"
+    },
+    {
+      "id": "P-CG-05",
+      "title": "OpenAI 插件测试",
+      "url": "https://developers.openai.com/plugins/deploy/connect-chatgpt",
+      "publisher": "OpenAI",
+      "checked_at": "2026-09-18",
+      "published_at": null,
+      "read_status": "body_read",
+      "supports": [
+        "skills-only插件可直接测试完整包",
+        "本地marketplace安装后新会话测试"
+      ],
+      "limitations": "本次只有候选包，没有真实平台测试结果。",
+      "platform_runtime_tested": false,
+      "source_id": "P-CG-05"
+    },
+    {
+      "id": "P-DB-01",
+      "title": "豆包云盘使用须知",
+      "url": "https://www.doubao.com/legal/ai_space",
+      "publisher": "豆包",
+      "checked_at": "2026-09-18",
+      "published_at": null,
+      "read_status": "body_read",
+      "supports": [
+        "上传入口",
+        "登录要求",
+        "文件存储"
+      ],
+      "limitations": "未给出统一接受类型、数量、大小或全文上下文承诺。",
+      "platform_runtime_tested": false,
+      "source_id": "P-DB-01"
+    },
+    {
+      "id": "P-DB-02",
+      "title": "豆包隐私政策",
+      "url": "https://www.doubao.com/legal/privacy",
+      "publisher": "豆包",
+      "checked_at": "2026-09-18",
+      "published_at": null,
+      "read_status": "body_read",
+      "supports": [
+        "选定云盘文档作为参考资料"
+      ],
+      "limitations": "不能据此断言整个附件被完整读取。",
+      "platform_runtime_tested": false,
+      "source_id": "P-DB-02"
+    },
+    {
+      "id": "P-DB-03",
+      "title": "豆包聊天入口",
+      "url": "https://www.doubao.com/chat/",
+      "publisher": "豆包",
+      "checked_at": "2026-09-18",
+      "published_at": null,
+      "read_status": "empty_body",
+      "supports": [],
+      "limitations": "无法读取正文，无法核验当前上传限额或联网开关。",
+      "platform_runtime_tested": false,
+      "source_id": "P-DB-03"
+    },
+    {
+      "id": "P-DB-04",
+      "title": "豆包特定分享入口",
+      "url": "https://www.doubao.com/share?botId=7356055716631232575",
+      "publisher": "豆包",
+      "checked_at": "2026-09-18",
+      "published_at": null,
+      "read_status": "body_unavailable",
+      "supports": [],
+      "limitations": "搜索摘要有文件类型和数量，但实际打开仅图像，因此未将摘要当作已核实能力。",
+      "platform_runtime_tested": false,
+      "source_id": "P-DB-04"
+    }
+  ]
+}

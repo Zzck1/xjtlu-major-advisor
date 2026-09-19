@@ -1,0 +1,22 @@
+# 详细资料上传索引
+
+资料版本：0.1.1-rc1｜2026-09-18
+
+覆盖 52 个官网入口；下面分组仅按实际培养内容帮助上传，不是招生大类或资格筛选。跨学科项目可以同时比较多个组。形成候选后上传所在组并抽查实际读取；职业/升学判断另读职业方向卡汇编。每个 `.md` 有同内容 `.txt` 备用，通常不必重复上传两种格式。
+
+|详细文件|包含的目录入口|
+|---|---|
+|[details/G01-材料化学与物理.md](details/G01-材料化学与物理.md)|材料科学与工程 (`xjtlu-materials-science-and-engineering-2`)；应用化学 (`xjtlu-applied-chemistry`)；应用物理学 (`xjtlu-applied-physics-bsc`)|
+|[details/G02-建筑设计与城市.md](details/G02-建筑设计与城市.md)|城乡规划 (`xjtlu-urban-planning-and-design`)；工业设计 (`xjtlu-industrial-design`)；建筑学 (`xjtlu-architecture`)；土木工程 (`xjtlu-civil-engineering`)|
+|[details/G03-人文语言与传播.md](details/G03-人文语言与传播.md)|传播学 (`xjtlu-communication-studies`)；翻译 (`xjtlu-translation-and-interpreting`)；国际事务与国际关系 (`xjtlu-international-relations`)；汉学与中国学 (`xjtlu-china-studies`)；英语（传媒英语） (`xjtlu-english-and-communication-studies`)；英语（金融商务英语） (`xjtlu-english-and-business`)；英语（全球语境下的英语研究） (`xjtlu-english-studies`)；英语（应用语言学） (`xjtlu-applied-linguistics`)|
+|[details/G04-电子工程与制造.md](details/G04-电子工程与制造.md)|电气工程及其自动化 (`xjtlu-electrical-engineering`)；电子科学与技术 (`xjtlu-electronic-science-and-technology`)；机器人工程 (`xjtlu-intelligent-robotics-engineering`)；机械电子工程 (`xjtlu-mechatronics-and-robotic-systems`)；通信工程 (`xjtlu-telecommunications-engineering`)；微电子科学与工程 (`xjtlu-microelectronic-science-and-engineering`)；物联网工程 (`xjtlu-internet-of-things-engineering`)；智能制造工程 (`xjtlu-intelligent-manufacturing-engineering`)|
+|[details/G05-商业经济与金融.md](details/G05-商业经济与金融.md)|工商管理 (`xjtlu-business-administration`)；供应链管理 (`xjtlu-intelligent-supply-chain`)；国际商务 (`xjtlu-international-business-with-a-language`)；会计学 (`xjtlu-accounting`)；经济学 (`xjtlu-economics`)；经济与金融 (`xjtlu-economics-and-finance`)；人力资源管理 (`xjtlu-human-resource-management`)；市场营销 (`xjtlu-marketing`)；信息管理与信息系统 (`xjtlu-information-management-and-information-systems`)|
+|[details/G06-创意媒体与艺术.md](details/G06-创意媒体与艺术.md)|广播电视学 (`xjtlu-film-and-television-production`)；数字媒体艺术 (`xjtlu-digital-media-arts`)；影视摄影与制作​ (`xjtlu-filmmaking`)；艺术与科技 (`xjtlu-arts-technology-and-entertainment`)|
+|[details/G07-生命环境与健康.md](details/G07-生命环境与健康.md)|环境科学 (`xjtlu-environmental-science`)；生物科学 (`xjtlu-biological-sciences`)；生物信息学 (`xjtlu-bioinformatics`)；生物医学科学 (`xjtlu-biomedical-sciences`)；生物制药 (`xjtlu-biopharmaceuticals`)；心理学 (`xjtlu-psychology-bsc`)；药学 (`xjtlu-pharmaceutical-sciences`)|
+|[details/G08-数学统计与数据.md](details/G08-数学统计与数据.md)|精算学 (`xjtlu-actuarial-science`)；金融数学 (`xjtlu-financial-mathematics`)；应用数学 (`xjtlu-applied-mathematics`)；应用统计学 (`xjtlu-applied-statistics`)|
+|[details/G09-计算人工智能与系统.md](details/G09-计算人工智能与系统.md)|计算机科学与技术 (`xjtlu-computer-science-and-technology`)；人工智能 (`xjtlu-artificial-intelligence`)；数据科学与大数据技术 (`xjtlu-data-science-and-big-data-technology`)；数字媒体技术 (`xjtlu-digital-media-technology`)；信息与计算科学 (`xjtlu-information-and-computing-science`)|
+|[details/C00-职业与升学方向卡.md](details/C00-职业与升学方向卡.md)|共享职业与升学卡；地区与年份不可外推|
+
+## 分散位置读取抽查
+
+依次抽查核心文件开头的版本、中部的资格规则和末尾索引；每个详细文件分别挑开头、中间、末尾的major_id，要求返回名称、一个确实存在的课程及来源URL。回答错误就补读或缩小上传范围，不能只接受“已全部读完”。

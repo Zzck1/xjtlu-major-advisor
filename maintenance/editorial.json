@@ -1,0 +1,314 @@
+{
+  "xjtlu-materials-science-and-engineering-2": {
+    "group": "材料化学与物理",
+    "goal": "研究材料结构、加工与性能的关系，并结合工程与计算方法。",
+    "career_summary": "材料研发、能源材料、生物材料、半导体制造；进一步研究材料科学。",
+    "similar_id": "xjtlu-applied-chemistry"
+  },
+  "xjtlu-urban-planning-and-design": {
+    "group": "建筑设计与城市",
+    "goal": "从城市与乡村的空间、社会和环境问题出发学习规划与设计。",
+    "career_summary": "城市设计、交通与环境规划、城市更新、规划咨询。",
+    "similar_id": "xjtlu-architecture"
+  },
+  "xjtlu-communication-studies": {
+    "group": "人文语言与传播",
+    "goal": "以数字媒体、新闻与公关、电影研究理解传播现象与媒体实践。",
+    "career_summary": "出版、广播影视、公关、广告、营销；传播相关研究生学习。",
+    "similar_id": "xjtlu-english-and-communication-studies"
+  },
+  "xjtlu-electrical-engineering": {
+    "group": "电子工程与制造",
+    "goal": "学习发电、输配电、电机、电力电子及控制，并联系电子与计算机技术。",
+    "career_summary": "电气与控制工程、电力电子、电网与储能；相关工程深造。",
+    "similar_id": "xjtlu-electronic-science-and-technology"
+  },
+  "xjtlu-electronic-science-and-technology": {
+    "group": "电子工程与制造",
+    "goal": "围绕电子器件、电路、微电子与光电子学习集成电路设计和制造。",
+    "career_summary": "半导体、集成电路、电子及光电子工程；相关硕博学习。",
+    "similar_id": "xjtlu-microelectronic-science-and-engineering"
+  },
+  "xjtlu-translation-and-interpreting": {
+    "group": "人文语言与传播",
+    "goal": "将口笔译训练与语言技术、数字媒体、文化和商法内容结合。",
+    "career_summary": "口笔译、语言服务、跨文化传播与语言技术相关探索。",
+    "similar_id": "xjtlu-applied-linguistics"
+  },
+  "xjtlu-business-administration": {
+    "group": "商业经济与金融",
+    "goal": "综合商业知识、数据分析和组织决策，训练跨文化协作与商业问题分析。",
+    "career_summary": "企业、公共与非营利组织的业务岗位；继续商科深造。",
+    "similar_id": "xjtlu-human-resource-management"
+  },
+  "xjtlu-industrial-design": {
+    "group": "建筑设计与城市",
+    "goal": "采用工作室实践，结合用户研究、材料技术、产品与交互设计。",
+    "career_summary": "产品、交互、体验与服务设计；设计研究生学习。",
+    "similar_id": "xjtlu-digital-media-arts"
+  },
+  "xjtlu-intelligent-supply-chain": {
+    "group": "商业经济与金融",
+    "goal": "用供应链理论、人工智能与仿真分析运营问题，结合产业项目及创业教育。",
+    "career_summary": "运营、供应链分析与管理方向；相关硕士学习。",
+    "similar_id": "xjtlu-business-administration"
+  },
+  "xjtlu-film-and-television-production": {
+    "group": "创意媒体与艺术",
+    "goal": "学习节目策划、制作与传播理论，涉及电视、短视频及社交媒体。",
+    "career_summary": "节目制作、编导、摄影、广告与数字内容；相关研究生学习。",
+    "similar_id": "xjtlu-filmmaking"
+  },
+  "xjtlu-international-business-with-a-language": {
+    "group": "商业经济与金融",
+    "goal": "将国际商务管理、跨文化沟通与第二外语相结合。",
+    "career_summary": "跨国企业及国际商务相关业务；后续岗位条件另核实。",
+    "similar_id": "xjtlu-english-and-business"
+  },
+  "xjtlu-international-relations": {
+    "group": "人文语言与传播",
+    "goal": "从政治、经济与法律等角度理解全球事务和中国与世界的关系。",
+    "career_summary": "公共部门、智库、研究、咨询、媒体及商业；人文社科深造。",
+    "similar_id": "xjtlu-china-studies"
+  },
+  "xjtlu-china-studies": {
+    "group": "人文语言与传播",
+    "goal": "用人文社会科学方法研究中国历史、社会、文化与发展。",
+    "career_summary": "中国相关国际商务、公共事务、传媒、教育与研究。",
+    "similar_id": "xjtlu-international-relations"
+  },
+  "xjtlu-environmental-science": {
+    "group": "生命环境与健康",
+    "goal": "以生态、化学、地理、统计与政策研究环境问题及治理。",
+    "career_summary": "环境咨询、监测、评估、保护与企业环境管理等探索方向。",
+    "similar_id": "xjtlu-urban-planning-and-design"
+  },
+  "xjtlu-accounting": {
+    "group": "商业经济与金融",
+    "goal": "学习财务报告、管理会计、审计、财务决策及商业组织背景。",
+    "career_summary": "会计、审计、财务与咨询；会计金融管理相关深造。",
+    "similar_id": "xjtlu-economics-and-finance"
+  },
+  "xjtlu-architecture": {
+    "group": "建筑设计与城市",
+    "goal": "以设计工作室结合历史、技术、结构、环境与计算设计。",
+    "career_summary": "建筑、空间与创意设计；建筑相关研究生学习。",
+    "similar_id": "xjtlu-urban-planning-and-design"
+  },
+  "xjtlu-economics": {
+    "group": "商业经济与金融",
+    "goal": "以微观、宏观、计量和数学方法研究市场与经济运行。",
+    "career_summary": "咨询、金融、公共服务等领域；经济、金融、管理及公共管理深造。",
+    "similar_id": "xjtlu-economics-and-finance"
+  },
+  "xjtlu-economics-and-finance": {
+    "group": "商业经济与金融",
+    "goal": "结合经济理论、金融市场、投资和企业财务的分析工具。",
+    "career_summary": "经济金融与专业服务；经济或金融相关硕士。",
+    "similar_id": "xjtlu-financial-mathematics"
+  },
+  "xjtlu-actuarial-science": {
+    "group": "数学统计与数据",
+    "goal": "用数学、统计和数据分析量化风险与不确定性。",
+    "career_summary": "保险、养老金、风险与预测分析；专业资格条件另核实。",
+    "similar_id": "xjtlu-financial-mathematics"
+  },
+  "xjtlu-financial-mathematics": {
+    "group": "数学统计与数据",
+    "goal": "把数学建模与定量分析用于金融机构和金融问题。",
+    "career_summary": "量化、风险、资产管理及数据分析；金融、统计等深造。",
+    "similar_id": "xjtlu-economics-and-finance"
+  },
+  "xjtlu-intelligent-robotics-engineering": {
+    "group": "电子工程与制造",
+    "goal": "融合计算、电子、通信与机电，结合行业项目和创业教育。",
+    "career_summary": "官网列举机器人、医疗机器人、人工智能和计算机视觉等深造方向。",
+    "similar_id": "xjtlu-mechatronics-and-robotic-systems"
+  },
+  "xjtlu-computer-science-and-technology": {
+    "group": "计算人工智能与系统",
+    "goal": "把计算机科学与电子电气结合，学习软硬件设计、开发和技术问题解决。",
+    "career_summary": "计算设备、工程服务与相关研究；计算机或电子电气深造。",
+    "similar_id": "xjtlu-information-and-computing-science"
+  },
+  "xjtlu-mechatronics-and-robotic-systems": {
+    "group": "电子工程与制造",
+    "goal": "整合机械、电子、控制和计算，研究机电系统与自动化。",
+    "career_summary": "机电或机器人研发、项目实施、设备维护与技术管理。",
+    "similar_id": "xjtlu-intelligent-robotics-engineering"
+  },
+  "xjtlu-artificial-intelligence": {
+    "group": "计算人工智能与系统",
+    "goal": "学习编程、机器学习、视觉与语言处理，分行业前沿和智能系统方向。",
+    "career_summary": "人工智能、机器学习、视觉与语言技术；相关硕博探索。",
+    "similar_id": "xjtlu-data-science-and-big-data-technology"
+  },
+  "xjtlu-human-resource-management": {
+    "group": "商业经济与金融",
+    "goal": "研究雇佣关系、招聘培训及组织的人力决策，并融入数据分析。",
+    "career_summary": "招聘、培训、人力资源与组织管理；管理或组织心理等深造。",
+    "similar_id": "xjtlu-business-administration"
+  },
+  "xjtlu-biological-sciences": {
+    "group": "生命环境与健康",
+    "goal": "学习生命过程、分子细胞、基因组与相关实验技术。",
+    "career_summary": "生化、遗传、微生物与分子生物相关研究或产业；相关深造。",
+    "similar_id": "xjtlu-biomedical-sciences"
+  },
+  "xjtlu-bioinformatics": {
+    "group": "生命环境与健康",
+    "goal": "把分子生物学与信息计算结合，用数据解释生命科学问题。",
+    "career_summary": "计算生物、生命数据分析等；生物统计、分子科学和药物设计深造。",
+    "similar_id": "xjtlu-data-science-and-big-data-technology"
+  },
+  "xjtlu-biomedical-sciences": {
+    "group": "生命环境与健康",
+    "goal": "学习人体功能、疾病机制与实验研究，并接触医学数据和人工智能。",
+    "career_summary": "生物医学研究、药物与诊断技术开发；临床相关职业资格须另核实。",
+    "similar_id": "xjtlu-biological-sciences"
+  },
+  "xjtlu-biopharmaceuticals": {
+    "group": "生命环境与健康",
+    "goal": "结合生物、化学和药学，训练生物药研发、生产及质量相关能力。",
+    "career_summary": "生物药研发、生产、质控、技术管理；相关深造。",
+    "similar_id": "xjtlu-pharmaceutical-sciences"
+  },
+  "xjtlu-marketing": {
+    "group": "商业经济与金融",
+    "goal": "研究消费者、市场调研、品牌传播和数字营销，并结合数据分析工具。",
+    "career_summary": "消费者洞察、数字营销、品牌、广告和营销咨询（概览所列）。",
+    "similar_id": "xjtlu-communication-studies"
+  },
+  "xjtlu-data-science-and-big-data-technology": {
+    "group": "计算人工智能与系统",
+    "goal": "整合统计、数学、计算与人工智能，处理数据生命周期和产业应用。",
+    "career_summary": "数据分析、商业智能、机器学习与技术咨询；数据或AI深造。",
+    "similar_id": "xjtlu-applied-statistics"
+  },
+  "xjtlu-digital-media-technology": {
+    "group": "计算人工智能与系统",
+    "goal": "从计算与电子技术角度处理图像、声音、视频、图形及交互。",
+    "career_summary": "数字媒体与游戏等技术方向；具体研究生项目待单独核实。",
+    "similar_id": "xjtlu-digital-media-arts"
+  },
+  "xjtlu-digital-media-arts": {
+    "group": "创意媒体与艺术",
+    "goal": "把艺术创作、数字设计和AR、VR、MR、AI等技术结合。",
+    "career_summary": "三维动画、视觉效果、交互、用户体验、游戏和数字内容设计。",
+    "similar_id": "xjtlu-digital-media-technology"
+  },
+  "xjtlu-telecommunications-engineering": {
+    "group": "电子工程与制造",
+    "goal": "学习现代通信及电子系统的设计、实现、测试和应用。",
+    "career_summary": "通信研发、系统维护升级与软硬件技术支持。",
+    "similar_id": "xjtlu-electronic-science-and-technology"
+  },
+  "xjtlu-civil-engineering": {
+    "group": "建筑设计与城市",
+    "goal": "围绕基础设施与建成环境学习结构、施工、环境及工程管理。",
+    "career_summary": "基础设施设计建造及环境设施；相关工程深造。",
+    "similar_id": "xjtlu-architecture"
+  },
+  "xjtlu-microelectronic-science-and-engineering": {
+    "group": "电子工程与制造",
+    "goal": "结合微电子、产业项目和创新创业，训练芯片相关知识与应用。",
+    "career_summary": "微电子、集成电路、半导体、纳米技术、工艺及封装深造。",
+    "similar_id": "xjtlu-electronic-science-and-technology"
+  },
+  "xjtlu-internet-of-things-engineering": {
+    "group": "电子工程与制造",
+    "goal": "把传感、嵌入式、通信、云计算和安全组成物联网解决方案。",
+    "career_summary": "设备软硬件、网络、数据分析、测试及技术支持。",
+    "similar_id": "xjtlu-computer-science-and-technology"
+  },
+  "xjtlu-psychology-bsc": {
+    "group": "生命环境与健康",
+    "goal": "整合认知神经、健康与发展心理学，结合研究方法和实践。",
+    "career_summary": "健康、教育、商业科技相关探索与心理学深造；临床资格另核实。",
+    "similar_id": "xjtlu-biomedical-sciences"
+  },
+  "xjtlu-information-management-and-information-systems": {
+    "group": "商业经济与金融",
+    "goal": "结合管理、信息技术、电子商务和经济金融，研究商务信息系统。",
+    "career_summary": "电商、信息技术、金融服务的业务与技术方向；相关深造。",
+    "similar_id": "xjtlu-information-and-computing-science"
+  },
+  "xjtlu-information-and-computing-science": {
+    "group": "计算人工智能与系统",
+    "goal": "学习算法与软件系统，用计算方法处理信息和开发应用。",
+    "career_summary": "软件、信息系统、数据分析、移动应用与游戏技术；相关硕士。",
+    "similar_id": "xjtlu-computer-science-and-technology"
+  },
+  "xjtlu-pharmaceutical-sciences": {
+    "group": "生命环境与健康",
+    "goal": "结合化学、生命与健康科学，学习药物研发、制剂、分析及质量。",
+    "career_summary": "药物研发、合成、制剂、检测和质控；药学相关深造。",
+    "similar_id": "xjtlu-biopharmaceuticals"
+  },
+  "xjtlu-filmmaking": {
+    "group": "创意媒体与艺术",
+    "goal": "围绕视觉叙事开展编剧、导演、摄影、声音与后期实践。",
+    "career_summary": "电影、流媒体与数字工作室的内容制作；作品与经历要求另核实。",
+    "similar_id": "xjtlu-film-and-television-production"
+  },
+  "xjtlu-applied-chemistry": {
+    "group": "材料化学与物理",
+    "goal": "学习化学理论与实验，并接触材料、能源、药物等应用问题。",
+    "career_summary": "化学材料、制药、食品、环境能源与研发；相关深造。",
+    "similar_id": "xjtlu-materials-science-and-engineering-2"
+  },
+  "xjtlu-applied-mathematics": {
+    "group": "数学统计与数据",
+    "goal": "通过数学基础、建模和计算训练分析与解决问题的能力。",
+    "career_summary": "分析、建模、统计相关探索；数学、数据、统计、金融等深造。",
+    "similar_id": "xjtlu-financial-mathematics"
+  },
+  "xjtlu-applied-statistics": {
+    "group": "数学统计与数据",
+    "goal": "以数理统计、数据分析和编程研究问题，突出生物医药应用。",
+    "career_summary": "医药或CRO数据统计分析、研究支持；统计相关硕士。",
+    "similar_id": "xjtlu-data-science-and-big-data-technology"
+  },
+  "xjtlu-applied-physics-bsc": {
+    "group": "材料化学与物理",
+    "goal": "结合物理理论、实验、计算建模及研究项目。",
+    "career_summary": "先进材料、能源、半导体与数据相关探索；物理或交叉研究深造。",
+    "similar_id": "xjtlu-materials-science-and-engineering-2"
+  },
+  "xjtlu-english-and-communication-studies": {
+    "group": "人文语言与传播",
+    "goal": "把语言学、文学或翻译与新闻公关、数字媒体或电影研究结合。",
+    "career_summary": "传媒、广告、翻译等探索；英语语言文学或传播深造。",
+    "similar_id": "xjtlu-communication-studies"
+  },
+  "xjtlu-english-and-business": {
+    "group": "人文语言与传播",
+    "goal": "结合英语研究、语言或翻译训练与金融经济或商务管理。",
+    "career_summary": "商务沟通、翻译、市场公关；英语、商务与金融深造。",
+    "similar_id": "xjtlu-international-business-with-a-language"
+  },
+  "xjtlu-english-studies": {
+    "group": "人文语言与传播",
+    "goal": "以文学和语言研究为核心，联系电影、历史、国际关系及翻译。",
+    "career_summary": "语言和内容相关工作；英语教育、文学、语言学或翻译深造。",
+    "similar_id": "xjtlu-applied-linguistics"
+  },
+  "xjtlu-applied-linguistics": {
+    "group": "人文语言与传播",
+    "goal": "训练语言研究方法，联系计算语言、教育、传媒及健康等应用。",
+    "career_summary": "语言技术、教育、跨文化与本地化；语言、教育、翻译相关深造。",
+    "similar_id": "xjtlu-translation-and-interpreting"
+  },
+  "xjtlu-arts-technology-and-entertainment": {
+    "group": "创意媒体与艺术",
+    "goal": "把创意内容、技术实践与商业思维结合，采用融合式教育。",
+    "career_summary": "创意制作、艺术指导与互动设计；艺术设计相关深造。",
+    "similar_id": "xjtlu-digital-media-arts"
+  },
+  "xjtlu-intelligent-manufacturing-engineering": {
+    "group": "电子工程与制造",
+    "goal": "综合机械、电气与工业工程，研究智能装备和工厂系统的运营。",
+    "career_summary": "智能产品与制造、系统工程；制造、控制、机电及数据相关深造。",
+    "similar_id": "xjtlu-mechatronics-and-robotic-systems"
+  }
+}

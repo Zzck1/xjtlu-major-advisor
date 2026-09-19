@@ -1,0 +1,6527 @@
+{
+  "version": "0.1.0-rc1",
+  "checked_at": "2026-09-18",
+  "directory_count": 52,
+  "parent_groups": [
+    {
+      "major_id": "xjtlu-parent-english",
+      "name": "英语",
+      "entry_type": "parent_group",
+      "counted_in_directory": false
+    }
+  ],
+  "majors": [
+    {
+      "major_id": "xjtlu-materials-science-and-engineering-2",
+      "official_name": "材料科学与工程",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/materials-science-and-engineering-2",
+      "final_url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/materials-science-and-engineering-2",
+      "status": "read",
+      "sha256": "53cde900b2cfe805706ff4c080a68e6469e59d0921c54411c0dd556a6f947ad2",
+      "retrieved_at": "2026-09-18T07:58:09.985569+00:00",
+      "fields": {
+        "开始时间": "2027年09月",
+        "教学形式": "全日制",
+        "学制": "四年",
+        "学习地点": "苏州",
+        "宣传册": "下载文件",
+        "院系": "生命与自然科学学院",
+        "学位证书": "毕业生可同时获得中国教育部认可的西交利物浦大学本科毕业证书、学士学位证书和国际认可的英国利物浦大学学士学位证书。"
+      },
+      "metadata_dates": {
+        "datePublished": "2025-06-25T08:03:20+00:00",
+        "dateModified": "2026-09-01T06:48:50+00:00"
+      },
+      "courses": [
+        {
+          "pathway": "课程",
+          "year": "第一学年",
+          "categories": {},
+          "notes": [
+            "西交利物浦大学在第一学年开设了包括学术英语、数理基础、人文教育在内的众多极具特色的通识类课程，点击了解更多。"
+          ]
+        },
+        {
+          "pathway": "课程",
+          "year": "第二学年",
+          "categories": {
+            "核心课程": [
+              "流体力学和热力学",
+              "固体力学",
+              "材料科学基础",
+              "工程技能",
+              "编程技能",
+              "初级无机化学（非化学专业）",
+              "非化学专业物理化学导论",
+              "统计学概论",
+              "工程微分方程",
+              "物理学（化学专业）",
+              "面向科学的人工智能导论",
+              "科学领域的创业教育：面向未来的创新"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "课程",
+          "year": "第三学年",
+          "categories": {
+            "核心课程": [
+              "材料力学",
+              "数值方法",
+              "工程材料 1",
+              "材料加工",
+              "人工智能材料设计项目",
+              "功能材料",
+              "高分子材料",
+              "人工智能材料设计基础",
+              "固体物理导论"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "课程",
+          "year": "第四学年",
+          "categories": {
+            "核心课程": [
+              "工程材料 2",
+              "毕业设计",
+              "材料分析方法",
+              "科学研究中的批判思维和应用技术"
+            ],
+            "可选课程": [
+              "能源材料",
+              "生物材料",
+              "半导体材料"
+            ]
+          },
+          "notes": []
+        }
+      ],
+      "missing": [
+        "programme_selection_threshold",
+        "confirmed_cohort_curriculum"
+      ],
+      "group": "材料化学与物理",
+      "goal": "研究材料结构、加工与性能的关系，并结合工程与计算方法。",
+      "career_summary": "材料研发、能源材料、生物材料、半导体制造；进一步研究材料科学。",
+      "similar_id": "xjtlu-applied-chemistry",
+      "source_id": "S-xjtlu-materials-science-and-engineering-2",
+      "aliases": [
+        "材料科学与工程"
+      ],
+      "parent_id": null,
+      "entry_type": "directory_entry",
+      "internal_pathways": [],
+      "conflicts": [],
+      "eligibility_status": "pending_verification",
+      "checked_at": "2026-09-18",
+      "version": "0.1.0-rc1",
+      "career_section": "就业或职业发展（摘要仅保留领域，省略宣传性成功保证与升学比例）"
+    },
+    {
+      "major_id": "xjtlu-urban-planning-and-design",
+      "official_name": "城乡规划",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/urban-planning-and-design",
+      "final_url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/urban-planning-and-design",
+      "status": "read",
+      "sha256": "9281858d194ad23fddac956d664f9e2c3b32566ba2fc54ecea3f81410a71b4f4",
+      "retrieved_at": "2026-09-18T07:58:14.222907+00:00",
+      "fields": {
+        "开始时间": "2027年09月",
+        "教学形式": "全日制",
+        "学制": "四年",
+        "2+2学习": "可选",
+        "学习地点": "苏州",
+        "院系": "设计学院",
+        "学位证书": "毕业生可同时获得中国教育部认可的西交利物浦大学本科毕业证书、学士学位证书和国际认可的英国利物浦大学学士学位证书。"
+      },
+      "metadata_dates": {
+        "datePublished": "2022-10-09T02:53:13+00:00",
+        "dateModified": "2026-06-15T03:56:04+00:00"
+      },
+      "courses": [
+        {
+          "pathway": "课程",
+          "year": "第一学年",
+          "categories": {},
+          "notes": [
+            "西交利物浦大学在第一学年开设了包括学术英语、数理基础、人文教育在内的众多极具特色的通识类课程，点击了解更多。"
+          ]
+        },
+        {
+          "pathway": "课程",
+          "year": "第二学年",
+          "categories": {
+            "核心课程": [
+              "建成环境物联网与人工智能",
+              "语境设计工作室",
+              "多维度协同设计工作室",
+              "设计语言与人工智能导论",
+              "设计与工程中的创业精神",
+              "中国规划的问题与实践",
+              "西欧和北美当代规划实践",
+              "城市与环境经济学",
+              "规划的历史和目的"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "课程",
+          "year": "第三学年",
+          "categories": {
+            "核心课程": [
+              "综合设计工作室原则",
+              "乡村规划",
+              "网络和城市",
+              "地理信息系统",
+              "规划与研究方法",
+              "城市设计与理论1"
+            ],
+            "可选课程": [
+              "环境设计和可持续发展",
+              "计量经济学 1",
+              "自然科学初级统计学",
+              "以用户为中心的研究"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "课程",
+          "year": "第四学年",
+          "categories": {
+            "核心课程": [
+              "毕业设计",
+              "规划法律与治理",
+              "专题城市规划/设计实践",
+              "规划和房地产开发",
+              "空间项目"
+            ],
+            "可选课程": [
+              "国际规划研究",
+              "国际实地考察",
+              "当代城市的批评性辩论"
+            ]
+          },
+          "notes": []
+        }
+      ],
+      "missing": [
+        "programme_selection_threshold",
+        "confirmed_cohort_curriculum"
+      ],
+      "group": "建筑设计与城市",
+      "goal": "从城市与乡村的空间、社会和环境问题出发学习规划与设计。",
+      "career_summary": "城市设计、交通与环境规划、城市更新、规划咨询。",
+      "similar_id": "xjtlu-architecture",
+      "source_id": "S-xjtlu-urban-planning-and-design",
+      "aliases": [
+        "城乡规划"
+      ],
+      "parent_id": null,
+      "entry_type": "directory_entry",
+      "internal_pathways": [
+        {
+          "pathway_id": "xjtlu-urban-planning-and-design--planning",
+          "name": "城市规划"
+        },
+        {
+          "pathway_id": "xjtlu-urban-planning-and-design--design",
+          "name": "城市设计"
+        }
+      ],
+      "conflicts": [],
+      "eligibility_status": "pending_verification",
+      "checked_at": "2026-09-18",
+      "version": "0.1.0-rc1",
+      "pathway_note": "官网概览列出上述方向；公开课程表合列而非逐方向分表，不能认定全部方向课程都由每位学生同修。个人方向、学分要求和可选组合待对应培养方案确认。",
+      "career_section": "就业或职业发展（摘要仅保留领域，省略宣传性成功保证与升学比例）"
+    },
+    {
+      "major_id": "xjtlu-communication-studies",
+      "official_name": "传播学",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/communication-studies",
+      "final_url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/communication-studies",
+      "status": "read",
+      "sha256": "f6ee75a2c3b9b8a206adf77ea29da23ab00e9ebf6d450d16b1c1711dd9a7c6d6",
+      "retrieved_at": "2026-09-18T07:58:13.820923+00:00",
+      "fields": {
+        "开始时间": "2027年09月",
+        "教学形式": "全日制",
+        "学制": "四年",
+        "2+2学习": "可选",
+        "学习地点": "苏州",
+        "院系": "人文社科学院",
+        "学位证书": "毕业生可同时获得中国教育部认可的西交利物浦大学本科毕业证书、学士学位证书和国际认可的英国利物浦大学学士学位证书。"
+      },
+      "metadata_dates": {
+        "datePublished": "2022-09-29T21:06:59+00:00",
+        "dateModified": "2026-08-25T06:45:08+00:00"
+      },
+      "courses": [
+        {
+          "pathway": "课程",
+          "year": "第一学年",
+          "categories": {},
+          "notes": [
+            "西交利物浦大学在第一学年开设了包括学术英语、数理基础、人文教育在内的众多极具特色的通识类课程，点击了解更多。"
+          ]
+        },
+        {
+          "pathway": "课程",
+          "year": "第二学年",
+          "categories": {
+            "核心课程": [
+              "全球媒体产业",
+              "代表性、多样性和身份",
+              "观众和媒体用户",
+              "视频制作概论",
+              "修辞与媒体分析",
+              "电影研究基础",
+              "新闻学概论",
+              "数字媒体与传播概论",
+              "人文与社会科学的人工智能：赋能研究与实践",
+              "人文与社会科学视界"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "课程",
+          "year": "第三学年",
+          "categories": {
+            "核心课程": [
+              "定性研究方法",
+              "定量研究方法"
+            ],
+            "可选课程": [
+              "中国现当代文学",
+              "中国电影",
+              "健康传播",
+              "媒体与战争",
+              "数字时代音乐研究",
+              "媒介效果研究",
+              "公共关系实务",
+              "多媒体新闻报导",
+              "数字媒体法律与道德",
+              "好莱坞电影院",
+              "新闻摄影",
+              "数字营销",
+              "后殖民文学",
+              "语言与媒体",
+              "语言和性别"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "课程",
+          "year": "第四学年",
+          "categories": {
+            "核心课程": [
+              "毕业设计：传播研究"
+            ],
+            "可选课程": [
+              "社会数据科学",
+              "欧洲电影",
+              "人工智能和大数据在社会中的应用",
+              "数字经济下的文化创意产业",
+              "真实故事讲述",
+              "电影中的城市",
+              "电影、哲学和数字技术",
+              "全球化与科学传播",
+              "调查新闻",
+              "当代中国传媒",
+              "纪录中国：现实的艺术",
+              "媒体专业人员社会学",
+              "全球广告",
+              "中国形象：全球叙事与国家讲述",
+              "全球背景下的内容的市场推广",
+              "国际传播",
+              "公共政策与文化外交",
+              "寻找解决方案：发展理论与实践",
+              "电子商务模式和策略",
+              "营销中的关键问题",
+              "市场策略",
+              "企业通信",
+              "社交媒体市场营销",
+              "职场中的人际沟通",
+              "跨文化交际"
+            ]
+          },
+          "notes": []
+        }
+      ],
+      "missing": [
+        "programme_selection_threshold",
+        "confirmed_cohort_curriculum"
+      ],
+      "group": "人文语言与传播",
+      "goal": "以数字媒体、新闻与公关、电影研究理解传播现象与媒体实践。",
+      "career_summary": "出版、广播影视、公关、广告、营销；传播相关研究生学习。",
+      "similar_id": "xjtlu-english-and-communication-studies",
+      "source_id": "S-xjtlu-communication-studies",
+      "aliases": [
+        "传播学"
+      ],
+      "parent_id": null,
+      "entry_type": "directory_entry",
+      "internal_pathways": [
+        {
+          "pathway_id": "xjtlu-communication-studies--digital",
+          "name": "数字媒体"
+        },
+        {
+          "pathway_id": "xjtlu-communication-studies--journalism-pr",
+          "name": "新闻与公关"
+        },
+        {
+          "pathway_id": "xjtlu-communication-studies--film",
+          "name": "电影研究"
+        }
+      ],
+      "conflicts": [],
+      "eligibility_status": "pending_verification",
+      "checked_at": "2026-09-18",
+      "version": "0.1.0-rc1",
+      "career_section": "就业或职业发展（摘要仅保留领域，省略宣传性成功保证与升学比例）"
+    },
+    {
+      "major_id": "xjtlu-electrical-engineering",
+      "official_name": "电气工程及其自动化",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/electrical-engineering",
+      "final_url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/electrical-engineering",
+      "status": "read",
+      "sha256": "370f7f902a22d1545b71ece82c33db3debf75e3679ee74782f828eabf5c07f12",
+      "retrieved_at": "2026-09-18T07:58:09.954303+00:00",
+      "fields": {
+        "开始时间": "2027年09月",
+        "教学形式": "全日制",
+        "学制": "四年",
+        "2+2学习": "可选",
+        "学习地点": "苏州",
+        "院系": "人工智能与先进技术学院",
+        "学位证书": "毕业生可同时获得中国教育部认可的西交利物浦大学本科毕业证书、学士学位证书和国际认可的英国利物浦大学学士学位证书。"
+      },
+      "metadata_dates": {
+        "datePublished": "2022-10-09T03:11:22+00:00",
+        "dateModified": "2026-08-31T15:42:27+00:00"
+      },
+      "courses": [
+        {
+          "pathway": "课程",
+          "year": "第一学年",
+          "categories": {},
+          "notes": [
+            "西交利物浦大学在第一学年开设了包括学术英语、数理基础、人文教育在内的众多极具特色的通识类课程，点击了解更多。"
+          ]
+        },
+        {
+          "pathway": "课程",
+          "year": "第二学年",
+          "categories": {
+            "核心课程": [
+              "电磁学和电机学",
+              "C语言程序设计",
+              "电路 I",
+              "数字电子学 I",
+              "电子电路",
+              "集成电路原理与设计",
+              "实验技能与可持续性",
+              "工程制图",
+              "工程数学 1",
+              "工程数学 2",
+              "人工智能应用设计",
+              "前沿技术创业技能"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "课程",
+          "year": "第三学年",
+          "categories": {
+            "核心课程": [
+              "连续与离散时域信号与系统",
+              "高等电路分析与电磁学",
+              "微处理器系统",
+              "CMOS集成电路",
+              "数字电子学II",
+              "能源转换和电力系统",
+              "电子电路和系统",
+              "电力电子与驱动",
+              "产业意识与团队项目",
+              "测量技术和自动控制系统",
+              "工程数学 3"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "课程",
+          "year": "第四学年",
+          "categories": {
+            "核心课程": [
+              "电力系统设计与分析",
+              "电力系统继电保护",
+              "数控基础和自动控制",
+              "工程优化原理",
+              "毕业设计"
+            ],
+            "可选课程": [
+              "光学与光纤通信系统",
+              "信息论与数据通信",
+              "信号处理与数字滤波",
+              "通信电子学",
+              "仪表电子学",
+              "光电子学和光子学",
+              "智能电网技术",
+              "数字集成电路设计",
+              "现代电力系统运行与控制",
+              "图像处理",
+              "计算机听觉系统",
+              "嵌入式计算机系统"
+            ]
+          },
+          "notes": []
+        }
+      ],
+      "missing": [
+        "programme_selection_threshold",
+        "confirmed_cohort_curriculum"
+      ],
+      "group": "电子工程与制造",
+      "goal": "学习发电、输配电、电机、电力电子及控制，并联系电子与计算机技术。",
+      "career_summary": "电气与控制工程、电力电子、电网与储能；相关工程深造。",
+      "similar_id": "xjtlu-electronic-science-and-technology",
+      "source_id": "S-xjtlu-electrical-engineering",
+      "aliases": [
+        "电气工程及其自动化"
+      ],
+      "parent_id": null,
+      "entry_type": "directory_entry",
+      "internal_pathways": [],
+      "conflicts": [],
+      "eligibility_status": "pending_verification",
+      "checked_at": "2026-09-18",
+      "version": "0.1.0-rc1",
+      "pathway_note": "官网概览区分4+0电气工程与2+2电子与电气工程对应学位路径；不可当成同一培养方案，资格及具体课程另查。",
+      "career_section": "就业或职业发展（摘要仅保留领域，省略宣传性成功保证与升学比例）"
+    },
+    {
+      "major_id": "xjtlu-electronic-science-and-technology",
+      "official_name": "电子科学与技术",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/electronic-science-and-technology",
+      "final_url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/electronic-science-and-technology",
+      "status": "read",
+      "sha256": "cffc9d00e16fc469813e7a2704e480373797b0ddc2cc4482540f5f4dcffba9ee",
+      "retrieved_at": "2026-09-18T07:58:11.394712+00:00",
+      "fields": {
+        "开始时间": "2027年09月",
+        "教学形式": "全日制",
+        "学制": "四年",
+        "2+2学习": "可选",
+        "学习地点": "苏州",
+        "院系": "人工智能与先进技术学院",
+        "学位证书": "毕业生可同时获得中国教育部认可的西交利物浦大学本科毕业证书、学士学位证书和国际认可的英国利物浦大学学士学位证书。"
+      },
+      "metadata_dates": {
+        "datePublished": "2022-10-09T03:28:20+00:00",
+        "dateModified": "2026-08-31T15:45:39+00:00"
+      },
+      "courses": [
+        {
+          "pathway": "课程",
+          "year": "第一学年",
+          "categories": {},
+          "notes": [
+            "西交利物浦大学在第一学年开设了包括学术英语、数理基础、人文教育在内的众多极具特色的通识类课程，点击了解更多。"
+          ]
+        },
+        {
+          "pathway": "课程",
+          "year": "第二学年",
+          "categories": {
+            "核心课程": [
+              "电磁学和电机学",
+              "C语言程序设计",
+              "电路 I",
+              "数字电子学 I",
+              "电子电路",
+              "集成电路原理与设计",
+              "实验技能与可持续性",
+              "工程制图",
+              "工程数学 1",
+              "工程数学 2",
+              "人工智能应用设计",
+              "前沿技术创业技能"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "课程",
+          "year": "第三学年",
+          "categories": {
+            "核心课程": [
+              "模拟与数字通信 I",
+              "连续与离散时域信号与系统",
+              "高等电路分析与电磁学",
+              "数字信号处理",
+              "微处理器系统",
+              "CMOS集成电路",
+              "数字电子学II",
+              "电子电路和系统",
+              "产业意识与团队项目",
+              "测量技术和自动控制系统",
+              "工程数学 3"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "课程",
+          "year": "第四学年",
+          "categories": {
+            "核心课程": [
+              "仪表电子学",
+              "集成电路（数模集成电路设计和制造）",
+              "数字集成电路设计",
+              "嵌入式计算机系统",
+              "毕业设计"
+            ],
+            "可选课程": [
+              "模拟与数字通信 II",
+              "无线电波传播及微波电路",
+              "基于无线传感器网络的物联网",
+              "应用电磁学与天线",
+              "通信电子学",
+              "光电子学和光子学",
+              "微/纳米制造技术"
+            ]
+          },
+          "notes": []
+        }
+      ],
+      "missing": [
+        "programme_selection_threshold",
+        "confirmed_cohort_curriculum"
+      ],
+      "group": "电子工程与制造",
+      "goal": "围绕电子器件、电路、微电子与光电子学习集成电路设计和制造。",
+      "career_summary": "半导体、集成电路、电子及光电子工程；相关硕博学习。",
+      "similar_id": "xjtlu-microelectronic-science-and-engineering",
+      "source_id": "S-xjtlu-electronic-science-and-technology",
+      "aliases": [
+        "电子科学与技术"
+      ],
+      "parent_id": null,
+      "entry_type": "directory_entry",
+      "internal_pathways": [],
+      "conflicts": [],
+      "eligibility_status": "pending_verification",
+      "checked_at": "2026-09-18",
+      "version": "0.1.0-rc1",
+      "career_section": "就业或职业发展（摘要仅保留领域，省略宣传性成功保证与升学比例）"
+    },
+    {
+      "major_id": "xjtlu-translation-and-interpreting",
+      "official_name": "翻译",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/translation-and-interpreting",
+      "final_url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/translation-and-interpreting",
+      "status": "read",
+      "sha256": "000c41787f90968a34f2d84ab45c92129a0b1e6f1d8238bfd028185af97fdba3",
+      "retrieved_at": "2026-09-18T07:58:11.375939+00:00",
+      "fields": {
+        "开始时间": "2027年09月",
+        "教学形式": "全日制",
+        "学制": "四年",
+        "2+2学习": "不可选",
+        "学习地点": "苏州",
+        "院系": "人文社科学院",
+        "学位证书": "毕业生可同时获得中国教育部认可的西交利物浦大学本科毕业证书、学士学位证书和国际认可的英国利物浦大学学士学位证书。"
+      },
+      "metadata_dates": {
+        "datePublished": "2022-10-09T04:16:56+00:00",
+        "dateModified": "2026-09-02T07:13:42+00:00"
+      },
+      "courses": [
+        {
+          "pathway": "课程",
+          "year": "第一学年",
+          "categories": {},
+          "notes": [
+            "西交利物浦大学在第一学年开设了包括学术英语、数理基础、人文教育在内的众多极具特色的通识类课程，点击了解更多。"
+          ]
+        },
+        {
+          "pathway": "课程",
+          "year": "第二学年",
+          "categories": {
+            "核心课程": [
+              "人文与社会科学的人工智能：赋能研究与实践",
+              "人文与社会科学视界",
+              "文学研究概论",
+              "语言学导论：语法",
+              "语言学导论：口语和书面话语",
+              "人工智能赋能的翻译与跨文化交际",
+              "笔译和口译概论",
+              "商务沟通与口译",
+              "翻译与全球化",
+              "上下文翻译"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "课程",
+          "year": "第三学年",
+          "categories": {
+            "核心课程": [
+              "翻译：理论与实践",
+              "口译",
+              "翻译语言研究",
+              "视觉翻译",
+              "翻译技术"
+            ],
+            "可选课程": [
+              "中国：文化、语言和交流",
+              "翻译与文化",
+              "翻译与新闻学",
+              "文学翻译",
+              "翻译与计算",
+              "国际商务笔译和口译",
+              "法律目的翻译"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "课程",
+          "year": "第四学年",
+          "categories": {
+            "核心课程": [
+              "笔译和口译：毕业设计",
+              "会议口译",
+              "翻译中国1：文化与历史",
+              "职业笔译和口译",
+              "翻译中国2：社会与经济"
+            ],
+            "可选课程": [
+              "视听翻译概论",
+              "翻译工作坊2",
+              "翻译工作坊1",
+              "翻译与社会",
+              "本地化和翻译项目管理"
+            ]
+          },
+          "notes": []
+        }
+      ],
+      "missing": [
+        "programme_selection_threshold",
+        "confirmed_cohort_curriculum"
+      ],
+      "group": "人文语言与传播",
+      "goal": "将口笔译训练与语言技术、数字媒体、文化和商法内容结合。",
+      "career_summary": "口笔译、语言服务、跨文化传播与语言技术相关探索。",
+      "similar_id": "xjtlu-applied-linguistics",
+      "source_id": "S-xjtlu-translation-and-interpreting",
+      "aliases": [
+        "翻译"
+      ],
+      "parent_id": null,
+      "entry_type": "directory_entry",
+      "internal_pathways": [],
+      "conflicts": [],
+      "eligibility_status": "pending_verification",
+      "checked_at": "2026-09-18",
+      "version": "0.1.0-rc1",
+      "career_section": "就业或职业发展（摘要仅保留领域，省略宣传性成功保证与升学比例）"
+    },
+    {
+      "major_id": "xjtlu-business-administration",
+      "official_name": "工商管理",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/business-administration",
+      "final_url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/business-administration",
+      "status": "read",
+      "sha256": "10a2e7a1ff761cd8f631d81052aaec0a4cad2415d369a716dd9e2490ffc7b107",
+      "retrieved_at": "2026-09-18T07:58:11.826598+00:00",
+      "fields": {
+        "开始时间": "2027年09月",
+        "教学形式": "全日制",
+        "学制": "四年",
+        "2+2学习": "可选",
+        "学习地点": "苏州",
+        "院系": "西浦国际商学院",
+        "学位证书": "毕业生可同时获得中国教育部认可的西交利物浦大学本科毕业证书、学士学位证书和国际认可的英国利物浦大学学士学位证书。"
+      },
+      "metadata_dates": {
+        "datePublished": "2022-10-09T05:16:36+00:00",
+        "dateModified": "2026-06-15T03:59:11+00:00"
+      },
+      "courses": [
+        {
+          "pathway": "课程",
+          "year": "第一学年",
+          "categories": {},
+          "notes": [
+            "西交利物浦大学在第一学年开设了包括学术英语、数理基础、人文教育在内的众多极具特色的通识类课程，点击了解更多。"
+          ]
+        },
+        {
+          "pathway": "课程",
+          "year": "第二学年",
+          "categories": {
+            "核心课程": [
+              "财务会计和会计责任概论",
+              "经济学要领",
+              "金融学基础",
+              "营销学基础",
+              "人工智能在管理决策中的应用",
+              "运营管理原理",
+              "商业统计",
+              "人力资源管理概论",
+              "组织与管理学概论",
+              "创业学：全球化与本地化交织时代的跨学科实践"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "课程",
+          "year": "第三学年",
+          "categories": {
+            "核心课程": [
+              "管理研究中的定性研究方法",
+              "市场调查",
+              "国际化管理",
+              "商业和就业法",
+              "企业理论",
+              "可持续企业变革"
+            ],
+            "可选课程": [
+              "国际发展",
+              "服务营销",
+              "项目管理导论",
+              "创业精神"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "课程",
+          "year": "第四学年",
+          "categories": {
+            "核心课程": [
+              "毕业设计",
+              "企业通信",
+              "人力与劳动力分析",
+              "战略管理和商业政策",
+              "决策的心理学方法"
+            ],
+            "可选课程": [
+              "国际经济关系",
+              "电子商务模式和策略",
+              "市场策略"
+            ]
+          },
+          "notes": []
+        }
+      ],
+      "missing": [
+        "programme_selection_threshold",
+        "confirmed_cohort_curriculum"
+      ],
+      "group": "商业经济与金融",
+      "goal": "综合商业知识、数据分析和组织决策，训练跨文化协作与商业问题分析。",
+      "career_summary": "企业、公共与非营利组织的业务岗位；继续商科深造。",
+      "similar_id": "xjtlu-human-resource-management",
+      "source_id": "S-xjtlu-business-administration",
+      "aliases": [
+        "工商管理"
+      ],
+      "parent_id": null,
+      "entry_type": "directory_entry",
+      "internal_pathways": [],
+      "conflicts": [],
+      "eligibility_status": "pending_verification",
+      "checked_at": "2026-09-18",
+      "version": "0.1.0-rc1",
+      "pathway_note": "官网另列2+2在利物浦的工商管理、商业经济学两个专业方向；本页课程不是这两条海外路径的完整课程表，选择资格和对应学位待核实。",
+      "career_section": "就业或职业发展（摘要仅保留领域，省略宣传性成功保证与升学比例）"
+    },
+    {
+      "major_id": "xjtlu-industrial-design",
+      "official_name": "工业设计",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/industrial-design",
+      "final_url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/industrial-design",
+      "status": "read",
+      "sha256": "5a281076542e4559a4daf700d7d6418d37f9b6915be7bd45b176327a27ca187d",
+      "retrieved_at": "2026-09-18T07:58:15.926704+00:00",
+      "fields": {
+        "开始时间": "2027年09月",
+        "教学形式": "全日制",
+        "学制": "四年",
+        "2+2学习": "可选",
+        "学习地点": "苏州",
+        "宣传册": "下载文件",
+        "院系": "设计学院",
+        "学位证书": "毕业生可同时获得中国教育部认可的西交利物浦大学本科毕业证书、学士学位证书和国际认可的英国利物浦大学学士学位证书。"
+      },
+      "metadata_dates": {
+        "datePublished": "2022-10-09T05:41:50+00:00",
+        "dateModified": "2026-06-15T03:59:19+00:00"
+      },
+      "courses": [
+        {
+          "pathway": "课程",
+          "year": "第一学年",
+          "categories": {},
+          "notes": [
+            "西交利物浦大学在第一学年开设了包括学术英语、数理基础、人文教育在内的众多极具特色的通识类课程，点击了解更多。"
+          ]
+        },
+        {
+          "pathway": "课程",
+          "year": "第二学年",
+          "categories": {
+            "核心课程": [
+              "流体力学和热力学",
+              "固体力学",
+              "多维度协同设计工作室",
+              "设计语言与人工智能导论",
+              "设计与工程中的创业精神",
+              "工作室 1 - 设计原则",
+              "设计材料",
+              "计算机辅助设计和建模（三维）",
+              "工作室 2：概念与互动",
+              "工程微分方程"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "课程",
+          "year": "第三学年",
+          "categories": {
+            "核心课程": [
+              "综合设计工作室原则",
+              "工作室4：现场项目和比赛",
+              "以用户为中心的研究",
+              "工业设计电子产品",
+              "面向制造与装配的设计",
+              "人体工学",
+              "人机交互概论"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "课程",
+          "year": "第四学年",
+          "categories": {
+            "核心课程": [
+              "建筑和设计理论",
+              "专业实践",
+              "毕业设计",
+              "可持续设计",
+              "设计策略与道德",
+              "工作室 5：高级练习"
+            ]
+          },
+          "notes": []
+        }
+      ],
+      "missing": [
+        "programme_selection_threshold",
+        "confirmed_cohort_curriculum"
+      ],
+      "group": "建筑设计与城市",
+      "goal": "采用工作室实践，结合用户研究、材料技术、产品与交互设计。",
+      "career_summary": "产品、交互、体验与服务设计；设计研究生学习。",
+      "similar_id": "xjtlu-digital-media-arts",
+      "source_id": "S-xjtlu-industrial-design",
+      "aliases": [
+        "工业设计"
+      ],
+      "parent_id": null,
+      "entry_type": "directory_entry",
+      "internal_pathways": [],
+      "conflicts": [],
+      "eligibility_status": "pending_verification",
+      "checked_at": "2026-09-18",
+      "version": "0.1.0-rc1",
+      "career_section": "就业或职业发展（摘要仅保留领域，省略宣传性成功保证与升学比例）"
+    },
+    {
+      "major_id": "xjtlu-intelligent-supply-chain",
+      "official_name": "供应链管理",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/intelligent-supply-chain",
+      "final_url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/intelligent-supply-chain",
+      "status": "read",
+      "sha256": "f9c3ffc3dfd6f002cd30932276d33250a98140c2a769128eea6fc4daad1c269c",
+      "retrieved_at": "2026-09-18T07:58:12.213629+00:00",
+      "fields": {
+        "开始时间": "2027年09月",
+        "教学形式": "全日制",
+        "学制": "四年",
+        "2+1+1学习": "可选",
+        "学习地点": "苏州太仓",
+        "院系": "西浦创业家学院（太仓）",
+        "学位证书": "毕业生可同时获得中国教育部认可的西交利物浦大学本科毕业证书、学士学位证书和国际认可的英国利物浦大学学士学位证书。"
+      },
+      "metadata_dates": {
+        "datePublished": "2022-10-09T05:51:21+00:00",
+        "dateModified": "2026-08-25T07:34:02+00:00"
+      },
+      "courses": [
+        {
+          "pathway": "课程",
+          "year": "第一学年",
+          "categories": {},
+          "notes": [
+            "西交利物浦大学在第一学年开设了包括学术英语、数理基础、人文教育在内的众多极具特色的通识类课程，点击了解更多。"
+          ]
+        },
+        {
+          "pathway": "课程",
+          "year": "第二学年",
+          "categories": {
+            "核心课程": [
+              "创意工具包",
+              "战略智慧",
+              "管理科学的分析工具",
+              "管理会计基础",
+              "基于人工智能的智能供应链技术基础与展望",
+              "项目管理",
+              "需求预测与管理",
+              "供应链运营管理",
+              "商业应用程序编程",
+              "深度实践中的融合式教育"
+            ],
+            "可选课程": [
+              "信息系统管理",
+              "流程管理",
+              "质量管理"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "课程",
+          "year": "第三学年",
+          "categories": {
+            "核心课程": [
+              "数字化创业实验室",
+              "行业技能准备",
+              "库存与仓库管理",
+              "企业资源规划（SAP）",
+              "采购与谈判",
+              "物流与配送",
+              "金融基础",
+              "数据可视化和数据分析",
+              "生产计划与控制"
+            ],
+            "可选课程": [
+              "供应链金融",
+              "数据挖掘应用",
+              "精益思维",
+              "数字营销"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "课程",
+          "year": "第四学年",
+          "categories": {
+            "核心课程": [
+              "科创团队管理",
+              "毕业设计",
+              "供应链建模与优化",
+              "战略管理和ESG",
+              "电子商务",
+              "供应链数字化"
+            ],
+            "可选课程": [
+              "海运物流",
+              "汽车和航空航天供应链",
+              "产业互联网"
+            ]
+          },
+          "notes": []
+        }
+      ],
+      "missing": [
+        "programme_selection_threshold",
+        "confirmed_cohort_curriculum"
+      ],
+      "group": "商业经济与金融",
+      "goal": "用供应链理论、人工智能与仿真分析运营问题，结合产业项目及创业教育。",
+      "career_summary": "运营、供应链分析与管理方向；相关硕士学习。",
+      "similar_id": "xjtlu-business-administration",
+      "source_id": "S-xjtlu-intelligent-supply-chain",
+      "aliases": [
+        "供应链管理"
+      ],
+      "parent_id": null,
+      "entry_type": "directory_entry",
+      "internal_pathways": [],
+      "conflicts": [],
+      "eligibility_status": "pending_verification",
+      "checked_at": "2026-09-18",
+      "version": "0.1.0-rc1",
+      "career_section": "就业或职业发展（摘要仅保留领域，省略宣传性成功保证与升学比例）",
+      "school_note": "详情概览介绍产金融合学院，信息卡列西浦创业家学院（太仓）；保留学院层级信息。"
+    },
+    {
+      "major_id": "xjtlu-film-and-television-production",
+      "official_name": "广播电视学",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/film-and-television-production",
+      "final_url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/film-and-television-production",
+      "status": "read",
+      "sha256": "8fd590121f7e96aedaf5a40bfc483c4e923991e2fe382b1a4d146e77ea3de88f",
+      "retrieved_at": "2026-09-18T07:58:12.630768+00:00",
+      "fields": {
+        "开始时间": "2027年09月",
+        "教学形式": "全日制",
+        "学制": "四年",
+        "2+2学习": "不可选",
+        "学习地点": "苏州",
+        "院系": "影视与创意科技学院",
+        "学位证书": "毕业生可同时获得中国教育部认可的西交利物浦大学本科毕业证书、学士学位证书和国际认可的英国利物浦大学学士学位证书。"
+      },
+      "metadata_dates": {
+        "datePublished": "2022-10-09T05:57:40+00:00",
+        "dateModified": "2026-06-15T04:00:47+00:00"
+      },
+      "courses": [
+        {
+          "pathway": "课程",
+          "year": "第一学年",
+          "categories": {},
+          "notes": [
+            "西交利物浦大学在第一学年开设了包括学术英语、数理基础、人文教育在内的众多极具特色的通识类课程，点击了解更多。"
+          ]
+        },
+        {
+          "pathway": "课程",
+          "year": "第二学年",
+          "categories": {
+            "核心课程": [
+              "声音概论",
+              "相机和灯光概论",
+              "电影电视概论",
+              "后期制作概论",
+              "电视节目开发和前期制作",
+              "工作室角色和职责",
+              "人工智能策略",
+              "动态图形",
+              "创意创业导论",
+              "剧集制作"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "课程",
+          "year": "第三学年",
+          "categories": {
+            "核心课程": [
+              "电视演播室制作",
+              "摄像进阶",
+              "小型电影项目",
+              "纪录片进阶",
+              "声音",
+              "电视和流媒体编剧",
+              "中国与数字革命",
+              "短视频制作"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "课程",
+          "year": "第四学年",
+          "categories": {
+            "核心课程": [
+              "合作项目",
+              "传媒、娱乐及文化产业",
+              "毕业设计：移动图像",
+              "电视作品毕业设计",
+              "社交媒体和视频"
+            ]
+          },
+          "notes": []
+        }
+      ],
+      "missing": [
+        "programme_selection_threshold",
+        "confirmed_cohort_curriculum"
+      ],
+      "group": "创意媒体与艺术",
+      "goal": "学习节目策划、制作与传播理论，涉及电视、短视频及社交媒体。",
+      "career_summary": "节目制作、编导、摄影、广告与数字内容；相关研究生学习。",
+      "similar_id": "xjtlu-filmmaking",
+      "source_id": "S-xjtlu-film-and-television-production",
+      "aliases": [
+        "广播电视学"
+      ],
+      "parent_id": null,
+      "entry_type": "directory_entry",
+      "internal_pathways": [],
+      "conflicts": [],
+      "eligibility_status": "pending_verification",
+      "checked_at": "2026-09-18",
+      "version": "0.1.0-rc1",
+      "career_section": "就业或职业发展（摘要仅保留领域，省略宣传性成功保证与升学比例）"
+    },
+    {
+      "major_id": "xjtlu-international-business-with-a-language",
+      "official_name": "国际商务",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/international-business-with-a-language",
+      "final_url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/international-business-with-a-language",
+      "status": "read",
+      "sha256": "5201b72949beedd1525dad19ba8bd43f8aa3f20cfb16a26f3fda9243f3dfb4eb",
+      "retrieved_at": "2026-09-18T07:58:13.072192+00:00",
+      "fields": {
+        "开始时间": "2027年09月",
+        "教学形式": "全日制",
+        "学制": "四年",
+        "2+2学习": "可选",
+        "学习地点": "苏州",
+        "院系": "西浦国际商学院",
+        "学位证书": "毕业生可同时获得中国教育部认可的西交利物浦大学本科毕业证书、学士学位证书和国际认可的英国利物浦大学学士学位证书。"
+      },
+      "metadata_dates": {
+        "datePublished": "2022-10-09T06:07:07+00:00",
+        "dateModified": "2026-06-15T04:01:17+00:00"
+      },
+      "courses": [
+        {
+          "pathway": "课程",
+          "year": "第一学年",
+          "categories": {},
+          "notes": [
+            "西交利物浦大学在第一学年开设了包括学术英语、数理基础、人文教育在内的众多极具特色的通识类课程，点击了解更多。"
+          ]
+        },
+        {
+          "pathway": "课程",
+          "year": "第二学年",
+          "categories": {
+            "核心课程": [
+              "中文3",
+              "中文4",
+              "中文5",
+              "中文6",
+              "中文7",
+              "中文8",
+              "中文9",
+              "中文10",
+              "强化中文1&2",
+              "强化中文3&4",
+              "经济学要领",
+              "金融学基础",
+              "营销学基础",
+              "人工智能在管理决策中的应用",
+              "日语3",
+              "日语4",
+              "人力资源管理概论",
+              "跨境管理",
+              "创业学：全球化与本地化交织时代的跨学科实践",
+              "管理研究中的定量研究方法",
+              "西班牙语 3",
+              "西班牙语 4"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "课程",
+          "year": "第三学年",
+          "categories": {
+            "核心课程": [
+              "中文5",
+              "中文6",
+              "中文7",
+              "中文8",
+              "中文9",
+              "中文10",
+              "中文11",
+              "中文12",
+              "国际发展",
+              "管理研究中的定性研究方法",
+              "日语5",
+              "日语6",
+              "企业社会责任",
+              "国际商法",
+              "国际雇佣关系",
+              "创业精神",
+              "西班牙语 5",
+              "西班牙语 6"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "课程",
+          "year": "第四学年",
+          "categories": {
+            "核心课程": [
+              "毕业设计",
+              "中文7",
+              "中文8",
+              "中文9",
+              "中文10",
+              "中文11",
+              "中文12",
+              "商务中文1",
+              "商务中文2",
+              "国际经济关系",
+              "日语7",
+              "日语8",
+              "亚太地区商业",
+              "战略管理和商业政策",
+              "西班牙语 7",
+              "西班牙语 8"
+            ],
+            "可选课程": [
+              "国际营销",
+              "国际人力资源管理"
+            ]
+          },
+          "notes": []
+        }
+      ],
+      "missing": [
+        "programme_selection_threshold",
+        "confirmed_cohort_curriculum"
+      ],
+      "group": "商业经济与金融",
+      "goal": "将国际商务管理、跨文化沟通与第二外语相结合。",
+      "career_summary": "跨国企业及国际商务相关业务；后续岗位条件另核实。",
+      "similar_id": "xjtlu-english-and-business",
+      "source_id": "S-xjtlu-international-business-with-a-language",
+      "aliases": [
+        "国际商务"
+      ],
+      "parent_id": null,
+      "entry_type": "directory_entry",
+      "internal_pathways": [],
+      "conflicts": [],
+      "eligibility_status": "pending_verification",
+      "checked_at": "2026-09-18",
+      "version": "0.1.0-rc1",
+      "pathway_note": "官网课程表合列不同级别的中文、日语、西班牙语课程，不能理解为每位学生需同时修完全部语言及级别；实际语言选择、分级和课程组合待校方培养方案确认。",
+      "career_section": "就业或职业发展（摘要仅保留领域，省略宣传性成功保证与升学比例）"
+    },
+    {
+      "major_id": "xjtlu-international-relations",
+      "official_name": "国际事务与国际关系",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/international-relations",
+      "final_url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/international-relations",
+      "status": "read",
+      "sha256": "04739a6701d0be2f33d14dc8cd27af407e9466f2ef4745943764f79d8ce39302",
+      "retrieved_at": "2026-09-18T07:58:17.196961+00:00",
+      "fields": {
+        "开始时间": "2027年09月",
+        "教学形式": "全日制",
+        "学制": "四年",
+        "2+2学习": "可选",
+        "学习地点": "苏州",
+        "院系": "人文社科学院",
+        "学位证书": "毕业生可同时获得中国教育部认可的西交利物浦大学本科毕业证书、学士学位证书和国际认可的英国利物浦大学学士学位证书。"
+      },
+      "metadata_dates": {
+        "datePublished": "2022-10-09T06:28:48+00:00",
+        "dateModified": "2026-07-16T01:15:21+00:00"
+      },
+      "courses": [
+        {
+          "pathway": "课程",
+          "year": "第一学年",
+          "categories": {},
+          "notes": [
+            "西交利物浦大学在第一学年开设了包括学术英语、数理基础、人文教育在内的众多极具特色的通识类课程，点击了解更多。"
+          ]
+        },
+        {
+          "pathway": "课程",
+          "year": "第二学年",
+          "categories": {
+            "核心课程": [
+              "人文与社会科学的人工智能：赋能研究与实践",
+              "人文与社会科学视界",
+              "当代国际关系",
+              "国际政治经济学",
+              "世界历史：二十世纪至今",
+              "美洲历史",
+              "东亚和东南亚：太平洋世纪",
+              "政治学基础",
+              "管理世界：国际机构的作用"
+            ],
+            "可选课程": [
+              "中文1",
+              "中文2",
+              "中文3",
+              "中文4",
+              "中文5",
+              "中文6",
+              "中文7",
+              "中文8",
+              "中文9",
+              "中文10",
+              "中文11",
+              "中文12",
+              "商务中文1",
+              "商务中文2",
+              "日语1",
+              "日语2",
+              "日语3",
+              "日语4",
+              "西班牙语 1",
+              "西班牙语 2",
+              "西班牙语 3",
+              "西班牙语 4"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "课程",
+          "year": "第三学年",
+          "categories": {
+            "核心课程": [
+              "国际关系研究方法",
+              "国际关系留学",
+              "国别研究",
+              "外交政策分析",
+              "国际传播",
+              "比较政治学"
+            ],
+            "可选课程": [
+              "国际中国",
+              "亚太地区的经济区域化：中国与周边地区",
+              "中文3",
+              "中文4",
+              "中文5",
+              "中文6",
+              "中文7",
+              "中文8",
+              "中文9",
+              "中文10",
+              "中文11",
+              "中文12",
+              "商务中文1",
+              "商务中文2",
+              "非洲发展的国际政治",
+              "区域一体化：以欧洲为例",
+              "当代俄罗斯政治与经济",
+              "日语1",
+              "日语2",
+              "日语3",
+              "日语4",
+              "日语5",
+              "西班牙语 1",
+              "西班牙语 2",
+              "西班牙语 3",
+              "西班牙语 4",
+              "西班牙语 5"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "课程",
+          "year": "第四学年",
+          "categories": {
+            "核心课程": [
+              "国际关系：毕业设计",
+              "国际商法"
+            ],
+            "可选课程": [
+              "当代中国商业治理",
+              "中国地方政府",
+              "中国：国际贸易",
+              "中文3",
+              "中文4",
+              "中文5",
+              "中文6",
+              "中文7",
+              "中文8",
+              "中文9",
+              "中文10",
+              "中文11",
+              "中文12",
+              "商务中文1",
+              "商务中文2",
+              "人工智能和大数据在社会中的应用",
+              "数字经济下的文化创意产业",
+              "全球化与科学传播",
+              "调查新闻",
+              "中欧关系：批判性视角",
+              "美国情报和外交政策",
+              "对外援助的政治经济学",
+              "公共政策与文化外交",
+              "全球混乱时代的俄罗斯和中国大国",
+              "经济问题和发展政策",
+              "冲突与国际干预",
+              "全球公共政策与国际关系研究方法",
+              "国际法",
+              "全球金融",
+              "全球化世界下的外交学",
+              "后殖民文学",
+              "文学与环境",
+              "跨文化交际",
+              "会议口译"
+            ]
+          },
+          "notes": []
+        }
+      ],
+      "missing": [
+        "programme_selection_threshold",
+        "confirmed_cohort_curriculum"
+      ],
+      "group": "人文语言与传播",
+      "goal": "从政治、经济与法律等角度理解全球事务和中国与世界的关系。",
+      "career_summary": "公共部门、智库、研究、咨询、媒体及商业；人文社科深造。",
+      "similar_id": "xjtlu-china-studies",
+      "source_id": "S-xjtlu-international-relations",
+      "aliases": [
+        "国际事务与国际关系"
+      ],
+      "parent_id": null,
+      "entry_type": "directory_entry",
+      "internal_pathways": [],
+      "conflicts": [],
+      "eligibility_status": "pending_verification",
+      "checked_at": "2026-09-18",
+      "version": "0.1.0-rc1",
+      "career_section": "就业或职业发展（摘要仅保留领域，省略宣传性成功保证与升学比例）"
+    },
+    {
+      "major_id": "xjtlu-china-studies",
+      "official_name": "汉学与中国学",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/china-studies",
+      "final_url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/china-studies",
+      "status": "read",
+      "sha256": "0cc381536e42f6697ab433fc229f1d4087fd2a386e3c52e650783f35891d0f94",
+      "retrieved_at": "2026-09-18T07:58:18.240307+00:00",
+      "fields": {
+        "开始时间": "2027年09月",
+        "教学形式": "全日制",
+        "学制": "四年",
+        "2+2学习": "不可选",
+        "学习地点": "苏州",
+        "院系": "人文社科学院",
+        "学位证书": "毕业生可同时获得中国教育部认可的西交利物浦大学本科毕业证书、学士学位证书和国际认可的英国利物浦大学学士学位证书。"
+      },
+      "metadata_dates": {
+        "datePublished": "2022-10-09T06:35:07+00:00",
+        "dateModified": "2026-09-11T06:24:48+00:00"
+      },
+      "courses": [
+        {
+          "pathway": "课程",
+          "year": "第一学年",
+          "categories": {},
+          "notes": [
+            "西交利物浦大学在第一学年开设了包括学术英语、数理基础、人文教育在内的众多极具特色的通识类课程，点击了解更多。"
+          ]
+        },
+        {
+          "pathway": "课程",
+          "year": "第二学年",
+          "categories": {
+            "核心课程": [
+              "人文与社会科学的人工智能：赋能研究与实践",
+              "人文与社会科学视界"
+            ],
+            "可选课程": [
+              "中华文明：思想家与思想",
+              "中国历史：从史前到清代",
+              "中国文学概论",
+              "当代中国商业治理",
+              "中国：家庭与社会",
+              "从丝绸之路到一带一路：历史、文化与贸易",
+              "社会学理论的中国之旅",
+              "中文3",
+              "中文5",
+              "中文4",
+              "中文6",
+              "中文7",
+              "中文8",
+              "中文9",
+              "中文10",
+              "中文11",
+              "中文12",
+              "强化中文1&2",
+              "强化中文3&4",
+              "强化中文3&4",
+              "强化中文5&6",
+              "强化中文5&6",
+              "强化中文7&8",
+              "现代汉语 1",
+              "现代汉语 2",
+              "经济学要领",
+              "国际政治经济学"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "课程",
+          "year": "第三学年",
+          "categories": {
+            "核心课程": [
+              "中国研究方法"
+            ],
+            "可选课程": [
+              "国际中国",
+              "中国研究专业技能",
+              "中国现当代文学",
+              "中国：文化、语言和交流",
+              "中国：消费与日常生活",
+              "中国的科学、技术与发展",
+              "二十世纪的中国",
+              "中文3",
+              "中文4",
+              "中文5",
+              "中文6",
+              "中文7",
+              "中文8",
+              "中文9",
+              "中文10",
+              "中文11",
+              "中文12",
+              "强化中文5&6",
+              "强化中文7&8",
+              "国际中文教育概论",
+              "国际中文教育教学法",
+              "中国电影",
+              "定量研究方法",
+              "国际传播",
+              "汉语语言学",
+              "中国规划的问题与实践",
+              "中国规划的问题与实践 2"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "课程",
+          "year": "第四学年",
+          "categories": {
+            "核心课程": [
+              "中国研究：毕业设计"
+            ],
+            "可选课程": [
+              "中国地方政府",
+              "中国：理解性别",
+              "中国：国际贸易",
+              "中国：文化遗产研究",
+              "智慧之道：中国哲学与其现代意义",
+              "苏州今昔",
+              "中国艺术史：视觉物质文化研究",
+              "中国城市经济：城市与区域",
+              "中国消费的社会基础设施与发展",
+              "公共管理与发展",
+              "中文5",
+              "中文6",
+              "中文7",
+              "中文8",
+              "中文9",
+              "中文10",
+              "中文11",
+              "中文12",
+              "强化中文5&6",
+              "强化中文7&8",
+              "商务中文1",
+              "商务中文2",
+              "古代汉语",
+              "中文写作",
+              "公共政策与文化外交",
+              "数字人文学科研究与实践",
+              "语言教育",
+              "翻译中国1：文化与历史",
+              "翻译中国2：社会与经济"
+            ]
+          },
+          "notes": []
+        }
+      ],
+      "missing": [
+        "programme_selection_threshold",
+        "confirmed_cohort_curriculum"
+      ],
+      "group": "人文语言与传播",
+      "goal": "用人文社会科学方法研究中国历史、社会、文化与发展。",
+      "career_summary": "中国相关国际商务、公共事务、传媒、教育与研究。",
+      "similar_id": "xjtlu-international-relations",
+      "source_id": "S-xjtlu-china-studies",
+      "aliases": [
+        "汉学与中国学"
+      ],
+      "parent_id": null,
+      "entry_type": "directory_entry",
+      "internal_pathways": [
+        {
+          "pathway_id": "xjtlu-china-studies--economy-global",
+          "name": "经济与全球事务"
+        },
+        {
+          "pathway_id": "xjtlu-china-studies--chinese-education",
+          "name": "汉语国际教育"
+        },
+        {
+          "pathway_id": "xjtlu-china-studies--chinese-language",
+          "name": "汉语",
+          "condition": "官网注明仅面向非中文母语学生；不外推为整个专业限制。"
+        }
+      ],
+      "conflicts": [
+        "课程 / 第二学年同名课程重复或跨核心/选修列表出现：强化中文3&4、强化中文5&6；可能涉及方向或选课组合，不能直接认定人人同修或删去重复，须核实。"
+      ],
+      "eligibility_status": "pending_verification",
+      "checked_at": "2026-09-18",
+      "version": "0.1.0-rc1",
+      "pathway_note": "官网说明专业方向并非必选；学生可以先探索，再在满足相应学分要求时选择一个方向，亦可灵活选课而不选择方向。",
+      "career_section": "就业或职业发展（摘要仅保留领域，省略宣传性成功保证与升学比例）"
+    },
+    {
+      "major_id": "xjtlu-environmental-science",
+      "official_name": "环境科学",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/environmental-science",
+      "final_url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/environmental-science",
+      "status": "read",
+      "sha256": "d8a8d5e41a018d6bf005262d518280e1e4a6b62d3f19df16fc71a13fe9a4296f",
+      "retrieved_at": "2026-09-18T07:58:14.591774+00:00",
+      "fields": {
+        "开始时间": "2027年09月",
+        "教学形式": "全日制",
+        "学制": "四年",
+        "2+2学习": "可选",
+        "学习地点": "苏州",
+        "宣传册": "下载文件",
+        "院系": "生命与自然科学学院",
+        "学位证书": "毕业生可同时获得中国教育部认可的西交利物浦大学本科毕业证书、学士学位证书和国际认可的英国利物浦大学学士学位证书。"
+      },
+      "metadata_dates": {
+        "datePublished": "2022-10-09T07:03:08+00:00",
+        "dateModified": "2026-09-01T07:17:43+00:00"
+      },
+      "courses": [
+        {
+          "pathway": "课程",
+          "year": "第一学年",
+          "categories": {},
+          "notes": [
+            "西交利物浦大学在第一学年开设了包括学术英语、数理基础、人文教育在内的众多极具特色的通识类课程，点击了解更多。"
+          ]
+        },
+        {
+          "pathway": "课程",
+          "year": "第二学年",
+          "categories": {
+            "核心课程": [
+              "地理信息系统",
+              "环境科学野外研究入门技能",
+              "环境科学的定量野外研究技能，数据收集和分析",
+              "生态学、演化论和地球系统简介",
+              "环境化学与监测导论",
+              "环境科学的常规实验室技术",
+              "环境监测的野外/实验室技术",
+              "环境科学的科研基础技能",
+              "面向科学的人工智能导论",
+              "科学领域的创业教育：面向未来的创新"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "课程",
+          "year": "第三学年",
+          "categories": {
+            "核心课程": [
+              "研究设计",
+              "环境遥感",
+              "生物地球化学和全球变化",
+              "空气与环境",
+              "土壤与环境",
+              "水生生态学",
+              "环境仪器分析",
+              "微生物生态学",
+              "水与环境",
+              "环境政策与治理",
+              "陆地生态学",
+              "可持续能源",
+              "自然科学初级统计学",
+              "自然科学高级统计学",
+              "环境经济学",
+              "气候变化与风险"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "课程",
+          "year": "第四学年",
+          "categories": {
+            "核心课程": [
+              "毕业设计",
+              "环境影响评价",
+              "可控生态系统",
+              "环境工程",
+              "环境与社会",
+              "科学研究中的批判思维和应用技术"
+            ],
+            "可选课程": [
+              "环境管理",
+              "环境修复和治理-野外课程",
+              "科技阅读，评审与写作",
+              "环境与社会",
+              "人类与环境污染",
+              "商业风险管理",
+              "管理研究中的定性研究方法",
+              "国际营销",
+              "企业社会责任",
+              "亚太地区商业"
+            ]
+          },
+          "notes": []
+        }
+      ],
+      "missing": [
+        "programme_selection_threshold",
+        "confirmed_cohort_curriculum"
+      ],
+      "group": "生命环境与健康",
+      "goal": "以生态、化学、地理、统计与政策研究环境问题及治理。",
+      "career_summary": "环境咨询、监测、评估、保护与企业环境管理等探索方向。",
+      "similar_id": "xjtlu-urban-planning-and-design",
+      "source_id": "S-xjtlu-environmental-science",
+      "aliases": [
+        "环境科学"
+      ],
+      "parent_id": null,
+      "entry_type": "directory_entry",
+      "internal_pathways": [
+        {
+          "pathway_id": "xjtlu-environmental-science--ecology",
+          "name": "生态学"
+        },
+        {
+          "pathway_id": "xjtlu-environmental-science--pollution",
+          "name": "污染治理与修复"
+        },
+        {
+          "pathway_id": "xjtlu-environmental-science--management",
+          "name": "环境管理"
+        }
+      ],
+      "conflicts": [
+        "官网第四学年“环境与社会”同时在核心及可选列表中；必选性质须核实。"
+      ],
+      "eligibility_status": "pending_verification",
+      "checked_at": "2026-09-18",
+      "version": "0.1.0-rc1",
+      "pathway_note": "官网概览列出上述方向；公开课程表合列而非逐方向分表，不能认定全部方向课程都由每位学生同修。个人方向、学分要求和可选组合待对应培养方案确认。",
+      "career_section": "就业或职业发展（摘要仅保留领域，省略宣传性成功保证与升学比例）"
+    },
+    {
+      "major_id": "xjtlu-accounting",
+      "official_name": "会计学",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/accounting",
+      "final_url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/accounting",
+      "status": "read",
+      "sha256": "76e50afb0f9c6f35b571739eff14d7eea468a3f3d3b5f0ae97a20642d4e9dcac",
+      "retrieved_at": "2026-09-18T07:58:14.987565+00:00",
+      "fields": {
+        "开始时间": "2027年09月",
+        "教学形式": "全日制",
+        "学制": "四年",
+        "2+2学习": "可选",
+        "学习地点": "苏州",
+        "院系": "西浦国际商学院",
+        "学位证书": "毕业生可同时获得中国教育部认可的西交利物浦大学本科毕业证书、学士学位证书和国际认可的英国利物浦大学学士学位证书。"
+      },
+      "metadata_dates": {
+        "datePublished": "2022-10-09T08:37:56+00:00",
+        "dateModified": "2026-06-15T04:03:33+00:00"
+      },
+      "courses": [
+        {
+          "pathway": "课程",
+          "year": "第一学年",
+          "categories": {},
+          "notes": [
+            "西交利物浦大学在第一学年开设了包括学术英语、数理基础、人文教育在内的众多极具特色的通识类课程，点击了解更多。"
+          ]
+        },
+        {
+          "pathway": "课程",
+          "year": "第二学年",
+          "categories": {
+            "核心课程": [
+              "专业会计师的技能",
+              "人工智能驱动的数据分析",
+              "财务会计导论",
+              "管理会计概论",
+              "商业与市场经济学原理",
+              "定量方法",
+              "企业财务导论",
+              "运营管理原理",
+              "组织与管理学概论",
+              "创业历程：从理论到实践"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "课程",
+          "year": "第三学年",
+          "categories": {
+            "核心课程": [
+              "商法",
+              "财务报告 1",
+              "审计与鉴证",
+              "管理会计",
+              "会计财务管理"
+            ],
+            "可选课程": [
+              "会计理论",
+              "税务合规",
+              "会计与金融计量经济学",
+              "高级会计信息系统与决策",
+              "数字化可持续发展"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "课程",
+          "year": "第四学年",
+          "categories": {
+            "核心课程": [
+              "高级管理会计",
+              "企业报告、分析",
+              "财务报告 2",
+              "会计毕业设计"
+            ],
+            "可选课程": [
+              "高级审计",
+              "高级税务",
+              "会计分析",
+              "会计欺诈行为的检测与分析",
+              "商业金融",
+              "商业策略"
+            ]
+          },
+          "notes": []
+        }
+      ],
+      "missing": [
+        "programme_selection_threshold",
+        "confirmed_cohort_curriculum"
+      ],
+      "group": "商业经济与金融",
+      "goal": "学习财务报告、管理会计、审计、财务决策及商业组织背景。",
+      "career_summary": "会计、审计、财务与咨询；会计金融管理相关深造。",
+      "similar_id": "xjtlu-economics-and-finance",
+      "source_id": "S-xjtlu-accounting",
+      "aliases": [
+        "会计学"
+      ],
+      "parent_id": null,
+      "entry_type": "directory_entry",
+      "internal_pathways": [],
+      "conflicts": [],
+      "eligibility_status": "pending_verification",
+      "checked_at": "2026-09-18",
+      "version": "0.1.0-rc1",
+      "career_section": "就业或职业发展（摘要仅保留领域，省略宣传性成功保证与升学比例）"
+    },
+    {
+      "major_id": "xjtlu-architecture",
+      "official_name": "建筑学",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/architecture",
+      "final_url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/architecture",
+      "status": "read",
+      "sha256": "6f550dd62a2d812d7b8bdb071be7664631105fe02d6c775dd40409218ebc725a",
+      "retrieved_at": "2026-09-18T07:58:19.290673+00:00",
+      "fields": {
+        "开始时间": "2027年09月",
+        "教学形式": "全日制",
+        "学制": "四年",
+        "2+2学习": "可选",
+        "学习地点": "苏州",
+        "院系": "设计学院",
+        "学位证书": "毕业生可同时获得中国教育部认可的西交利物浦大学本科毕业证书、学士学位证书和国际认可的英国利物浦大学学士学位证书。"
+      },
+      "metadata_dates": {
+        "datePublished": "2022-10-09T07:51:58+00:00",
+        "dateModified": "2026-09-03T08:41:38+00:00"
+      },
+      "courses": [
+        {
+          "pathway": "课程",
+          "year": "第一学年",
+          "categories": {},
+          "notes": [
+            "西交利物浦大学在第一学年开设了包括学术英语、数理基础、人文教育在内的众多极具特色的通识类课程，点击了解更多。"
+          ]
+        },
+        {
+          "pathway": "课程",
+          "year": "第二学年",
+          "categories": {
+            "核心课程": [
+              "设计思维与表达",
+              "环境科学导论",
+              "结构和材料",
+              "西方建筑史",
+              "语境设计工作室",
+              "多维度协同设计工作室",
+              "设计语言与人工智能导论",
+              "设计与工程中的创业精神",
+              "计算机辅助设计和建模（三维）"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "课程",
+          "year": "第三学年",
+          "categories": {
+            "核心课程": [
+              "环境设计和可持续发展",
+              "结构设计",
+              "亚洲建筑史",
+              "生成式设计工作室",
+              "综合设计工作室原则",
+              "生成式设计工作室",
+              "城市设计与理论1"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "课程",
+          "year": "第四学年",
+          "categories": {
+            "核心课程": [
+              "建筑技术",
+              "建筑和设计理论",
+              "中小型建筑",
+              "专业实践",
+              "毕业设计"
+            ],
+            "可选课程": [
+              "数字人文：设计、文化与创造力",
+              "建筑信息模型"
+            ]
+          },
+          "notes": []
+        }
+      ],
+      "missing": [
+        "programme_selection_threshold",
+        "confirmed_cohort_curriculum"
+      ],
+      "group": "建筑设计与城市",
+      "goal": "以设计工作室结合历史、技术、结构、环境与计算设计。",
+      "career_summary": "建筑、空间与创意设计；建筑相关研究生学习。",
+      "similar_id": "xjtlu-urban-planning-and-design",
+      "source_id": "S-xjtlu-architecture",
+      "aliases": [
+        "建筑学"
+      ],
+      "parent_id": null,
+      "entry_type": "directory_entry",
+      "internal_pathways": [
+        {
+          "pathway_id": "xjtlu-architecture--advanced-intelligent-design",
+          "name": "高级智能设计"
+        },
+        {
+          "pathway_id": "xjtlu-architecture--adaptive-design",
+          "name": "适应性设计"
+        }
+      ],
+      "conflicts": [
+        "官网第三学年核心课程重复出现“生成式设计工作室”；保留原列表，不推断为两门不同课程。"
+      ],
+      "eligibility_status": "pending_verification",
+      "checked_at": "2026-09-18",
+      "version": "0.1.0-rc1",
+      "career_section": "就业或职业发展（摘要仅保留领域，省略宣传性成功保证与升学比例）"
+    },
+    {
+      "major_id": "xjtlu-economics",
+      "official_name": "经济学",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/economics",
+      "final_url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/economics",
+      "status": "read",
+      "sha256": "d8d9063b6a7b3507ae04a4ba52bd084ab83ed3d9b93f56a38cd9e8d413d78a3b",
+      "retrieved_at": "2026-09-18T07:58:16.387637+00:00",
+      "fields": {
+        "开始时间": "2027年09月",
+        "教学形式": "全日制",
+        "学制": "四年",
+        "2+2学习": "可选",
+        "学习地点": "苏州",
+        "院系": "西浦国际商学院",
+        "学位证书": "毕业生可同时获得中国教育部认可的西交利物浦大学本科毕业证书、学士学位证书和国际认可的英国利物浦大学学士学位证书。"
+      },
+      "metadata_dates": {
+        "datePublished": "2022-10-09T08:13:54+00:00",
+        "dateModified": "2026-08-28T05:09:36+00:00"
+      },
+      "courses": [
+        {
+          "pathway": "课程",
+          "year": "第一学年",
+          "categories": {},
+          "notes": [
+            "西交利物浦大学在第一学年开设了包括学术英语、数理基础、人文教育在内的众多极具特色的通识类课程，点击了解更多。"
+          ]
+        },
+        {
+          "pathway": "课程",
+          "year": "第二学年",
+          "categories": {
+            "核心课程": [
+              "人工智能驱动的数据分析",
+              "财务会计和会计责任概论",
+              "统计实践导论",
+              "商业和经济学导论",
+              "微观经济学导论",
+              "宏观经济学导论",
+              "经济分析基础",
+              "经济和商业数学",
+              "财务概要",
+              "创业历程：从理论到实践"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "课程",
+          "year": "第三学年",
+          "categories": {
+            "核心课程": [
+              "计量经济学 1",
+              "宏观经济学 1",
+              "计量经济学 2",
+              "宏观经济学 2",
+              "微观经济学 1",
+              "微观经济学 2"
+            ],
+            "可选课程": [
+              "经济思想史",
+              "实验经济学",
+              "数理经济学",
+              "国际劳动力市场",
+              "行为经济学",
+              "经济政策问题",
+              "经济学中的动态方法",
+              "财务管理",
+              "金融科技基础"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "课程",
+          "year": "第四学年",
+          "categories": {
+            "核心课程": [
+              "毕业设计",
+              "可持续发展- I",
+              "可持续发展- II"
+            ],
+            "可选课程": [
+              "高级计量经济学",
+              "国际贸易",
+              "货币经济学",
+              "中国经济",
+              "金融经济学",
+              "博弈论",
+              "企业与市场",
+              "高级宏观经济学",
+              "商业金融"
+            ]
+          },
+          "notes": []
+        }
+      ],
+      "missing": [
+        "programme_selection_threshold",
+        "confirmed_cohort_curriculum"
+      ],
+      "group": "商业经济与金融",
+      "goal": "以微观、宏观、计量和数学方法研究市场与经济运行。",
+      "career_summary": "咨询、金融、公共服务等领域；经济、金融、管理及公共管理深造。",
+      "similar_id": "xjtlu-economics-and-finance",
+      "source_id": "S-xjtlu-economics",
+      "aliases": [
+        "经济学"
+      ],
+      "parent_id": null,
+      "entry_type": "directory_entry",
+      "internal_pathways": [],
+      "conflicts": [],
+      "eligibility_status": "pending_verification",
+      "checked_at": "2026-09-18",
+      "version": "0.1.0-rc1",
+      "career_section": "就业或职业发展（摘要仅保留领域，省略宣传性成功保证与升学比例）"
+    },
+    {
+      "major_id": "xjtlu-economics-and-finance",
+      "official_name": "经济与金融",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/economics-and-finance",
+      "final_url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/economics-and-finance",
+      "status": "read",
+      "sha256": "4d311763bda430eff0c6cbeb471e1a6641313c136ad3a00eca0d092f65c660bd",
+      "retrieved_at": "2026-09-18T07:58:20.750622+00:00",
+      "fields": {
+        "开始时间": "2027年09月",
+        "教学形式": "全日制",
+        "学制": "四年",
+        "2+2学习": "可选",
+        "学习地点": "苏州",
+        "院系": "西浦国际商学院",
+        "学位证书": "毕业生可同时获得中国教育部认可的西交利物浦大学本科毕业证书、学士学位证书和国际认可的英国利物浦大学学士学位证书。"
+      },
+      "metadata_dates": {
+        "datePublished": "2022-10-09T08:23:00+00:00",
+        "dateModified": "2026-06-15T04:05:14+00:00"
+      },
+      "courses": [
+        {
+          "pathway": "课程",
+          "year": "第一学年",
+          "categories": {},
+          "notes": [
+            "西交利物浦大学在第一学年开设了包括学术英语、数理基础、人文教育在内的众多极具特色的通识类课程，点击了解更多。"
+          ]
+        },
+        {
+          "pathway": "课程",
+          "year": "第二学年",
+          "categories": {
+            "核心课程": [
+              "人工智能驱动的数据分析",
+              "管理会计概论",
+              "财务会计基础",
+              "商业和经济学导论",
+              "微观经济学导论",
+              "宏观经济学导论",
+              "概率论与数理统计",
+              "经济数学基础",
+              "财务概要",
+              "创业历程：从理论到实践"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "课程",
+          "year": "第三学年",
+          "categories": {
+            "核心课程": [
+              "计量经济学：理论与应用",
+              "数理经济学",
+              "中级微观经济学",
+              "中级宏观经济学",
+              "公司财务",
+              "金融工具"
+            ],
+            "可选课程": [
+              "经济思想史",
+              "国际劳动力市场",
+              "经济政策问题",
+              "实验经济学和金融学",
+              "经济学中的动态方法",
+              "金融科技基础"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "课程",
+          "year": "第四学年",
+          "categories": {
+            "核心课程": [
+              "毕业设计",
+              "金融计量经济学",
+              "金融经济学",
+              "金融风险管理",
+              "投资学"
+            ],
+            "可选课程": [
+              "国际政治经济学",
+              "国际贸易",
+              "货币经济学",
+              "中国经济",
+              "博弈论",
+              "企业与市场",
+              "高级宏观经济学",
+              "环境经济学"
+            ]
+          },
+          "notes": []
+        }
+      ],
+      "missing": [
+        "programme_selection_threshold",
+        "confirmed_cohort_curriculum"
+      ],
+      "group": "商业经济与金融",
+      "goal": "结合经济理论、金融市场、投资和企业财务的分析工具。",
+      "career_summary": "经济金融与专业服务；经济或金融相关硕士。",
+      "similar_id": "xjtlu-financial-mathematics",
+      "source_id": "S-xjtlu-economics-and-finance",
+      "aliases": [
+        "经济与金融"
+      ],
+      "parent_id": null,
+      "entry_type": "directory_entry",
+      "internal_pathways": [],
+      "conflicts": [],
+      "eligibility_status": "pending_verification",
+      "checked_at": "2026-09-18",
+      "version": "0.1.0-rc1",
+      "career_section": "就业或职业发展（摘要仅保留领域，省略宣传性成功保证与升学比例）"
+    },
+    {
+      "major_id": "xjtlu-actuarial-science",
+      "official_name": "精算学",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/actuarial-science",
+      "final_url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/actuarial-science",
+      "status": "read",
+      "sha256": "26528d4dab95e9d110423ba17d34f2219670013bf06c9e6b68ecb7a2514c62b5",
+      "retrieved_at": "2026-09-18T07:58:17.589849+00:00",
+      "fields": {
+        "开始时间": "2027年09月",
+        "教学形式": "全日制",
+        "学制": "四年",
+        "2+2学习": "可选",
+        "学习地点": "苏州",
+        "院系": "数学物理学院",
+        "学位证书": "毕业生可同时获得中国教育部认可的西交利物浦大学本科毕业证书、学士学位证书和国际认可的英国利物浦大学学士学位证书。"
+      },
+      "metadata_dates": {
+        "datePublished": "2022-10-09T08:31:09+00:00",
+        "dateModified": "2026-08-25T07:56:30+00:00"
+      },
+      "courses": [
+        {
+          "pathway": "课程",
+          "year": "第一学年",
+          "categories": {},
+          "notes": [
+            "西交利物浦大学在第一学年开设了包括学术英语、数理基础、人文教育在内的众多极具特色的通识类课程，点击了解更多。"
+          ]
+        },
+        {
+          "pathway": "课程",
+          "year": "第二学年",
+          "categories": {
+            "核心课程": [
+              "财务会计导论",
+              "微观经济学原理",
+              "宏观经济学原理",
+              "金融学概论",
+              "利息理论",
+              "微分方程及其计算机解",
+              "精算概率基础",
+              "数理思维与商业创新",
+              "数学科学人工智能导论"
+            ],
+            "可选课程": [
+              "高级线性代数",
+              "数学分析1"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "课程",
+          "year": "第三学年",
+          "categories": {
+            "核心课程": [
+              "寿险精算学2",
+              "寿险精算学1",
+              "精算科学中的统计方法",
+              "金融保险中的随机模型I"
+            ],
+            "可选课程": [
+              "财务报告 1",
+              "计量经济学 1",
+              "宏观经济学 1",
+              "宏观经济学 2",
+              "中级宏观经济学",
+              "债券、股票及衍生品",
+              "风险模型与生存分析"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "课程",
+          "year": "第四学年",
+          "categories": {
+            "核心课程": [
+              "毕业设计",
+              "线性统计模型"
+            ],
+            "可选课程": [
+              "国际贸易",
+              "时间序列计量经济学",
+              "应用概率论",
+              "随机模型在保险与金融的应用",
+              "现代精算统计",
+              "应用多元统计",
+              "概率测度和资产定价",
+              "统计学习概论及应用",
+              "数学风险理论",
+              "神经网络与深度学习"
+            ]
+          },
+          "notes": []
+        }
+      ],
+      "missing": [
+        "programme_selection_threshold",
+        "confirmed_cohort_curriculum"
+      ],
+      "group": "数学统计与数据",
+      "goal": "用数学、统计和数据分析量化风险与不确定性。",
+      "career_summary": "保险、养老金、风险与预测分析；专业资格条件另核实。",
+      "similar_id": "xjtlu-financial-mathematics",
+      "source_id": "S-xjtlu-actuarial-science",
+      "aliases": [
+        "精算学"
+      ],
+      "parent_id": null,
+      "entry_type": "directory_entry",
+      "internal_pathways": [],
+      "conflicts": [],
+      "eligibility_status": "pending_verification",
+      "checked_at": "2026-09-18",
+      "version": "0.1.0-rc1",
+      "career_section": "就业或职业发展（摘要仅保留领域，省略宣传性成功保证与升学比例）"
+    },
+    {
+      "major_id": "xjtlu-financial-mathematics",
+      "official_name": "金融数学",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/financial-mathematics",
+      "final_url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/financial-mathematics",
+      "status": "read",
+      "sha256": "f6017d099c7fcd0f6a5742baa77e589b0deacd013b8901078341df9dae6213fd",
+      "retrieved_at": "2026-09-18T07:58:17.976528+00:00",
+      "fields": {
+        "开始时间": "2027年09月",
+        "教学形式": "全日制",
+        "学制": "四年",
+        "2+2学习": "可选",
+        "学习地点": "苏州",
+        "院系": "数学物理学院",
+        "学位证书": "毕业生可同时获得中国教育部认可的西交利物浦大学本科毕业证书、学士学位证书和国际认可的英国利物浦大学学士学位证书。"
+      },
+      "metadata_dates": {
+        "datePublished": "2022-10-09T07:54:48+00:00",
+        "dateModified": "2026-06-26T07:18:28+00:00"
+      },
+      "courses": [
+        {
+          "pathway": "课程",
+          "year": "第一学年",
+          "categories": {},
+          "notes": [
+            "西交利物浦大学在第一学年开设了包括学术英语、数理基础、人文教育在内的众多极具特色的通识类课程，点击了解更多。"
+          ]
+        },
+        {
+          "pathway": "课程",
+          "year": "第二学年",
+          "categories": {
+            "核心课程": [
+              "财务会计导论",
+              "微观经济学原理",
+              "宏观经济学原理",
+              "金融学概论",
+              "应用数学方法导论",
+              "概率与统计入门",
+              "金融计算",
+              "金数实分析",
+              "数理思维与商业创新",
+              "数学科学人工智能导论"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "课程",
+          "year": "第三学年",
+          "categories": {
+            "核心课程": [
+              "计量经济学 1",
+              "金融数学基础",
+              "统计方法概论",
+              "统计分布理论",
+              "随机过程和微积分",
+              "量化投资基础",
+              "数量金融与编程"
+            ],
+            "可选课程": [
+              "债券、股票及衍生品",
+              "运筹学导论",
+              "数值分析",
+              "金融工程(I)：高级建模与金融衍生品"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "课程",
+          "year": "第四学年",
+          "categories": {
+            "核心课程": [
+              "时间序列计量经济学",
+              "线性统计模型",
+              "风险管理",
+              "概率测度和资产定价"
+            ],
+            "可选课程": [
+              "毕业设计",
+              "金融与市场",
+              "公司财务：理论与实践",
+              "毕业设计",
+              "应用多元统计",
+              "金融工程(II):数值方法与资产模型",
+              "偏微分方程的数值分析",
+              "金融深度学习"
+            ]
+          },
+          "notes": []
+        }
+      ],
+      "missing": [
+        "programme_selection_threshold",
+        "confirmed_cohort_curriculum"
+      ],
+      "group": "数学统计与数据",
+      "goal": "把数学建模与定量分析用于金融机构和金融问题。",
+      "career_summary": "量化、风险、资产管理及数据分析；金融、统计等深造。",
+      "similar_id": "xjtlu-economics-and-finance",
+      "source_id": "S-xjtlu-financial-mathematics",
+      "aliases": [
+        "金融数学"
+      ],
+      "parent_id": null,
+      "entry_type": "directory_entry",
+      "internal_pathways": [],
+      "conflicts": [
+        "课程 / 第四学年同名课程重复或跨核心/选修列表出现：毕业设计；可能涉及方向或选课组合，不能直接认定人人同修或删去重复，须核实。"
+      ],
+      "eligibility_status": "pending_verification",
+      "checked_at": "2026-09-18",
+      "version": "0.1.0-rc1",
+      "career_section": "就业或职业发展（摘要仅保留领域，省略宣传性成功保证与升学比例）"
+    },
+    {
+      "major_id": "xjtlu-intelligent-robotics-engineering",
+      "official_name": "机器人工程",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/intelligent-robotics-engineering",
+      "final_url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/intelligent-robotics-engineering",
+      "status": "read",
+      "sha256": "cabd671dd2fe4b5d8c0fa884e07d4fbbe05aab7fe918d5c679d47a200553925f",
+      "retrieved_at": "2026-09-18T07:58:18.343389+00:00",
+      "fields": {
+        "开始时间": "2027年09月",
+        "教学形式": "全日制",
+        "学制": "四年",
+        "2+2学习": "不可选",
+        "学习地点": "苏州太仓",
+        "院系": "西浦创业家学院（太仓）；智能机器人学院",
+        "学位证书": "毕业生可同时获得中国教育部认可的西交利物浦大学本科毕业证书、学士学位证书和国际认可的英国利物浦大学学士学位证书。"
+      },
+      "metadata_dates": {
+        "datePublished": "2022-10-09T07:07:28+00:00",
+        "dateModified": "2026-08-25T08:06:07+00:00"
+      },
+      "courses": [
+        {
+          "pathway": "概览",
+          "year": "第一学年",
+          "categories": {},
+          "notes": [
+            "西交利物浦大学在第一学年开设了包括学术英语、数理基础、人文教育在内的众多极具特色的通识类课程，点击了解更多。"
+          ]
+        },
+        {
+          "pathway": "概览",
+          "year": "第二学年",
+          "categories": {
+            "核心课程": [
+              "创意工具包",
+              "战略智慧",
+              "深度实践中的融合式教育",
+              "电子电路基础",
+              "机电一体化概论",
+              "工程制图",
+              "工程数学",
+              "工程数学 2",
+              "数字和模拟电子学基础",
+              "C/C++语言程序设计",
+              "人工智能为中心的智能机器人技术基础"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "概览",
+          "year": "第三学年",
+          "categories": {
+            "核心课程": [
+              "数字化创业实验室",
+              "行业技能准备",
+              "数据结构与算法",
+              "具有可持续性思维的机器人计算机辅助设计与仿真",
+              "自动控制理论与应用",
+              "传感器与仪表",
+              "移动机器人设计",
+              "智能机器人项目实践",
+              "微处理器与嵌入式计算机系统",
+              "动态系统"
+            ],
+            "可选课程": [
+              "机械设计原理",
+              "带有人工智能的控制系统：理论与实践应用",
+              "机器学习的数学基础"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "概览",
+          "year": "第四学年",
+          "categories": {
+            "核心课程": [
+              "科创团队管理",
+              "机器人系统设计",
+              "机器人建模与控制",
+              "可编程逻辑控制器与网络通信",
+              "毕业设计"
+            ],
+            "可选课程": [
+              "机电系统中的执行器与驱动器",
+              "智能控制原理",
+              "计算机视觉和深度学习",
+              "用于机器人编程的机器人操作系统",
+              "自然语言处理与深度学习",
+              "生成式人工智能在机器人中的应用"
+            ]
+          },
+          "notes": []
+        }
+      ],
+      "missing": [
+        "programme_selection_threshold",
+        "confirmed_cohort_curriculum"
+      ],
+      "group": "电子工程与制造",
+      "goal": "融合计算、电子、通信与机电，结合行业项目和创业教育。",
+      "career_summary": "官网列举机器人、医疗机器人、人工智能和计算机视觉等深造方向。",
+      "similar_id": "xjtlu-mechatronics-and-robotic-systems",
+      "source_id": "S-xjtlu-intelligent-robotics-engineering",
+      "aliases": [
+        "机器人工程"
+      ],
+      "parent_id": null,
+      "entry_type": "directory_entry",
+      "internal_pathways": [],
+      "conflicts": [],
+      "eligibility_status": "pending_verification",
+      "checked_at": "2026-09-18",
+      "version": "0.1.0-rc1",
+      "career_section": "就业或职业发展（摘要仅保留领域，省略宣传性成功保证与升学比例）"
+    },
+    {
+      "major_id": "xjtlu-computer-science-and-technology",
+      "official_name": "计算机科学与技术",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/computer-science-and-technology",
+      "final_url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/computer-science-and-technology",
+      "status": "read",
+      "sha256": "1962b83470de7f5aeae9dd5df354c24f76221b886e0b16db6194c14190c89740",
+      "retrieved_at": "2026-09-18T07:58:18.622186+00:00",
+      "fields": {
+        "开始时间": "2027年09月",
+        "教学形式": "全日制",
+        "学制": "四年",
+        "2+2学习": "可选",
+        "学习地点": "苏州",
+        "院系": "人工智能与先进技术学院",
+        "学位证书": "毕业生可同时获得中国教育部认可的西交利物浦大学本科毕业证书、学士学位证书和国际认可的英国利物浦大学学士学位证书。"
+      },
+      "metadata_dates": {
+        "datePublished": "2022-10-09T07:26:26+00:00",
+        "dateModified": "2026-08-31T17:00:24+00:00"
+      },
+      "courses": [
+        {
+          "pathway": "课程",
+          "year": "第一学年",
+          "categories": {},
+          "notes": [
+            "西交利物浦大学在第一学年开设了包括学术英语、数理基础、人文教育在内的众多极具特色的通识类课程，点击了解更多。"
+          ]
+        },
+        {
+          "pathway": "课程",
+          "year": "第二学年",
+          "categories": {
+            "核心课程": [
+              "计算机系统",
+              "数据库概论",
+              "数据结构与算法",
+              "Java编程",
+              "电路 I",
+              "数字电子学 I",
+              "电子电路",
+              "集成电路原理与设计",
+              "工程数学 1",
+              "工程数学 2",
+              "人工智能应用设计",
+              "前沿技术创业技能"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "课程",
+          "year": "第三学年",
+          "categories": {
+            "核心课程": [
+              "计算机网络",
+              "模拟与数字通信 I",
+              "连续与离散时域信号与系统",
+              "软件工程 I",
+              "高级面向对象编程",
+              "微处理器系统",
+              "数字电子学II",
+              "电子电路和系统",
+              "产业意识与团队项目",
+              "测量技术和自动控制系统"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "课程",
+          "year": "第四学年",
+          "categories": {
+            "核心课程": [
+              "模拟与数字通信 II",
+              "软件工程II",
+              "数字集成电路设计",
+              "仿生计算",
+              "大数据分析",
+              "嵌入式计算机系统",
+              "毕业设计"
+            ],
+            "可选课程": [
+              "计算机系统安全",
+              "多智能体系统",
+              "高级操作系统与编程",
+              "模式识别",
+              "计算机听觉系统"
+            ]
+          },
+          "notes": []
+        }
+      ],
+      "missing": [
+        "programme_selection_threshold",
+        "confirmed_cohort_curriculum"
+      ],
+      "group": "计算人工智能与系统",
+      "goal": "把计算机科学与电子电气结合，学习软硬件设计、开发和技术问题解决。",
+      "career_summary": "计算设备、工程服务与相关研究；计算机或电子电气深造。",
+      "similar_id": "xjtlu-information-and-computing-science",
+      "source_id": "S-xjtlu-computer-science-and-technology",
+      "aliases": [
+        "计算机科学与技术"
+      ],
+      "parent_id": null,
+      "entry_type": "directory_entry",
+      "internal_pathways": [],
+      "conflicts": [],
+      "eligibility_status": "pending_verification",
+      "checked_at": "2026-09-18",
+      "version": "0.1.0-rc1",
+      "career_section": "就业或职业发展（摘要仅保留领域，省略宣传性成功保证与升学比例）"
+    },
+    {
+      "major_id": "xjtlu-mechatronics-and-robotic-systems",
+      "official_name": "机械电子工程",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/mechatronics-and-robotic-systems",
+      "final_url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/mechatronics-and-robotic-systems",
+      "status": "read",
+      "sha256": "7986d9b9d86ad58092c46af60c8d891e25cf2fabcc4b076c106bf2c9be731bdf",
+      "retrieved_at": "2026-09-18T07:58:18.881101+00:00",
+      "fields": {
+        "开始时间": "2027年09月",
+        "教学形式": "全日制",
+        "学制": "四年",
+        "2+2学习": "可选",
+        "学习地点": "苏州",
+        "院系": "人工智能与先进技术学院",
+        "学位证书": "毕业生可同时获得中国教育部认可的西交利物浦大学本科毕业证书、学士学位证书和国际认可的英国利物浦大学学士学位证书。"
+      },
+      "metadata_dates": {
+        "datePublished": "2022-10-09T07:42:26+00:00",
+        "dateModified": "2026-08-31T17:01:46+00:00"
+      },
+      "courses": [
+        {
+          "pathway": "课程",
+          "year": "第一学年",
+          "categories": {},
+          "notes": [
+            "西交利物浦大学在第一学年开设了包括学术英语、数理基础、人文教育在内的众多极具特色的通识类课程，点击了解更多。"
+          ]
+        },
+        {
+          "pathway": "课程",
+          "year": "第二学年",
+          "categories": {
+            "核心课程": [
+              "C语言程序设计",
+              "电路 I",
+              "数字电子学 I",
+              "电子电路",
+              "静力学",
+              "实验技能与可持续性",
+              "工程制图",
+              "机电系统导论",
+              "工程数学 1",
+              "工程数学 2",
+              "人工智能应用设计",
+              "前沿技术创业技能"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "课程",
+          "year": "第三学年",
+          "categories": {
+            "核心课程": [
+              "连续与离散时域信号与系统",
+              "微处理器系统",
+              "数字电子学II",
+              "电子电路和系统",
+              "固体力学导论",
+              "机械设计",
+              "动态系统分析",
+              "测量技术和自动控制系统",
+              "工程流体力学和矢量场"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "课程",
+          "year": "第四学年",
+          "categories": {
+            "核心课程": [
+              "工业自动化和机器人控制导论",
+              "机器人系统",
+              "工程管理与实践",
+              "毕业设计"
+            ],
+            "可选课程": [
+              "信号处理与数字滤波",
+              "多智能体系统",
+              "仪表电子学",
+              "电力系统设计与分析",
+              "数字集成电路设计",
+              "模式识别",
+              "机器学习",
+              "计算机听觉系统",
+              "数控基础和自动控制",
+              "嵌入式计算机系统",
+              "工程优化原理",
+              "制造工程",
+              "机电一体化设计"
+            ]
+          },
+          "notes": []
+        }
+      ],
+      "missing": [
+        "programme_selection_threshold",
+        "confirmed_cohort_curriculum"
+      ],
+      "group": "电子工程与制造",
+      "goal": "整合机械、电子、控制和计算，研究机电系统与自动化。",
+      "career_summary": "机电或机器人研发、项目实施、设备维护与技术管理。",
+      "similar_id": "xjtlu-intelligent-robotics-engineering",
+      "source_id": "S-xjtlu-mechatronics-and-robotic-systems",
+      "aliases": [
+        "机械电子工程"
+      ],
+      "parent_id": null,
+      "entry_type": "directory_entry",
+      "internal_pathways": [],
+      "conflicts": [],
+      "eligibility_status": "pending_verification",
+      "checked_at": "2026-09-18",
+      "version": "0.1.0-rc1",
+      "career_section": "就业或职业发展（摘要仅保留领域，省略宣传性成功保证与升学比例）"
+    },
+    {
+      "major_id": "xjtlu-artificial-intelligence",
+      "official_name": "人工智能",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/artificial-intelligence",
+      "final_url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/artificial-intelligence",
+      "status": "read",
+      "sha256": "1f400e5ebf211ae86735dc4faec8f63f239ce3f362a383485298e45e21dace9b",
+      "retrieved_at": "2026-09-18T07:58:19.038579+00:00",
+      "fields": {
+        "开始时间": "2027年09月",
+        "教学形式": "全日制",
+        "学制": "四年",
+        "2+2学习": "不可选",
+        "学习地点": "苏州园区或苏州太仓",
+        "宣传册": "下载文件",
+        "院系": "人工智能与先进技术学院",
+        "学位证书": "毕业生可同时获得中国教育部认可的西交利物浦大学本科毕业证书、学士学位证书和国际认可的英国利物浦大学学士学位证书。"
+      },
+      "metadata_dates": {
+        "datePublished": "2025-06-05T01:30:20+00:00",
+        "dateModified": "2026-08-31T17:05:47+00:00"
+      },
+      "courses": [
+        {
+          "pathway": "人工智能行业前沿方向课程",
+          "year": "第一学年",
+          "categories": {},
+          "notes": [
+            "西交利物浦大学在第一学年开设了包括学术英语、数理基础、人文教育在内的众多极具特色的通识类课程，点击了解更多。"
+          ]
+        },
+        {
+          "pathway": "人工智能行业前沿方向课程",
+          "year": "第二学年",
+          "categories": {
+            "核心课程": [
+              "数据结构与算法",
+              "Python 在人工智能中的应用",
+              "面向对象编程",
+              "人工智能与数据科学数学基础",
+              "人工智能和大数据行业的技术基础和视角",
+              "计算机架构与操作系统",
+              "数据建模技术",
+              "人工智能项目构思与策略",
+              "深度实践中的融合式教育"
+            ],
+            "可选课程": [
+              "智能软件工程",
+              "智能交互技术",
+              "战略智慧"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "人工智能行业前沿方向课程",
+          "year": "第三学年",
+          "categories": {
+            "核心课程": [
+              "计算机视觉与模式识别",
+              "数据分析与可视化",
+              "信号与图像处理",
+              "深度学习",
+              "机器学习",
+              "人工智能创业实验室"
+            ],
+            "可选课程": [
+              "最优化方法",
+              "多智能体系统",
+              "分布式计算与网络",
+              "人工智能：自动驾驶",
+              "人工智能：健康与生物信息工程",
+              "AI在扩展现实，游戏与娱乐产业中的应用",
+              "多模态人工智能",
+              "行业技能准备"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "人工智能行业前沿方向课程",
+          "year": "第四学年",
+          "categories": {
+            "核心课程": [
+              "自然语言处理",
+              "安全、隐私和道德",
+              "毕业设计",
+              "生成式人工智能",
+              "人工智能创新创业毕业项目"
+            ],
+            "可选课程": [
+              "沉浸式和虚拟世界",
+              "互动技术",
+              "智慧城市中的人工智能",
+              "智能机器人",
+              "在中国经商",
+              "中国：国际贸易",
+              "数字供应链",
+              "数字世界中的战略采购",
+              "嵌入式系统",
+              "智慧工业物联网",
+              "数字 VLSI 系统设计和设计自动化",
+              "集成电路技术与工程",
+              "智能制造信息系统（海尔）",
+              "制造企业管理",
+              "生成式人工智能在机器人中的应用"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "智能系统方向课程",
+          "year": "第一学年",
+          "categories": {},
+          "notes": [
+            "西交利物浦大学在第一学年开设了包括学术英语、数理基础、人文教育在内的众多极具特色的通识类课程，点击了解更多。"
+          ]
+        },
+        {
+          "pathway": "智能系统方向课程",
+          "year": "第二学年",
+          "categories": {
+            "核心课程": [
+              "数据结构与算法",
+              "C/C++编程",
+              "电路 I",
+              "数字电子学 I",
+              "电子电路",
+              "集成电路原理与设计",
+              "Python 在人工智能中的应用",
+              "人工智能基础与伦理",
+              "机器学习数学基础",
+              "工程数学 1",
+              "人工智能应用设计",
+              "前沿技术创业技能"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "智能系统方向课程",
+          "year": "第三学年",
+          "categories": {
+            "核心课程": [
+              "信号处理与信息论",
+              "微处理器系统",
+              "数字电子学II",
+              "决策、计算和语言",
+              "机器学习原理",
+              "数据工程",
+              "AI智能体",
+              "深度学习",
+              "测量技术和自动控制系统"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "智能系统方向课程",
+          "year": "第四学年",
+          "categories": {
+            "核心课程": [
+              "模式识别",
+              "计算机听觉系统",
+              "人工智能安全",
+              "自然语言处理",
+              "毕业设计"
+            ],
+            "可选课程": [
+              "移动计算",
+              "计算机系统安全",
+              "游戏设计理论与实践",
+              "数字集成电路设计",
+              "图像处理",
+              "工业自动化和机器人控制导论"
+            ]
+          },
+          "notes": []
+        }
+      ],
+      "missing": [
+        "programme_selection_threshold",
+        "confirmed_cohort_curriculum"
+      ],
+      "group": "计算人工智能与系统",
+      "goal": "学习编程、机器学习、视觉与语言处理，分行业前沿和智能系统方向。",
+      "career_summary": "人工智能、机器学习、视觉与语言技术；相关硕博探索。",
+      "similar_id": "xjtlu-data-science-and-big-data-technology",
+      "source_id": "S-xjtlu-artificial-intelligence",
+      "aliases": [
+        "人工智能"
+      ],
+      "parent_id": null,
+      "entry_type": "directory_entry",
+      "internal_pathways": [
+        {
+          "pathway_id": "xjtlu-artificial-intelligence--aiai-xec",
+          "name": "人工智能行业前沿方向",
+          "location": "苏州太仓"
+        },
+        {
+          "pathway_id": "xjtlu-artificial-intelligence--is-sip",
+          "name": "智能系统方向",
+          "location": "苏州工业园区"
+        }
+      ],
+      "conflicts": [
+        "概览信息卡标2+2不可选，方向正文却列IS-SIP方向2+2和AIAI-XEC方向2+1+1；保留各自描述，实际资格与路径须向学校核实。"
+      ],
+      "eligibility_status": "pending_verification",
+      "checked_at": "2026-09-18",
+      "version": "0.1.0-rc1",
+      "career_section": "就业或职业发展（摘要仅保留领域，省略宣传性成功保证与升学比例）"
+    },
+    {
+      "major_id": "xjtlu-human-resource-management",
+      "official_name": "人力资源管理",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/human-resource-management",
+      "final_url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/human-resource-management",
+      "status": "read",
+      "sha256": "c23aa72fd0bcb94b1e044d431a64d971efe5e9acbfd6b34efed2eb1e3e487f45",
+      "retrieved_at": "2026-09-18T07:58:29.444798+00:00",
+      "fields": {
+        "开始时间": "2027年09月",
+        "教学形式": "全日制",
+        "学制": "四年",
+        "2+2学习": "可选",
+        "学习地点": "苏州",
+        "院系": "西浦国际商学院",
+        "学位证书": "毕业生可同时获得中国教育部认可的西交利物浦大学本科毕业证书、学士学位证书和国际认可的英国利物浦大学学士学位证书。"
+      },
+      "metadata_dates": {
+        "datePublished": "2022-10-09T08:48:05+00:00",
+        "dateModified": "2026-06-15T04:08:32+00:00"
+      },
+      "courses": [
+        {
+          "pathway": "课程",
+          "year": "第一学年",
+          "categories": {},
+          "notes": [
+            "西交利物浦大学在第一学年开设了包括学术英语、数理基础、人文教育在内的众多极具特色的通识类课程，点击了解更多。"
+          ]
+        },
+        {
+          "pathway": "课程",
+          "year": "第二学年",
+          "categories": {
+            "核心课程": [
+              "财务会计和会计责任概论",
+              "经济学要领",
+              "金融学基础",
+              "营销学基础",
+              "人工智能在管理决策中的应用",
+              "商业统计",
+              "人力资源管理概论",
+              "组织与管理学概论",
+              "国际商务与管理概论",
+              "创业学：全球化与本地化交织时代的跨学科实践"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "课程",
+          "year": "第三学年",
+          "categories": {
+            "核心课程": [
+              "绩效管理",
+              "人力资源",
+              "商业和就业法",
+              "学习、培训和发展",
+              "研究方法概论",
+              "战略性与数据驱动人力资源管理"
+            ],
+            "可选课程": [
+              "服务营销",
+              "市场调查",
+              "数据分析基础",
+              "数据驱动营销",
+              "可持续企业变革"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "课程",
+          "year": "第四学年",
+          "categories": {
+            "核心课程": [
+              "毕业设计",
+              "员工奖励",
+              "人力与劳动力分析",
+              "管理者的数据可视化"
+            ],
+            "可选课程": [
+              "企业通信",
+              "组织变革与发展",
+              "国际人力资源管理",
+              "组织多样性",
+              "战略管理和商业政策",
+              "决策的心理学方法"
+            ]
+          },
+          "notes": []
+        }
+      ],
+      "missing": [
+        "programme_selection_threshold",
+        "confirmed_cohort_curriculum"
+      ],
+      "group": "商业经济与金融",
+      "goal": "研究雇佣关系、招聘培训及组织的人力决策，并融入数据分析。",
+      "career_summary": "招聘、培训、人力资源与组织管理；管理或组织心理等深造。",
+      "similar_id": "xjtlu-business-administration",
+      "source_id": "S-xjtlu-human-resource-management",
+      "aliases": [
+        "人力资源管理"
+      ],
+      "parent_id": null,
+      "entry_type": "directory_entry",
+      "internal_pathways": [],
+      "conflicts": [],
+      "eligibility_status": "pending_verification",
+      "checked_at": "2026-09-18",
+      "version": "0.1.0-rc1",
+      "career_section": "就业或职业发展（摘要仅保留领域，省略宣传性成功保证与升学比例）"
+    },
+    {
+      "major_id": "xjtlu-biological-sciences",
+      "official_name": "生物科学",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/biological-sciences",
+      "final_url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/biological-sciences",
+      "status": "read",
+      "sha256": "f3f5e1e56d1bdd7aa3a310b9023977a6f826951175ae8199c41a880bde0a096e",
+      "retrieved_at": "2026-09-18T07:58:23.424434+00:00",
+      "fields": {
+        "开始时间": "2027年09月",
+        "教学形式": "全日制",
+        "学制": "四年",
+        "2+2学习": "可选",
+        "学习地点": "苏州",
+        "宣传册": "下载文件",
+        "院系": "生命与自然科学学院",
+        "学位证书": "毕业生可同时获得中国教育部认可的西交利物浦大学本科毕业证书、学士学位证书和国际认可的英国利物浦大学学士学位证书。"
+      },
+      "metadata_dates": {
+        "datePublished": "2022-10-09T09:52:15+00:00",
+        "dateModified": "2026-09-01T07:00:11+00:00"
+      },
+      "courses": [
+        {
+          "pathway": "课程",
+          "year": "第一学年",
+          "categories": {},
+          "notes": [
+            "西交利物浦大学在第一学年开设了包括学术英语、数理基础、人文教育在内的众多极具特色的通识类课程，点击了解更多。"
+          ]
+        },
+        {
+          "pathway": "课程",
+          "year": "第二学年",
+          "categories": {
+            "核心课程": [
+              "动物、植物和微生物的生物多样性",
+              "实验设计与分析",
+              "细胞和分子生物学",
+              "生命的化学原理",
+              "微生物生物学",
+              "生物化学导论",
+              "进化与遗传学导论",
+              "分子生物学技术",
+              "生态学导论",
+              "面向科学的人工智能导论",
+              "科学领域的创业教育：面向未来的创新"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "课程",
+          "year": "第三学年",
+          "categories": {
+            "核心课程": [
+              "生化方法",
+              "高级遗传学",
+              "细胞生物学技术",
+              "实用生物信息学",
+              "蛋白质的作用"
+            ],
+            "可选课程": [
+              "基因组表达和维护",
+              "医学微生物学与病毒学",
+              "细胞信号转导",
+              "生物技术",
+              "生物分子的结构和动力学",
+              "流行病学",
+              "全球健康与社会",
+              "公共健康的传染性与非传染性疾病",
+              "生物学化学",
+              "自然科学初级统计学"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "课程",
+          "year": "第四学年",
+          "categories": {
+            "核心课程": [
+              "毕业设计",
+              "分子免疫学",
+              "科学研究中的批判思维和应用技术"
+            ],
+            "可选课程": [
+              "疾病生物学",
+              "生化信使",
+              "生物技术与社会",
+              "基因表达和基因组分析",
+              "蛋白质结构和功能",
+              "高通量方法和系统生物学"
+            ]
+          },
+          "notes": []
+        }
+      ],
+      "missing": [
+        "programme_selection_threshold",
+        "confirmed_cohort_curriculum"
+      ],
+      "group": "生命环境与健康",
+      "goal": "学习生命过程、分子细胞、基因组与相关实验技术。",
+      "career_summary": "生化、遗传、微生物与分子生物相关研究或产业；相关深造。",
+      "similar_id": "xjtlu-biomedical-sciences",
+      "source_id": "S-xjtlu-biological-sciences",
+      "aliases": [
+        "生物科学"
+      ],
+      "parent_id": null,
+      "entry_type": "directory_entry",
+      "internal_pathways": [],
+      "conflicts": [],
+      "eligibility_status": "pending_verification",
+      "checked_at": "2026-09-18",
+      "version": "0.1.0-rc1",
+      "career_section": "就业或职业发展（摘要仅保留领域，省略宣传性成功保证与升学比例）"
+    },
+    {
+      "major_id": "xjtlu-bioinformatics",
+      "official_name": "生物信息学",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/bioinformatics",
+      "final_url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/bioinformatics",
+      "status": "read",
+      "sha256": "e375d191e81312bc330187ec4bf5207269f62b33c363e19380ea3c69f024318c",
+      "retrieved_at": "2026-09-18T07:58:20.209611+00:00",
+      "fields": {
+        "开始时间": "2027年09月",
+        "教学形式": "全日制",
+        "学制": "四年",
+        "2+2学习": "可选",
+        "学习地点": "苏州",
+        "宣传册": "下载文件",
+        "院系": "生命与自然科学学院",
+        "学位证书": "毕业生可同时获得中国教育部认可的西交利物浦大学本科毕业证书、学士学位证书和国际认可的英国利物浦大学学士学位证书。"
+      },
+      "metadata_dates": {
+        "datePublished": "2022-10-09T10:27:50+00:00",
+        "dateModified": "2026-09-01T07:02:21+00:00"
+      },
+      "courses": [
+        {
+          "pathway": "课程",
+          "year": "第一学年",
+          "categories": {},
+          "notes": [
+            "西交利物浦大学在第一学年开设了包括学术英语、数理基础、人文教育在内的众多极具特色的通识类课程，点击了解更多。"
+          ]
+        },
+        {
+          "pathway": "课程",
+          "year": "第二学年",
+          "categories": {
+            "核心课程": [
+              "细胞和分子生物学",
+              "生命的化学原理",
+              "进化与遗传学导论",
+              "生命科学物理学",
+              "分子生物学技术",
+              "Java 编程概论",
+              "概率与统计入门",
+              "面向科学的人工智能导论",
+              "科学领域的创业教育：面向未来的创新"
+            ],
+            "可选课程": [
+              "实验设计与分析",
+              "非化学专业有机化学入门",
+              "数据库概论",
+              "生态学导论",
+              "算法基础及问题求解"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "课程",
+          "year": "第三学年",
+          "categories": {
+            "核心课程": [
+              "高级遗传学",
+              "生物信息学 1",
+              "生物信息学 2",
+              "生物信息学项目",
+              "生命科学人工智能",
+              "计算生物学导论"
+            ],
+            "可选课程": [
+              "高级面向对象编程",
+              "自然科学初级统计学",
+              "自然科学高级统计学",
+              "算法复杂性",
+              "统计分布理论"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "课程",
+          "year": "第四学年",
+          "categories": {
+            "核心课程": [
+              "毕业设计项目",
+              "科学研究中的批判思维和应用技术"
+            ],
+            "可选课程": [
+              "基因表达和基因组分析",
+              "分子免疫学",
+              "计算生物学建模",
+              "仿生计算",
+              "机器学习",
+              "线性统计模型"
+            ]
+          },
+          "notes": []
+        }
+      ],
+      "missing": [
+        "programme_selection_threshold",
+        "confirmed_cohort_curriculum"
+      ],
+      "group": "生命环境与健康",
+      "goal": "把分子生物学与信息计算结合，用数据解释生命科学问题。",
+      "career_summary": "计算生物、生命数据分析等；生物统计、分子科学和药物设计深造。",
+      "similar_id": "xjtlu-data-science-and-big-data-technology",
+      "source_id": "S-xjtlu-bioinformatics",
+      "aliases": [
+        "生物信息学"
+      ],
+      "parent_id": null,
+      "entry_type": "directory_entry",
+      "internal_pathways": [],
+      "conflicts": [],
+      "eligibility_status": "pending_verification",
+      "checked_at": "2026-09-18",
+      "version": "0.1.0-rc1",
+      "pathway_note": "概览区分在西浦继续偏计算的生物信息学习，与2+2在利物浦偏传统分子生物学的路径；不能视为同一课程组合，须按个人实际路径核实。",
+      "career_section": "就业或职业发展（摘要仅保留领域，省略宣传性成功保证与升学比例）"
+    },
+    {
+      "major_id": "xjtlu-biomedical-sciences",
+      "official_name": "生物医学科学",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/biomedical-sciences",
+      "final_url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/biomedical-sciences",
+      "status": "read",
+      "sha256": "e4e185291a8149907c3b84c00d9de559c00ecbcfee7f9a49b576d8de7d4d0e9a",
+      "retrieved_at": "2026-09-18T07:58:24.576588+00:00",
+      "fields": {
+        "开始时间": "2027年09月",
+        "教学形式": "全日制",
+        "学制": "四年",
+        "2+2学习": "可选",
+        "学习地点": "苏州",
+        "宣传册": "下载文件",
+        "院系": "生命与自然科学学院",
+        "学位证书": "毕业生可同时获得中国教育部认可的西交利物浦大学本科毕业证书、学士学位证书和国际认可的英国利物浦大学学士学位证书。"
+      },
+      "metadata_dates": {
+        "datePublished": "2025-06-26T06:26:02+00:00",
+        "dateModified": "2026-09-01T07:04:54+00:00"
+      },
+      "courses": [
+        {
+          "pathway": "课程",
+          "year": "第一学年",
+          "categories": {},
+          "notes": [
+            "西交利物浦大学在第一学年开设了包括学术英语、数理基础、人文教育在内的众多极具特色的通识类课程，点击了解更多。"
+          ]
+        },
+        {
+          "pathway": "课程",
+          "year": "第二学年",
+          "categories": {
+            "核心课程": [
+              "实验设计与分析",
+              "细胞和分子生物学",
+              "生命的化学原理",
+              "微生物生物学",
+              "生物化学导论",
+              "进化与遗传学导论",
+              "发育生物学",
+              "分子生物学技术",
+              "生态学导论",
+              "面向科学的人工智能导论",
+              "科学领域的创业教育：面向未来的创新"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "课程",
+          "year": "第三学年",
+          "categories": {
+            "核心课程": [
+              "细胞生物学技术",
+              "实用生物信息学",
+              "人体解剖与生理学 I",
+              "流行病学",
+              "人体解剖与生理学 II",
+              "自然科学初级统计学"
+            ],
+            "可选课程": [
+              "医学微生物学与病毒学",
+              "高级遗传学",
+              "细胞信号转导",
+              "生物技术",
+              "生物分子的结构和动力学",
+              "营养与代谢",
+              "生物学化学"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "课程",
+          "year": "第四学年",
+          "categories": {
+            "核心课程": [
+              "分子免疫学",
+              "药理与治疗学",
+              "生物医学科学毕业设计",
+              "科学研究中的批判思维和应用技术"
+            ],
+            "可选课程": [
+              "疾病生物学",
+              "基因表达和基因组分析",
+              "高通量方法和系统生物学",
+              "人工智能在生物医学中的应用"
+            ]
+          },
+          "notes": []
+        }
+      ],
+      "missing": [
+        "programme_selection_threshold",
+        "confirmed_cohort_curriculum"
+      ],
+      "group": "生命环境与健康",
+      "goal": "学习人体功能、疾病机制与实验研究，并接触医学数据和人工智能。",
+      "career_summary": "生物医学研究、药物与诊断技术开发；临床相关职业资格须另核实。",
+      "similar_id": "xjtlu-biological-sciences",
+      "source_id": "S-xjtlu-biomedical-sciences",
+      "aliases": [
+        "生物医学科学"
+      ],
+      "parent_id": null,
+      "entry_type": "directory_entry",
+      "internal_pathways": [],
+      "conflicts": [],
+      "eligibility_status": "pending_verification",
+      "checked_at": "2026-09-18",
+      "version": "0.1.0-rc1",
+      "career_section": "就业或职业发展（摘要仅保留领域，省略宣传性成功保证与升学比例）"
+    },
+    {
+      "major_id": "xjtlu-biopharmaceuticals",
+      "official_name": "生物制药",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/biopharmaceuticals",
+      "final_url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/biopharmaceuticals",
+      "status": "read",
+      "sha256": "887abc2d7b2e1efbbe8b54abcd40e9b6014bcb122d855dd43adfb2a44e0ee60a",
+      "retrieved_at": "2026-09-18T07:58:24.662476+00:00",
+      "fields": {
+        "开始时间": "2027年09月",
+        "教学形式": "全日制",
+        "学制": "四年",
+        "2+2学习": "可选",
+        "学习地点": "苏州",
+        "宣传册": "下载文件",
+        "院系": "生命与自然科学学院",
+        "学位证书": "毕业生可同时获得中国教育部认可的西交利物浦大学本科毕业证书、学士学位证书和国际认可的英国利物浦大学学士学位证书。"
+      },
+      "metadata_dates": {
+        "datePublished": "2022-10-09T08:55:01+00:00",
+        "dateModified": "2026-09-01T07:05:28+00:00"
+      },
+      "courses": [
+        {
+          "pathway": "课程",
+          "year": "第一学年",
+          "categories": {},
+          "notes": [
+            "西交利物浦大学在第一学年开设了包括学术英语、数理基础、人文教育在内的众多极具特色的通识类课程，点击了解更多。"
+          ]
+        },
+        {
+          "pathway": "课程",
+          "year": "第二学年",
+          "categories": {
+            "核心课程": [
+              "药学基础化学",
+              "药物科学关键技术",
+              "基础药理学生物化学",
+              "生理与药理学导论",
+              "药学生物学",
+              "药学应用分子生物学",
+              "药学物理化学",
+              "医疗健康和药物研发中的人工智能",
+              "医药行业领导力：从概念到市场",
+              "微生物生物学"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "课程",
+          "year": "第三学年",
+          "categories": {
+            "核心课程": [
+              "药物化学",
+              "化工原理",
+              "生物药剂与生物制药技术",
+              "药剂学",
+              "药物分析",
+              "药物分离与发酵工程",
+              "药理学原理",
+              "高级生物化学",
+              "基因组表达和维护"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "课程",
+          "year": "第四学年",
+          "categories": {
+            "核心课程": [
+              "生物制药工程",
+              "监管科学和项目管理",
+              "制药设备和工程设计",
+              "毕业设计",
+              "分子免疫学"
+            ],
+            "可选课程": [
+              "计算机辅助药物设计",
+              "GxP 原则",
+              "制药行业自动化解决方案",
+              "生物制造与再生医学",
+              "疫苗开发：从概念到临床",
+              "细胞与基因治疗",
+              "生物制药制造与控制过程",
+              "生物医学工程在药物递送系统中的应用"
+            ]
+          },
+          "notes": []
+        }
+      ],
+      "missing": [
+        "programme_selection_threshold",
+        "confirmed_cohort_curriculum"
+      ],
+      "group": "生命环境与健康",
+      "goal": "结合生物、化学和药学，训练生物药研发、生产及质量相关能力。",
+      "career_summary": "生物药研发、生产、质控、技术管理；相关深造。",
+      "similar_id": "xjtlu-pharmaceutical-sciences",
+      "source_id": "S-xjtlu-biopharmaceuticals",
+      "aliases": [
+        "生物制药"
+      ],
+      "parent_id": null,
+      "entry_type": "directory_entry",
+      "internal_pathways": [],
+      "conflicts": [],
+      "eligibility_status": "pending_verification",
+      "checked_at": "2026-09-18",
+      "version": "0.1.0-rc1",
+      "career_section": "就业或职业发展（摘要仅保留领域，省略宣传性成功保证与升学比例）"
+    },
+    {
+      "major_id": "xjtlu-marketing",
+      "official_name": "市场营销",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/marketing",
+      "final_url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/marketing",
+      "status": "read",
+      "sha256": "3da70e16dcb3bb9730b50888e5bf2128f312ffc4df3539540e3f470ae46e4f3b",
+      "retrieved_at": "2026-09-18T07:58:27.835876+00:00",
+      "fields": {
+        "开始时间": "2027年09月",
+        "教学形式": "全日制",
+        "学制": "四年",
+        "2+2学习": "可选",
+        "学习地点": "苏州",
+        "院系": "西浦国际商学院",
+        "学位证书": "毕业生可同时获得中国教育部认可的西交利物浦大学本科毕业证书、学士学位证书和国际认可的英国利物浦大学学士学位证书。"
+      },
+      "metadata_dates": {
+        "datePublished": "2022-10-09T12:08:11+00:00",
+        "dateModified": "2026-06-15T04:10:36+00:00"
+      },
+      "courses": [
+        {
+          "pathway": "课程",
+          "year": "第一学年",
+          "categories": {},
+          "notes": [
+            "西交利物浦大学在第一学年开设了包括学术英语、数理基础、人文教育在内的众多极具特色的通识类课程，点击了解更多。"
+          ]
+        },
+        {
+          "pathway": "课程",
+          "year": "第二学年",
+          "categories": {
+            "核心课程": [
+              "财务会计和会计责任概论",
+              "经济学要领",
+              "金融学基础",
+              "营销学基础",
+              "消费者行为",
+              "人工智能在管理决策中的应用",
+              "商业统计",
+              "人力资源管理概论",
+              "组织与管理学概论",
+              "创业学：全球化与本地化交织时代的跨学科实践"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "课程",
+          "year": "第三学年",
+          "categories": {
+            "核心课程": [
+              "数字营销",
+              "全渠道管理",
+              "服务营销",
+              "市场调查",
+              "整合营销沟通",
+              "可持续企业变革"
+            ],
+            "可选课程": [
+              "管理研究中的定性研究方法",
+              "数据分析基础",
+              "数据驱动营销",
+              "创业精神"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "课程",
+          "year": "第四学年",
+          "categories": {
+            "核心课程": [
+              "毕业设计",
+              "关系营销",
+              "品牌管理"
+            ],
+            "可选课程": [
+              "人工智能和大数据在社会中的应用",
+              "数字经济下的文化创意产业",
+              "国际经济关系",
+              "国际营销",
+              "市场策略",
+              "企业通信",
+              "数据可视化",
+              "智慧营销与应用",
+              "社交媒体市场营销"
+            ]
+          },
+          "notes": []
+        }
+      ],
+      "missing": [
+        "programme_selection_threshold",
+        "confirmed_cohort_curriculum"
+      ],
+      "group": "商业经济与金融",
+      "goal": "研究消费者、市场调研、品牌传播和数字营销，并结合数据分析工具。",
+      "career_summary": "消费者洞察、数字营销、品牌、广告和营销咨询（概览所列）。",
+      "similar_id": "xjtlu-communication-studies",
+      "source_id": "S-xjtlu-marketing",
+      "aliases": [
+        "市场营销"
+      ],
+      "parent_id": null,
+      "entry_type": "directory_entry",
+      "internal_pathways": [],
+      "conflicts": [],
+      "eligibility_status": "pending_verification",
+      "checked_at": "2026-09-18",
+      "version": "0.1.0-rc1",
+      "career_section": "概览（当前未提取到独立就业段；只使用概览明确列举的方向）"
+    },
+    {
+      "major_id": "xjtlu-data-science-and-big-data-technology",
+      "official_name": "数据科学与大数据技术",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/data-science-and-big-data-technology",
+      "final_url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/data-science-and-big-data-technology",
+      "status": "read",
+      "sha256": "c067592b77a268843dd17b16375d71db4378d71403ce9db8e06a65b5ba4e9387",
+      "retrieved_at": "2026-09-18T07:58:24.949146+00:00",
+      "fields": {
+        "开始时间": "2027年09月",
+        "教学形式": "全日制",
+        "学制": "四年",
+        "2+1+1学习": "可选",
+        "学习地点": "苏州太仓",
+        "宣传册": "下载文件",
+        "院系": "人工智能与先进技术学院",
+        "学位证书": "毕业生可同时获得中国教育部认可的西交利物浦大学本科毕业证书、学士学位证书和国际认可的英国利物浦大学学士学位证书。"
+      },
+      "metadata_dates": {
+        "datePublished": "2022-10-10T02:32:03+00:00",
+        "dateModified": "2026-09-14T03:32:51+00:00"
+      },
+      "courses": [
+        {
+          "pathway": "课程",
+          "year": "第一学年",
+          "categories": {},
+          "notes": [
+            "西交利物浦大学在第一学年开设了包括学术英语、数理基础、人文教育在内的众多极具特色的通识类课程，点击了解更多。"
+          ]
+        },
+        {
+          "pathway": "课程",
+          "year": "第二学年",
+          "categories": {
+            "核心课程": [
+              "C++ 编程",
+              "数据结构与算法",
+              "数值方法",
+              "数据库概论",
+              "人工智能与数据科学数学基础",
+              "人工智能和大数据行业的技术基础和视角",
+              "计算机架构与操作系统",
+              "创意工具包",
+              "战略智慧",
+              "深度实践中的融合式教育"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "课程",
+          "year": "第三学年",
+          "categories": {
+            "核心课程": [
+              "应用线性统计模型",
+              "数据分析与可视化",
+              "分布式计算与网络",
+              "机器学习",
+              "数字化创业实验室",
+              "行业技能准备"
+            ],
+            "可选课程": [
+              "计算机视觉与模式识别",
+              "并行计算基础",
+              "数据库开发与设计",
+              "信号与图像处理"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "课程",
+          "year": "第四学年",
+          "categories": {
+            "核心课程": [
+              "安全、隐私和道德",
+              "毕业设计",
+              "科创团队管理"
+            ],
+            "可选课程": [
+              "人工智能：自动驾驶",
+              "人工智能：健康与生物信息工程",
+              "自然语言处理",
+              "强化学习",
+              "时间序列数据分析",
+              "数据挖掘"
+            ]
+          },
+          "notes": []
+        }
+      ],
+      "missing": [
+        "programme_selection_threshold",
+        "confirmed_cohort_curriculum"
+      ],
+      "group": "计算人工智能与系统",
+      "goal": "整合统计、数学、计算与人工智能，处理数据生命周期和产业应用。",
+      "career_summary": "数据分析、商业智能、机器学习与技术咨询；数据或AI深造。",
+      "similar_id": "xjtlu-applied-statistics",
+      "source_id": "S-xjtlu-data-science-and-big-data-technology",
+      "aliases": [
+        "数据科学与大数据技术"
+      ],
+      "parent_id": null,
+      "entry_type": "directory_entry",
+      "internal_pathways": [],
+      "conflicts": [],
+      "eligibility_status": "pending_verification",
+      "checked_at": "2026-09-18",
+      "version": "0.1.0-rc1",
+      "career_section": "就业或职业发展（摘要仅保留领域，省略宣传性成功保证与升学比例）"
+    },
+    {
+      "major_id": "xjtlu-digital-media-technology",
+      "official_name": "数字媒体技术",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/digital-media-technology",
+      "final_url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/digital-media-technology",
+      "status": "read",
+      "sha256": "9ef1ae115dd29b69721b50e1ff1adf9eb23be1454903dcd8013c788ae0593489",
+      "retrieved_at": "2026-09-18T07:58:25.031919+00:00",
+      "fields": {
+        "开始时间": "2027年09月",
+        "教学形式": "全日制",
+        "学制": "四年",
+        "2+2学习": "可选",
+        "学习地点": "苏州",
+        "院系": "人工智能与先进技术学院",
+        "学位证书": "毕业生可同时获得中国教育部认可的西交利物浦大学本科毕业证书、学士学位证书和国际认可的英国利物浦大学学士学位证书。"
+      },
+      "metadata_dates": {
+        "datePublished": "2022-10-10T03:34:39+00:00",
+        "dateModified": "2026-08-31T17:12:47+00:00"
+      },
+      "courses": [
+        {
+          "pathway": "课程",
+          "year": "第一学年",
+          "categories": {},
+          "notes": [
+            "西交利物浦大学在第一学年开设了包括学术英语、数理基础、人文教育在内的众多极具特色的通识类课程，点击了解更多。"
+          ]
+        },
+        {
+          "pathway": "课程",
+          "year": "第二学年",
+          "categories": {
+            "核心课程": [
+              "数据结构",
+              "数据库概论",
+              "Java编程",
+              "电路 I",
+              "数字电子学 I",
+              "电子电路",
+              "人工智能",
+              "工程数学 1",
+              "工程数学 2",
+              "人工智能应用设计",
+              "前沿技术创业技能"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "课程",
+          "year": "第三学年",
+          "categories": {
+            "核心课程": [
+              "计算机网络",
+              "模拟与数字通信 I",
+              "连续与离散时域信号与系统",
+              "高级面向对象编程",
+              "计算机图形学",
+              "人机交互",
+              "微处理器系统",
+              "数字电子学II",
+              "电子电路和系统",
+              "产业意识与团队项目"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "课程",
+          "year": "第四学年",
+          "categories": {
+            "核心课程": [
+              "移动计算",
+              "电子商务技术",
+              "图像处理",
+              "多媒体安全系统",
+              "多媒体信息检索和技术",
+              "嵌入式计算机系统",
+              "毕业设计"
+            ],
+            "可选课程": [
+              "信号处理与数字滤波",
+              "游戏设计理论与实践",
+              "模式识别",
+              "计算机听觉系统"
+            ]
+          },
+          "notes": []
+        }
+      ],
+      "missing": [
+        "programme_selection_threshold",
+        "confirmed_cohort_curriculum"
+      ],
+      "group": "计算人工智能与系统",
+      "goal": "从计算与电子技术角度处理图像、声音、视频、图形及交互。",
+      "career_summary": "数字媒体与游戏等技术方向；具体研究生项目待单独核实。",
+      "similar_id": "xjtlu-digital-media-arts",
+      "source_id": "S-xjtlu-digital-media-technology",
+      "aliases": [
+        "数字媒体技术"
+      ],
+      "parent_id": null,
+      "entry_type": "directory_entry",
+      "internal_pathways": [],
+      "conflicts": [],
+      "eligibility_status": "pending_verification",
+      "checked_at": "2026-09-18",
+      "version": "0.1.0-rc1",
+      "pathway_note": "官网说明2+2在利物浦衔接BEng计算机科学与电子工程（数字媒体技术方向）；未将其海外课程与本页课程合并。",
+      "career_section": "就业或职业发展（摘要仅保留领域，省略宣传性成功保证与升学比例）"
+    },
+    {
+      "major_id": "xjtlu-digital-media-arts",
+      "official_name": "数字媒体艺术",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/digital-media-arts",
+      "final_url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/digital-media-arts",
+      "status": "read",
+      "sha256": "4c60f503a58346f7be92d065adf495a4fb8f0fd7d8c77cba30535e38059af710",
+      "retrieved_at": "2026-09-18T07:58:25.403195+00:00",
+      "fields": {
+        "开始时间": "2027年09月",
+        "教学形式": "全日制",
+        "学制": "四年",
+        "2+2学习": "不可选",
+        "学习地点": "苏州",
+        "院系": "影视与创意科技学院",
+        "学位证书": "毕业生可同时获得中国教育部认可的西交利物浦大学本科毕业证书、学士学位证书和国际认可的英国利物浦大学学士学位证书。"
+      },
+      "metadata_dates": {
+        "datePublished": "2022-10-10T03:59:36+00:00",
+        "dateModified": "2026-06-15T03:54:14+00:00"
+      },
+      "courses": [
+        {
+          "pathway": "课程",
+          "year": "第一学年",
+          "categories": {},
+          "notes": [
+            "西交利物浦大学在第一学年开设了包括学术英语、数理基础、人文教育在内的众多极具特色的通识类课程，点击了解更多。"
+          ]
+        },
+        {
+          "pathway": "课程",
+          "year": "第二学年",
+          "categories": {
+            "核心课程": [
+              "Java 编程概论",
+              "声音概论",
+              "相机和灯光概论",
+              "视觉传达概论",
+              "人工智能策略",
+              "动态图形",
+              "创意创业导论",
+              "数字合成",
+              "数字媒体艺术的计算机应用",
+              "创意编程"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "课程",
+          "year": "第三学年",
+          "categories": {
+            "核心课程": [
+              "视觉效果",
+              "小型数字艺术项目",
+              "计算艺术",
+              "运动设计",
+              "声音艺术",
+              "数字媒体制作技术",
+              "短视频制作"
+            ],
+            "可选课程": [
+              "电视演播室制作",
+              "后期制作艺术",
+              "声音的艺术",
+              "导演进阶"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "课程",
+          "year": "第四学年",
+          "categories": {
+            "核心课程": [
+              "数字媒体艺术：毕业实践",
+              "合作项目",
+              "传媒、娱乐及文化产业",
+              "毕业设计：移动图像",
+              "专业实践：数字媒体艺术"
+            ]
+          },
+          "notes": []
+        }
+      ],
+      "missing": [
+        "programme_selection_threshold",
+        "confirmed_cohort_curriculum"
+      ],
+      "group": "创意媒体与艺术",
+      "goal": "把艺术创作、数字设计和AR、VR、MR、AI等技术结合。",
+      "career_summary": "三维动画、视觉效果、交互、用户体验、游戏和数字内容设计。",
+      "similar_id": "xjtlu-digital-media-technology",
+      "source_id": "S-xjtlu-digital-media-arts",
+      "aliases": [
+        "数字媒体艺术"
+      ],
+      "parent_id": null,
+      "entry_type": "directory_entry",
+      "internal_pathways": [],
+      "conflicts": [],
+      "eligibility_status": "pending_verification",
+      "checked_at": "2026-09-18",
+      "version": "0.1.0-rc1",
+      "career_section": "就业或职业发展（摘要仅保留领域，省略宣传性成功保证与升学比例）"
+    },
+    {
+      "major_id": "xjtlu-telecommunications-engineering",
+      "official_name": "通信工程",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/telecommunications-engineering",
+      "final_url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/telecommunications-engineering",
+      "status": "read",
+      "sha256": "a0c6ca4f3f2c1d578c75a41ca2be10913f48e5b71c1e93fbf12d7363a747ee77",
+      "retrieved_at": "2026-09-18T07:58:29.214138+00:00",
+      "fields": {
+        "开始时间": "2027年09月",
+        "教学形式": "全日制",
+        "学制": "四年",
+        "2+2学习": "可选",
+        "学习地点": "苏州",
+        "院系": "人工智能与先进技术学院",
+        "学位证书": "毕业生可同时获得中国教育部认可的西交利物浦大学本科毕业证书、学士学位证书和国际认可的英国利物浦大学学士学位证书。"
+      },
+      "metadata_dates": {
+        "datePublished": "2022-10-10T04:04:51+00:00",
+        "dateModified": "2026-08-31T17:14:47+00:00"
+      },
+      "courses": [
+        {
+          "pathway": "课程",
+          "year": "第一学年",
+          "categories": {},
+          "notes": [
+            "西交利物浦大学在第一学年开设了包括学术英语、数理基础、人文教育在内的众多极具特色的通识类课程，点击了解更多。"
+          ]
+        },
+        {
+          "pathway": "课程",
+          "year": "第二学年",
+          "categories": {
+            "核心课程": [
+              "电磁学和电机学",
+              "C语言程序设计",
+              "电路 I",
+              "数字电子学 I",
+              "电子电路",
+              "集成电路原理与设计",
+              "实验技能与可持续性",
+              "工程制图",
+              "工程数学 1",
+              "工程数学 2",
+              "人工智能应用设计",
+              "前沿技术创业技能"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "课程",
+          "year": "第三学年",
+          "categories": {
+            "核心课程": [
+              "模拟与数字通信 I",
+              "连续与离散时域信号与系统",
+              "高等电路分析与电磁学",
+              "数字信号处理",
+              "微处理器系统",
+              "CMOS集成电路",
+              "数字电子学II",
+              "电子电路和系统",
+              "产业意识与团队项目",
+              "测量技术和自动控制系统",
+              "工程数学 3"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "课程",
+          "year": "第四学年",
+          "categories": {
+            "核心课程": [
+              "模拟与数字通信 II",
+              "无线通信系统",
+              "信息论与数据通信",
+              "应用电磁学与天线",
+              "毕业设计"
+            ],
+            "可选课程": [
+              "光学与光纤通信系统",
+              "无线电波传播及微波电路",
+              "基于无线传感器网络的物联网",
+              "通信电子学",
+              "仪表电子学",
+              "数字集成电路设计",
+              "图像处理",
+              "计算机听觉系统",
+              "嵌入式计算机系统"
+            ]
+          },
+          "notes": []
+        }
+      ],
+      "missing": [
+        "programme_selection_threshold",
+        "confirmed_cohort_curriculum"
+      ],
+      "group": "电子工程与制造",
+      "goal": "学习现代通信及电子系统的设计、实现、测试和应用。",
+      "career_summary": "通信研发、系统维护升级与软硬件技术支持。",
+      "similar_id": "xjtlu-electronic-science-and-technology",
+      "source_id": "S-xjtlu-telecommunications-engineering",
+      "aliases": [
+        "通信工程"
+      ],
+      "parent_id": null,
+      "entry_type": "directory_entry",
+      "internal_pathways": [],
+      "conflicts": [],
+      "eligibility_status": "pending_verification",
+      "checked_at": "2026-09-18",
+      "version": "0.1.0-rc1",
+      "career_section": "就业或职业发展（摘要仅保留领域，省略宣传性成功保证与升学比例）"
+    },
+    {
+      "major_id": "xjtlu-civil-engineering",
+      "official_name": "土木工程",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/civil-engineering",
+      "final_url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/civil-engineering",
+      "status": "read",
+      "sha256": "b6c7c56ab380a45f67b8870b625d66fbb9137c92f3dce6351fa41f2c8edf4dd8",
+      "retrieved_at": "2026-09-18T07:58:30.119622+00:00",
+      "fields": {
+        "开始时间": "2027年09月",
+        "教学形式": "全日制",
+        "学制": "四年",
+        "2+2学习": "可选",
+        "学习地点": "苏州",
+        "院系": "设计学院",
+        "学位证书": "毕业生可同时获得中国教育部认可的西交利物浦大学本科毕业证书、学士学位证书和国际认可的英国利物浦大学学士学位证书。"
+      },
+      "metadata_dates": {
+        "datePublished": "2022-10-09T20:10:21+00:00",
+        "dateModified": "2026-08-25T08:29:46+00:00"
+      },
+      "courses": [
+        {
+          "pathway": "土木与环境工程方向课程",
+          "year": "第一学年",
+          "categories": {},
+          "notes": [
+            "西交利物浦大学在第一学年开设了包括学术英语、数理基础、人文教育在内的众多极具特色的通识类课程，点击了解更多。"
+          ]
+        },
+        {
+          "pathway": "土木与环境工程方向课程",
+          "year": "第二学年",
+          "categories": {
+            "核心课程": [
+              "流体力学和热力学",
+              "固体力学",
+              "材料科学基础",
+              "数字工程与遥感",
+              "地质学",
+              "工程技能",
+              "设计语言与人工智能导论",
+              "设计与工程中的创业精神",
+              "环境化学与监测导论",
+              "统计学概论",
+              "工程微分方程"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "土木与环境工程方向课程",
+          "year": "第三学年",
+          "categories": {
+            "核心课程": [
+              "材料力学",
+              "结构设计",
+              "水力学",
+              "建筑材料",
+              "环境工程：水资源和废水",
+              "基础土力学",
+              "数值方法",
+              "编程技能",
+              "团队设计项目"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "土木与环境工程方向课程",
+          "year": "第四学年",
+          "categories": {
+            "核心课程": [
+              "综合设计项目",
+              "结构动力学",
+              "施工管理",
+              "环境工程: 循环经济与可持续发展",
+              "建筑信息模型",
+              "岩土工程",
+              "有限元方法",
+              "毕业设计"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "智能建筑工程与管理方向课程",
+          "year": "第一学年",
+          "categories": {},
+          "notes": [
+            "西交利物浦大学在第一学年开设了包括学术英语、数理基础、人文教育在内的众多极具特色的通识类课程，点击了解更多。"
+          ]
+        },
+        {
+          "pathway": "智能建筑工程与管理方向课程",
+          "year": "第二学年",
+          "categories": {
+            "核心课程": [
+              "流体力学和热力学",
+              "固体力学",
+              "材料科学基础",
+              "建成环境物联网与人工智能",
+              "数字工程与遥感",
+              "工程技能",
+              "多维度协同设计工作室",
+              "设计语言与人工智能导论",
+              "设计与工程中的创业精神",
+              "工程微分方程"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "智能建筑工程与管理方向课程",
+          "year": "第三学年",
+          "categories": {
+            "核心课程": [
+              "生成式设计工作室",
+              "材料力学",
+              "结构设计",
+              "建筑材料",
+              "基础土力学",
+              "数值方法",
+              "编程技能",
+              "团队设计项目",
+              "建筑设备工程"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "智能建筑工程与管理方向课程",
+          "year": "第四学年",
+          "categories": {
+            "核心课程": [
+              "建筑技术",
+              "综合设计项目",
+              "施工管理",
+              "建筑预算与成本控制",
+              "建筑信息模型",
+              "幕墙工程",
+              "岩土工程",
+              "毕业设计"
+            ]
+          },
+          "notes": []
+        }
+      ],
+      "missing": [
+        "programme_selection_threshold",
+        "confirmed_cohort_curriculum"
+      ],
+      "group": "建筑设计与城市",
+      "goal": "围绕基础设施与建成环境学习结构、施工、环境及工程管理。",
+      "career_summary": "基础设施设计建造及环境设施；相关工程深造。",
+      "similar_id": "xjtlu-architecture",
+      "source_id": "S-xjtlu-civil-engineering",
+      "aliases": [
+        "土木工程"
+      ],
+      "parent_id": null,
+      "entry_type": "directory_entry",
+      "internal_pathways": [
+        {
+          "pathway_id": "xjtlu-civil-engineering--civil-environment",
+          "name": "土木与环境工程"
+        },
+        {
+          "pathway_id": "xjtlu-civil-engineering--smart-construction",
+          "name": "智能建筑工程与管理"
+        }
+      ],
+      "conflicts": [],
+      "eligibility_status": "pending_verification",
+      "checked_at": "2026-09-18",
+      "version": "0.1.0-rc1",
+      "career_section": "就业或职业发展（摘要仅保留领域，省略宣传性成功保证与升学比例）"
+    },
+    {
+      "major_id": "xjtlu-microelectronic-science-and-engineering",
+      "official_name": "微电子科学与工程",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/microelectronic-science-and-engineering",
+      "final_url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/microelectronic-science-and-engineering",
+      "status": "read",
+      "sha256": "51f28358480b3bd37566c9d47de77a40aaa7e3694d1122f36f023901ffaa09a9",
+      "retrieved_at": "2026-09-18T07:58:32.061869+00:00",
+      "fields": {
+        "开始时间": "2027年09月",
+        "教学形式": "全日制",
+        "学制": "四年",
+        "2+2学习": "不可选",
+        "学习地点": "苏州太仓",
+        "院系": "西浦创业家学院（太仓）；芯片学院",
+        "学位证书": "毕业生可同时获得中国教育部认可的西交利物浦大学本科毕业证书、学士学位证书和国际认可的英国利物浦大学学士学位证书。"
+      },
+      "metadata_dates": {
+        "datePublished": "2022-10-10T04:16:13+00:00",
+        "dateModified": "2026-08-26T01:07:49+00:00"
+      },
+      "courses": [
+        {
+          "pathway": "课程",
+          "year": "第一学年",
+          "categories": {},
+          "notes": [
+            "西交利物浦大学在第一学年开设了包括学术英语、数理基础、人文教育在内的众多极具特色的通识类课程，点击了解更多。"
+          ]
+        },
+        {
+          "pathway": "课程",
+          "year": "第二学年",
+          "categories": {
+            "核心课程": [
+              "创意工具包",
+              "战略智慧",
+              "深度实践中的融合式教育",
+              "实验、计算机技能和可持续性",
+              "C语言程序设计",
+              "集成电路设计与制造",
+              "以人工智能为中心的芯片技术基础与展望",
+              "电子电路和系统",
+              "电子电路基础",
+              "工程数学"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "课程",
+          "year": "第三学年",
+          "categories": {
+            "核心课程": [
+              "数字化创业实验室",
+              "行业技能准备",
+              "先进电力电子器件和电路",
+              "数字 VLSI 系统设计和设计自动化",
+              "微处理器系统",
+              "数字电子技术2",
+              "CMOS数字集成电路",
+              "电磁学和机电学"
+            ],
+            "可选课程": [
+              "射频工程和应用电磁学",
+              "连续与离散时域信号与系统",
+              "半导体存储器与电路"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "课程",
+          "year": "第四学年",
+          "categories": {
+            "核心课程": [
+              "科创团队管理",
+              "毕业设计"
+            ],
+            "可选课程": [
+              "模拟集成电路分析与设计",
+              "集成电路技术与工程",
+              "集成电路 - 概念与设计",
+              "集成电路 - 制造和测试",
+              "光子学与光子复合系统",
+              "半导体材料模拟",
+              "传感器与系统集成",
+              "新兴器件与技术导论",
+              "半导体微结构与晶体缺陷"
+            ]
+          },
+          "notes": []
+        }
+      ],
+      "missing": [
+        "programme_selection_threshold",
+        "confirmed_cohort_curriculum"
+      ],
+      "group": "电子工程与制造",
+      "goal": "结合微电子、产业项目和创新创业，训练芯片相关知识与应用。",
+      "career_summary": "微电子、集成电路、半导体、纳米技术、工艺及封装深造。",
+      "similar_id": "xjtlu-electronic-science-and-technology",
+      "source_id": "S-xjtlu-microelectronic-science-and-engineering",
+      "aliases": [
+        "微电子科学与工程"
+      ],
+      "parent_id": null,
+      "entry_type": "directory_entry",
+      "internal_pathways": [],
+      "conflicts": [],
+      "eligibility_status": "pending_verification",
+      "checked_at": "2026-09-18",
+      "version": "0.1.0-rc1",
+      "career_section": "就业或职业发展（摘要仅保留领域，省略宣传性成功保证与升学比例）"
+    },
+    {
+      "major_id": "xjtlu-internet-of-things-engineering",
+      "official_name": "物联网工程",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/internet-of-things-engineering",
+      "final_url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/internet-of-things-engineering",
+      "status": "read",
+      "sha256": "623a14240c5dd3d6c040dc9147675fb198bf18f066e87bc19e561a25a0d3f6b3",
+      "retrieved_at": "2026-09-18T07:58:33.930285+00:00",
+      "fields": {
+        "开始时间": "2027年09月",
+        "教学形式": "全日制",
+        "学制": "四年",
+        "2+2学习": "不可选",
+        "学习地点": "苏州太仓",
+        "院系": "西浦创业家学院（太仓）；物联网学院",
+        "学位证书": "毕业生可同时获得中国教育部认可的西交利物浦大学本科毕业证书、学士学位证书和国际认可的英国利物浦大学学士学位证书。"
+      },
+      "metadata_dates": {
+        "datePublished": "2022-10-10T04:22:22+00:00",
+        "dateModified": "2026-08-26T01:12:15+00:00"
+      },
+      "courses": [
+        {
+          "pathway": "课程",
+          "year": "第一学年",
+          "categories": {},
+          "notes": [
+            "西交利物浦大学在第一学年开设了包括学术英语、数理基础、人文教育在内的众多极具特色的通识类课程，点击了解更多。"
+          ]
+        },
+        {
+          "pathway": "课程",
+          "year": "第二学年",
+          "categories": {
+            "核心课程": [
+              "创意工具包",
+              "战略智慧",
+              "深度实践中的融合式教育",
+              "物联网导论",
+              "机构组织中的物联网",
+              "人工智能为中心的物联网大数据分析技术基础与前沿视角",
+              "物联网模拟与数字电子电路",
+              "电子电路基础",
+              "工程数学",
+              "C/C++语言程序设计"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "课程",
+          "year": "第三学年",
+          "categories": {
+            "核心课程": [
+              "数字化创业实验室",
+              "行业技能准备",
+              "物联网控制技术",
+              "数据结构与算法",
+              "传感器技术",
+              "计算机网络导论",
+              "计算机架构与操作系统",
+              "物联网移动应用设计与开发",
+              "无线传感器网络和通信协议",
+              "物联网中的机器学习"
+            ],
+            "可选课程": [
+              "射频工程与射频识别",
+              "嵌入式系统"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "课程",
+          "year": "第四学年",
+          "categories": {
+            "核心课程": [
+              "科创团队管理",
+              "云计算",
+              "毕业设计",
+              "物联网智能设备应用开发",
+              "物联网信息安全技术",
+              "物联网信号处理"
+            ],
+            "可选课程": [
+              "智慧城市物联网",
+              "智慧医疗物联网",
+              "智慧生活物联网",
+              "智慧工业物联网"
+            ]
+          },
+          "notes": []
+        }
+      ],
+      "missing": [
+        "programme_selection_threshold",
+        "confirmed_cohort_curriculum"
+      ],
+      "group": "电子工程与制造",
+      "goal": "把传感、嵌入式、通信、云计算和安全组成物联网解决方案。",
+      "career_summary": "设备软硬件、网络、数据分析、测试及技术支持。",
+      "similar_id": "xjtlu-computer-science-and-technology",
+      "source_id": "S-xjtlu-internet-of-things-engineering",
+      "aliases": [
+        "物联网工程"
+      ],
+      "parent_id": null,
+      "entry_type": "directory_entry",
+      "internal_pathways": [],
+      "conflicts": [],
+      "eligibility_status": "pending_verification",
+      "checked_at": "2026-09-18",
+      "version": "0.1.0-rc1",
+      "career_section": "就业或职业发展（摘要仅保留领域，省略宣传性成功保证与升学比例）"
+    },
+    {
+      "major_id": "xjtlu-psychology-bsc",
+      "official_name": "心理学",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/psychology-bsc",
+      "final_url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/psychology-bsc",
+      "status": "read",
+      "sha256": "7071d1868e5036b0a767d067e6b40f4bce2186b8793c0e5e80b7169c1333dcd8",
+      "retrieved_at": "2026-09-18T07:58:34.100199+00:00",
+      "fields": {
+        "开始时间": "2027年09月",
+        "教学形式": "全日制",
+        "学制": "四年",
+        "2+2学习": "可选",
+        "学习地点": "苏州",
+        "院系": "生命与自然科学学院",
+        "学位证书": "毕业生可同时获得中国教育部认可的西交利物浦大学本科毕业证书、学士学位证书和国际认可的英国利物浦大学学士学位证书。"
+      },
+      "metadata_dates": {
+        "datePublished": "2026-09-11T08:45:18+00:00",
+        "dateModified": "2026-09-15T07:08:07+00:00"
+      },
+      "courses": [
+        {
+          "pathway": "课程",
+          "year": "第一学年",
+          "categories": {
+            "未标明必选性质": [
+              "心理学导论"
+            ]
+          },
+          "notes": [
+            "第一、第二学期",
+            "西交利物浦大学在第一学年开设了包括学术英语、数理基础、人文教育在内的众多极具特色的通识类课程，点击了解更多。",
+            "第二学期"
+          ]
+        },
+        {
+          "pathway": "课程",
+          "year": "第二学年",
+          "categories": {
+            "未标明必选性质": [
+              "大脑与认知",
+              "发展心理学",
+              "研究方法与统计I",
+              "生物心理学",
+              "社会心理学与个体差异",
+              "研究方法与统计II"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "课程",
+          "year": "第三学年",
+          "categories": {
+            "未标明必选性质": [
+              "临床和法医心理学",
+              "心理生物学与动机",
+              "研究方法与统计III",
+              "认知与认知神经科学",
+              "寿命、健康和福祉",
+              "研究方法与统计IV"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "课程",
+          "year": "第四学年",
+          "categories": {
+            "未标明必选性质": [
+              "决策的心理学方法",
+              "食欲调节与肥胖：健康与神经科学视角",
+              "疼痛的心理生物学",
+              "成年人衰老的心理问题",
+              "家庭心理学：认识症状背后的系统",
+              "冲突心理学",
+              "应用社会心理学专题",
+              "网络心理学与人机交互",
+              "精神病心理学",
+              "毕业论文/科研项目"
+            ]
+          },
+          "notes": []
+        }
+      ],
+      "missing": [
+        "programme_selection_threshold",
+        "confirmed_cohort_curriculum"
+      ],
+      "group": "生命环境与健康",
+      "goal": "整合认知神经、健康与发展心理学，结合研究方法和实践。",
+      "career_summary": "健康、教育、商业科技相关探索与心理学深造；临床资格另核实。",
+      "similar_id": "xjtlu-biomedical-sciences",
+      "source_id": "S-xjtlu-psychology-bsc",
+      "aliases": [
+        "心理学"
+      ],
+      "parent_id": null,
+      "entry_type": "directory_entry",
+      "internal_pathways": [],
+      "conflicts": [],
+      "eligibility_status": "pending_verification",
+      "checked_at": "2026-09-18",
+      "version": "0.1.0-rc1",
+      "career_section": "就业或职业发展（摘要仅保留领域，省略宣传性成功保证与升学比例）"
+    },
+    {
+      "major_id": "xjtlu-information-management-and-information-systems",
+      "official_name": "信息管理与信息系统",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/information-management-and-information-systems",
+      "final_url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/information-management-and-information-systems",
+      "status": "read",
+      "sha256": "fee3890a35e40f3d02672826c425b2ffaf54b0d7d434d1b418af427d55876775",
+      "retrieved_at": "2026-09-18T07:58:34.673401+00:00",
+      "fields": {
+        "开始时间": "2027年09月",
+        "教学形式": "全日制",
+        "学制": "四年",
+        "2+2学习": "可选",
+        "学习地点": "苏州",
+        "院系": "西浦国际商学院",
+        "学位证书": "毕业生可同时获得中国教育部认可的西交利物浦大学本科毕业证书、学士学位证书和国际认可的英国利物浦大学学士学位证书。"
+      },
+      "metadata_dates": {
+        "datePublished": "2022-10-10T05:15:33+00:00",
+        "dateModified": "2026-06-15T04:14:17+00:00"
+      },
+      "courses": [
+        {
+          "pathway": "课程",
+          "year": "第一学年",
+          "categories": {},
+          "notes": [
+            "西交利物浦大学在第一学年开设了包括学术英语、数理基础、人文教育在内的众多极具特色的通识类课程，点击了解更多。"
+          ]
+        },
+        {
+          "pathway": "课程",
+          "year": "第二学年",
+          "categories": {
+            "核心课程": [
+              "财务会计和会计责任概论",
+              "财务会计基础",
+              "Java 编程概论",
+              "统计学概论",
+              "商业与市场经济学原理",
+              "商业定量方法",
+              "金融学基础",
+              "算法基础及问题求解",
+              "商业人工智能",
+              "数据库系统",
+              "创业历程：从理论到实践"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "课程",
+          "year": "第三学年",
+          "categories": {
+            "核心课程": [
+              "软件工程团队项目",
+              "软件工程 I",
+              "电子商务系统",
+              "高级数据库管理",
+              "商业智能",
+              "数字化可持续发展",
+              "人工智能体在商业中的应用",
+              "信息系统项目管理",
+              "网络安全管理"
+            ],
+            "可选课程": [
+              "高级面向对象编程",
+              "人机交互",
+              "金融科技基础",
+              "数字营销"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "课程",
+          "year": "第四学年",
+          "categories": {
+            "核心课程": [
+              "电子商务技术",
+              "大数据分析",
+              "金融市场中基于计算机的交易",
+              "电子商务模式和策略",
+              "商业中的大数据分析",
+              "当代社交商务"
+            ],
+            "可选课程": [
+              "毕业设计",
+              "移动计算",
+              "计算机系统安全",
+              "软件工程II",
+              "商业金融",
+              "金融与市场",
+              "商业风险管理",
+              "机器学习",
+              "金融市场中基于计算机的交易",
+              "电子商务模式和策略",
+              "国际营销",
+              "毕业设计",
+              "组织多样性",
+              "亚太地区商业",
+              "商业策略"
+            ]
+          },
+          "notes": []
+        }
+      ],
+      "missing": [
+        "programme_selection_threshold",
+        "confirmed_cohort_curriculum"
+      ],
+      "group": "商业经济与金融",
+      "goal": "结合管理、信息技术、电子商务和经济金融，研究商务信息系统。",
+      "career_summary": "电商、信息技术、金融服务的业务与技术方向；相关深造。",
+      "similar_id": "xjtlu-information-and-computing-science",
+      "source_id": "S-xjtlu-information-management-and-information-systems",
+      "aliases": [
+        "信息管理与信息系统"
+      ],
+      "parent_id": null,
+      "entry_type": "directory_entry",
+      "internal_pathways": [],
+      "conflicts": [
+        "课程 / 第四学年同名课程重复或跨核心/选修列表出现：金融市场中基于计算机的交易、电子商务模式和策略、毕业设计；可能涉及方向或选课组合，不能直接认定人人同修或删去重复，须核实。"
+      ],
+      "eligibility_status": "pending_verification",
+      "checked_at": "2026-09-18",
+      "version": "0.1.0-rc1",
+      "career_section": "就业或职业发展（摘要仅保留领域，省略宣传性成功保证与升学比例）"
+    },
+    {
+      "major_id": "xjtlu-information-and-computing-science",
+      "official_name": "信息与计算科学",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/information-and-computing-science",
+      "final_url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/information-and-computing-science",
+      "status": "read",
+      "sha256": "6160dac2d8baa2d570177a63e0fa5975b8d907c88ce721ba55f6209be7c2f7c5",
+      "retrieved_at": "2026-09-18T07:58:32.487411+00:00",
+      "fields": {
+        "开始时间": "2027年09月",
+        "教学形式": "全日制",
+        "学制": "四年",
+        "2+2学习": "可选",
+        "学习地点": "苏州",
+        "院系": "人工智能与先进技术学院",
+        "学位证书": "毕业生可同时获得中国教育部认可的西交利物浦大学本科毕业证书、学士学位证书和国际认可的英国利物浦大学学士学位证书。"
+      },
+      "metadata_dates": {
+        "datePublished": "2022-10-10T05:20:04+00:00",
+        "dateModified": "2026-08-31T17:15:43+00:00"
+      },
+      "courses": [
+        {
+          "pathway": "课程",
+          "year": "第一学年",
+          "categories": {},
+          "notes": [
+            "西交利物浦大学在第一学年开设了包括学术英语、数理基础、人文教育在内的众多极具特色的通识类课程，点击了解更多。"
+          ]
+        },
+        {
+          "pathway": "课程",
+          "year": "第二学年",
+          "categories": {
+            "核心课程": [
+              "计算机系统",
+              "数据结构",
+              "数据库概论",
+              "操作系统概念",
+              "离散数学与统计",
+              "Java编程",
+              "算法基础及问题求解",
+              "人工智能",
+              "人工智能应用设计",
+              "前沿技术创业技能"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "课程",
+          "year": "第三学年",
+          "categories": {
+            "核心课程": [
+              "计算机网络",
+              "软件工程团队项目",
+              "软件工程 I",
+              "高级面向对象编程",
+              "人机交互",
+              "决策、计算和语言",
+              "算法复杂性"
+            ],
+            "可选课程": [
+              "数据库开发与设计",
+              "计算机图形学"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "课程",
+          "year": "第四学年",
+          "categories": {
+            "核心课程": [
+              "软件工程II",
+              "大数据分析",
+              "毕业设计"
+            ],
+            "可选课程": [
+              "移动计算",
+              "电子商务技术",
+              "计算机系统安全",
+              "形式化方法",
+              "多智能体系统",
+              "游戏设计理论与实践",
+              "仿生计算",
+              "机器学习"
+            ]
+          },
+          "notes": []
+        }
+      ],
+      "missing": [
+        "programme_selection_threshold",
+        "confirmed_cohort_curriculum"
+      ],
+      "group": "计算人工智能与系统",
+      "goal": "学习算法与软件系统，用计算方法处理信息和开发应用。",
+      "career_summary": "软件、信息系统、数据分析、移动应用与游戏技术；相关硕士。",
+      "similar_id": "xjtlu-computer-science-and-technology",
+      "source_id": "S-xjtlu-information-and-computing-science",
+      "aliases": [
+        "信息与计算科学"
+      ],
+      "parent_id": null,
+      "entry_type": "directory_entry",
+      "internal_pathways": [],
+      "conflicts": [],
+      "eligibility_status": "pending_verification",
+      "checked_at": "2026-09-18",
+      "version": "0.1.0-rc1",
+      "career_section": "就业或职业发展（摘要仅保留领域，省略宣传性成功保证与升学比例）"
+    },
+    {
+      "major_id": "xjtlu-pharmaceutical-sciences",
+      "official_name": "药学",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/pharmaceutical-sciences",
+      "final_url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/pharmaceutical-sciences",
+      "status": "read",
+      "sha256": "845e987eec0c119c88ab77d865f216fab44b374fc2bc0a28965bc41c71fcdba3",
+      "retrieved_at": "2026-09-18T07:58:32.988307+00:00",
+      "fields": {
+        "开始时间": "2027年09月",
+        "教学形式": "全日制",
+        "学制": "四年",
+        "2+2学习": "可选",
+        "学习地点": "苏州",
+        "宣传册": "下载文件",
+        "院系": "生命与自然科学学院",
+        "学位证书": "毕业生可同时获得中国教育部认可的西交利物浦大学本科毕业证书、学士学位证书和国际认可的英国利物浦大学学士学位证书。"
+      },
+      "metadata_dates": {
+        "datePublished": "2022-10-10T05:39:34+00:00",
+        "dateModified": "2026-09-01T07:08:59+00:00"
+      },
+      "courses": [
+        {
+          "pathway": "课程",
+          "year": "第一学年",
+          "categories": {},
+          "notes": [
+            "西交利物浦大学在第一学年开设了包括学术英语、数理基础、人文教育在内的众多极具特色的通识类课程，点击了解更多。"
+          ]
+        },
+        {
+          "pathway": "课程",
+          "year": "第二学年",
+          "categories": {
+            "核心课程": [
+              "药学基础化学",
+              "药物科学关键技术",
+              "基础药理学生物化学",
+              "生理与药理学导论",
+              "药学生物学",
+              "药学应用分子生物学",
+              "医疗健康和药物研发中的人工智能",
+              "医药行业领导力：从概念到市场",
+              "人体生理学与疾病",
+              "微生物生物学"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "课程",
+          "year": "第三学年",
+          "categories": {
+            "核心课程": [
+              "药剂学",
+              "药物分析",
+              "药物作用原理",
+              "临床药学",
+              "药理学原理",
+              "实用药理学"
+            ],
+            "可选课程": [
+              "生物药剂与生物制药技术",
+              "药学中的人工智能简介I",
+              "药品和生物制品监管简介",
+              "药物经济学简介",
+              "计算机辅助药学基础",
+              "高等药学化学",
+              "计算机科学的关键技术"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "课程",
+          "year": "第四学年",
+          "categories": {
+            "核心课程": [
+              "药物化学",
+              "计算机辅助药物设计",
+              "监管科学和项目管理",
+              "GxP 原则",
+              "毕业设计",
+              "药物输送和纳米医学",
+              "分子免疫学"
+            ],
+            "可选课程": [
+              "制药化学与生产控制简介",
+              "药品与生物制品质量保证简介",
+              "药学中的人工智能简介II",
+              "高等药物分析",
+              "细胞生物学技术"
+            ]
+          },
+          "notes": []
+        }
+      ],
+      "missing": [
+        "programme_selection_threshold",
+        "confirmed_cohort_curriculum"
+      ],
+      "group": "生命环境与健康",
+      "goal": "结合化学、生命与健康科学，学习药物研发、制剂、分析及质量。",
+      "career_summary": "药物研发、合成、制剂、检测和质控；药学相关深造。",
+      "similar_id": "xjtlu-biopharmaceuticals",
+      "source_id": "S-xjtlu-pharmaceutical-sciences",
+      "aliases": [
+        "药学"
+      ],
+      "parent_id": null,
+      "entry_type": "directory_entry",
+      "internal_pathways": [],
+      "conflicts": [],
+      "eligibility_status": "pending_verification",
+      "checked_at": "2026-09-18",
+      "version": "0.1.0-rc1",
+      "career_section": "就业或职业发展（摘要仅保留领域，省略宣传性成功保证与升学比例）"
+    },
+    {
+      "major_id": "xjtlu-filmmaking",
+      "official_name": "影视摄影与制作​",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/filmmaking",
+      "final_url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/filmmaking",
+      "status": "read",
+      "sha256": "b07f288737cf820c2dd79422402430a37f748a1bee2512eaac3c16ae726fc694",
+      "retrieved_at": "2026-09-18T07:58:33.399993+00:00",
+      "fields": {
+        "开始时间": "2027年09月",
+        "教学形式": "全日制",
+        "学制": "四年",
+        "2+2学习": "不可选",
+        "学习地点": "苏州",
+        "院系": "影视与创意科技学院",
+        "学位证书": "毕业生可同时获得中国教育部认可的西交利物浦大学本科毕业证书、学士学位证书和国际认可的英国利物浦大学学士学位证书。"
+      },
+      "metadata_dates": {
+        "datePublished": "2022-10-10T05:44:05+00:00",
+        "dateModified": "2026-08-24T09:08:48+00:00"
+      },
+      "courses": [
+        {
+          "pathway": "课程",
+          "year": "第一学年",
+          "categories": {},
+          "notes": [
+            "西交利物浦大学在第一学年开设了包括学术英语、数理基础、人文教育在内的众多极具特色的通识类课程，点击了解更多。"
+          ]
+        },
+        {
+          "pathway": "课程",
+          "year": "第二学年",
+          "categories": {
+            "核心课程": [
+              "电影和电视剧本创作",
+              "剧情片理论与实践",
+              "声音概论",
+              "导演概论",
+              "相机和灯光概论",
+              "制片概论",
+              "媒体美学",
+              "后期制作概论",
+              "人工智能策略",
+              "创意创业导论"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "课程",
+          "year": "第三学年",
+          "categories": {
+            "核心课程": [
+              "编剧技巧与实践",
+              "小型电影项目",
+              "视觉特效",
+              "纪录片进阶"
+            ],
+            "可选课程": [
+              "媒体改编",
+              "实验电影实践",
+              "电视演播室制作",
+              "音乐宣传片",
+              "后期制作艺术",
+              "声音的艺术",
+              "摄像进阶",
+              "导演进阶",
+              "制片进阶",
+              "中国与数字革命",
+              "短视频制作"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "课程",
+          "year": "第四学年",
+          "categories": {
+            "核心课程": [
+              "合作项目",
+              "全球背景下的内容的市场推广",
+              "毕业作品",
+              "传媒、娱乐及文化产业",
+              "毕业设计：移动图像"
+            ]
+          },
+          "notes": []
+        }
+      ],
+      "missing": [
+        "programme_selection_threshold",
+        "confirmed_cohort_curriculum"
+      ],
+      "group": "创意媒体与艺术",
+      "goal": "围绕视觉叙事开展编剧、导演、摄影、声音与后期实践。",
+      "career_summary": "电影、流媒体与数字工作室的内容制作；作品与经历要求另核实。",
+      "similar_id": "xjtlu-film-and-television-production",
+      "source_id": "S-xjtlu-filmmaking",
+      "aliases": [
+        "影视摄影与制作"
+      ],
+      "parent_id": null,
+      "entry_type": "directory_entry",
+      "internal_pathways": [],
+      "conflicts": [],
+      "eligibility_status": "pending_verification",
+      "checked_at": "2026-09-18",
+      "version": "0.1.0-rc1",
+      "career_section": "就业或职业发展（摘要仅保留领域，省略宣传性成功保证与升学比例）"
+    },
+    {
+      "major_id": "xjtlu-applied-chemistry",
+      "official_name": "应用化学",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/applied-chemistry",
+      "final_url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/applied-chemistry",
+      "status": "read",
+      "sha256": "51c5d01ad4c912728fb31fcf6576eb1f46d4775c3841935a76ce519c2277917f",
+      "retrieved_at": "2026-09-18T07:58:38.039567+00:00",
+      "fields": {
+        "开始时间": "2027年09月",
+        "教学形式": "全日制",
+        "学制": "四年",
+        "2+2学习": "可选",
+        "学习地点": "苏州",
+        "宣传册": "下载文件",
+        "院系": "生命与自然科学学院",
+        "学位证书": "毕业生可同时获得中国教育部认可的西交利物浦大学本科毕业证书、学士学位证书和国际认可的英国利物浦大学学士学位证书。"
+      },
+      "metadata_dates": {
+        "datePublished": "2022-10-10T05:31:46+00:00",
+        "dateModified": "2026-09-01T07:13:38+00:00"
+      },
+      "courses": [
+        {
+          "pathway": "课程",
+          "year": "第一学年",
+          "categories": {},
+          "notes": [
+            "西交利物浦大学在第一学年开设了包括学术英语、数理基础、人文教育在内的众多极具特色的通识类课程，点击了解更多。"
+          ]
+        },
+        {
+          "pathway": "课程",
+          "year": "第二学年",
+          "categories": {
+            "核心课程": [
+              "光谱学导论",
+              "无机化学导论",
+              "物理化学导论",
+              "化学与材料科学关键技能",
+              "有机化学导论 2",
+              "有机化学导论 1",
+              "化学实验室技术",
+              "面向科学的人工智能导论",
+              "科学领域的创业教育：面向未来的创新"
+            ],
+            "可选课程": [
+              "微生物生物学",
+              "环境化学与监测导论",
+              "物理学（化学专业）"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "课程",
+          "year": "第三学年",
+          "categories": {
+            "核心课程": [
+              "中级有机化学",
+              "中级物理化学",
+              "化学关键技能进阶",
+              "中级无机化学",
+              "化学测量",
+              "制备化学：合成与表征",
+              "分析化学",
+              "群论在无机化学中的应用"
+            ],
+            "可选课程": [
+              "生物学化学",
+              "高分子化学导论"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "课程",
+          "year": "第四学年",
+          "categories": {
+            "核心课程": [
+              "高等无机化学",
+              "高等有机化学",
+              "毕业设计",
+              "科学研究中的批判思维和应用技术"
+            ],
+            "可选课程": [
+              "高级物理化学",
+              "药物化学导论",
+              "电化学导论",
+              "纳米技术与先进材料",
+              "计算化学"
+            ]
+          },
+          "notes": []
+        }
+      ],
+      "missing": [
+        "programme_selection_threshold",
+        "confirmed_cohort_curriculum"
+      ],
+      "group": "材料化学与物理",
+      "goal": "学习化学理论与实验，并接触材料、能源、药物等应用问题。",
+      "career_summary": "化学材料、制药、食品、环境能源与研发；相关深造。",
+      "similar_id": "xjtlu-materials-science-and-engineering-2",
+      "source_id": "S-xjtlu-applied-chemistry",
+      "aliases": [
+        "应用化学"
+      ],
+      "parent_id": null,
+      "entry_type": "directory_entry",
+      "internal_pathways": [],
+      "conflicts": [],
+      "eligibility_status": "pending_verification",
+      "checked_at": "2026-09-18",
+      "version": "0.1.0-rc1",
+      "career_section": "就业或职业发展（摘要仅保留领域，省略宣传性成功保证与升学比例）"
+    },
+    {
+      "major_id": "xjtlu-applied-mathematics",
+      "official_name": "应用数学",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/applied-mathematics",
+      "final_url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/applied-mathematics",
+      "status": "read",
+      "sha256": "ff6de86b1f41123b209261d5f2a1a33e0b3e265a5831b371357c48db6d5e405b",
+      "retrieved_at": "2026-09-18T07:58:38.910881+00:00",
+      "fields": {
+        "开始时间": "2027年09月",
+        "教学形式": "全日制",
+        "学制": "四年",
+        "2+2学习": "可选",
+        "学习地点": "苏州",
+        "院系": "数学物理学院",
+        "学位证书": "毕业生可同时获得中国教育部认可的西交利物浦大学本科毕业证书、学士学位证书和国际认可的英国利物浦大学学士学位证书。"
+      },
+      "metadata_dates": {
+        "datePublished": "2022-10-10T05:53:37+00:00",
+        "dateModified": "2026-06-15T04:16:48+00:00"
+      },
+      "courses": [
+        {
+          "pathway": "课程",
+          "year": "第一学年",
+          "categories": {},
+          "notes": [
+            "西交利物浦大学在第一学年开设了包括学术英语、数理基础、人文教育在内的众多极具特色的通识类课程，点击了解更多。"
+          ]
+        },
+        {
+          "pathway": "课程",
+          "year": "第二学年",
+          "categories": {
+            "核心课程": [
+              "Java 编程概论",
+              "应用数学方法导论",
+              "高级线性代数",
+              "动态建模",
+              "概率与统计入门",
+              "数学分析1",
+              "数学分析2",
+              "抽象代数概论",
+              "数理思维与商业创新",
+              "数学科学人工智能导论"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "课程",
+          "year": "第三学年",
+          "categories": {
+            "核心课程": [
+              "矢量场：理论及应用",
+              "数值分析",
+              "偏微分方程",
+              "常微分方程与控制",
+              "复变函数"
+            ],
+            "可选课程": [
+              "金融数学基础",
+              "运筹学导论",
+              "统计分布理论",
+              "经典力学",
+              "度量空间",
+              "离散数学",
+              "几何中的对称",
+              "现代密码学"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "课程",
+          "year": "第四学年",
+          "categories": {
+            "核心课程": [
+              "毕业设计"
+            ],
+            "可选课程": [
+              "应用概率论",
+              "风险管理",
+              "人口动力学",
+              "固体和流体的数学模型",
+              "泛函分析",
+              "曲线和曲面几何",
+              "最优化理论",
+              "偏微分方程的数值分析",
+              "拓扑学",
+              "测度与积分",
+              "量子力学",
+              "相对论"
+            ]
+          },
+          "notes": []
+        }
+      ],
+      "missing": [
+        "programme_selection_threshold",
+        "confirmed_cohort_curriculum"
+      ],
+      "group": "数学统计与数据",
+      "goal": "通过数学基础、建模和计算训练分析与解决问题的能力。",
+      "career_summary": "分析、建模、统计相关探索；数学、数据、统计、金融等深造。",
+      "similar_id": "xjtlu-financial-mathematics",
+      "source_id": "S-xjtlu-applied-mathematics",
+      "aliases": [
+        "应用数学",
+        "数学与应用数学（2026章程名称，对应关系待校方确认）"
+      ],
+      "parent_id": null,
+      "entry_type": "directory_entry",
+      "internal_pathways": [],
+      "conflicts": [
+        "目录与详情名为“应用数学”，S02第九条使用“数学与应用数学”；不擅自认定法定名称等同，校内报选名称须核实。"
+      ],
+      "eligibility_status": "pending_verification",
+      "checked_at": "2026-09-18",
+      "version": "0.1.0-rc1",
+      "career_section": "就业或职业发展（摘要仅保留领域，省略宣传性成功保证与升学比例）"
+    },
+    {
+      "major_id": "xjtlu-applied-statistics",
+      "official_name": "应用统计学",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/applied-statistics",
+      "final_url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/applied-statistics",
+      "status": "read",
+      "sha256": "77021a0bc1f2b424fbda1ed9e6d6b1b4ead98f05b340943735038f26fe06e22e",
+      "retrieved_at": "2026-09-18T07:58:34.712216+00:00",
+      "fields": {
+        "开始时间": "2027年09月",
+        "教学形式": "全日制",
+        "学制": "四年",
+        "2+2学习": "不可选",
+        "学习地点": "苏州",
+        "宣传册": "下载文件",
+        "院系": "生命与自然科学学院",
+        "学位证书": "毕业生可同时获得中国教育部认可的西交利物浦大学本科毕业证书、学士学位证书和国际认可的英国利物浦大学学士学位证书。"
+      },
+      "metadata_dates": {
+        "datePublished": "2022-10-10T05:48:20+00:00",
+        "dateModified": "2026-09-01T07:14:12+00:00"
+      },
+      "courses": [
+        {
+          "pathway": "课程",
+          "year": "第一学年",
+          "categories": {},
+          "notes": [
+            "西交利物浦大学在第一学年开设了包括学术英语、数理基础、人文教育在内的众多极具特色的通识类课程，点击了解更多。"
+          ]
+        },
+        {
+          "pathway": "课程",
+          "year": "第二学年",
+          "categories": {
+            "核心课程": [
+              "生物统计与R语言",
+              "抽样调查",
+              "医疗健康和药物研发中的人工智能",
+              "医药行业领导力：从概念到市场",
+              "Java 编程概论",
+              "应用数学方法导论",
+              "高级线性代数",
+              "概率与统计入门",
+              "数学分析1",
+              "数学分析2"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "课程",
+          "year": "第三学年",
+          "categories": {
+            "核心课程": [
+              "SAS数据分析",
+              "统计预测与决策",
+              "流行病学与循证医学",
+              "药代动力学",
+              "实用生物信息学",
+              "运筹学导论",
+              "统计分布理论",
+              "数值分析"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "课程",
+          "year": "第四学年",
+          "categories": {
+            "核心课程": [
+              "毕业设计",
+              "监管科学和项目管理",
+              "应用概率论",
+              "线性统计模型",
+              "应用多元统计"
+            ],
+            "可选课程": [
+              "临床试验统计分析",
+              "医疗人工智能",
+              "生存分析",
+              "仿生计算",
+              "大数据分析",
+              "机器学习"
+            ]
+          },
+          "notes": []
+        }
+      ],
+      "missing": [
+        "programme_selection_threshold",
+        "confirmed_cohort_curriculum"
+      ],
+      "group": "数学统计与数据",
+      "goal": "以数理统计、数据分析和编程研究问题，突出生物医药应用。",
+      "career_summary": "医药或CRO数据统计分析、研究支持；统计相关硕士。",
+      "similar_id": "xjtlu-data-science-and-big-data-technology",
+      "source_id": "S-xjtlu-applied-statistics",
+      "aliases": [
+        "应用统计学"
+      ],
+      "parent_id": null,
+      "entry_type": "directory_entry",
+      "internal_pathways": [],
+      "conflicts": [],
+      "eligibility_status": "pending_verification",
+      "checked_at": "2026-09-18",
+      "version": "0.1.0-rc1",
+      "career_section": "就业或职业发展（摘要仅保留领域，省略宣传性成功保证与升学比例）"
+    },
+    {
+      "major_id": "xjtlu-applied-physics-bsc",
+      "official_name": "应用物理学",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/applied-physics-bsc",
+      "final_url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/applied-physics-bsc",
+      "status": "read",
+      "sha256": "4a5e40f986bede2b0b5d7f3e3ad46c524212e188d2c7923d59d05c256e82fcbb",
+      "retrieved_at": "2026-09-18T07:58:39.097675+00:00",
+      "fields": {
+        "开始时间": "2027年09月",
+        "教学形式": "全日制",
+        "学制": "四年",
+        "学习地点": "苏州",
+        "院系": "数学物理学院",
+        "学位证书": "毕业生可同时获得中国教育部认可的西交利物浦大学本科毕业证书、学士学位证书和国际认可的英国利物浦大学学士学位证书。"
+      },
+      "metadata_dates": {
+        "datePublished": "2026-06-18T08:23:20+00:00",
+        "dateModified": "2026-09-09T08:14:03+00:00"
+      },
+      "courses": [
+        {
+          "pathway": "课程",
+          "year": "第一学年",
+          "categories": {},
+          "notes": [
+            "西交利物浦大学在第一学年开设了包括学术英语、数理基础、人文教育在内的众多极具特色的通识类课程，点击了解更多。"
+          ]
+        },
+        {
+          "pathway": "课程",
+          "year": "第二学年",
+          "categories": {
+            "核心课程": [
+              "数理思维与商业创新",
+              "数学科学人工智能导论",
+              "物理学III：热力学、振动与波",
+              "物理学 IV：现代物理学导论",
+              "实用物理A",
+              "Python编程简介",
+              "物理学家的数学方法 I",
+              "科学思维与研究方法",
+              "实用物理B",
+              "物理学计算方法"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "课程",
+          "year": "第三学年",
+          "categories": {
+            "核心课程": [
+              "电磁学I",
+              "经典力学（物理学专业)",
+              "实用物理C",
+              "电磁学II",
+              "量子力学 I",
+              "实用物理D"
+            ],
+            "可选课程": [
+              "中级物理化学",
+              "工程流体力学和矢量场",
+              "物理学家的数学方法 II",
+              "恒星与星系物理",
+              "行星科学"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "课程",
+          "year": "第四学年",
+          "categories": {
+            "核心课程": [
+              "毕业设计",
+              "统计热力学",
+              "量子力学 II",
+              "固体物理"
+            ],
+            "可选课程": [
+              "半导体材料",
+              "相对论",
+              "核物理学和粒子物理学",
+              "凝聚态物理",
+              "光子物理与量子光学导论",
+              "物理统计数据分析"
+            ]
+          },
+          "notes": []
+        }
+      ],
+      "missing": [
+        "programme_selection_threshold",
+        "confirmed_cohort_curriculum"
+      ],
+      "group": "材料化学与物理",
+      "goal": "结合物理理论、实验、计算建模及研究项目。",
+      "career_summary": "先进材料、能源、半导体与数据相关探索；物理或交叉研究深造。",
+      "similar_id": "xjtlu-materials-science-and-engineering-2",
+      "source_id": "S-xjtlu-applied-physics-bsc",
+      "aliases": [
+        "应用物理学"
+      ],
+      "parent_id": null,
+      "entry_type": "directory_entry",
+      "internal_pathways": [],
+      "conflicts": [],
+      "eligibility_status": "pending_verification",
+      "checked_at": "2026-09-18",
+      "version": "0.1.0-rc1",
+      "career_section": "就业或职业发展（摘要仅保留领域，省略宣传性成功保证与升学比例）"
+    },
+    {
+      "major_id": "xjtlu-english-and-communication-studies",
+      "official_name": "英语（传媒英语）",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/english-and-communication-studies",
+      "final_url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/english-and-communication-studies",
+      "status": "read",
+      "sha256": "13a86d59de7059d44b571c29d9c50db61792a2c88a65fe22654b4dc25a788a22",
+      "retrieved_at": "2026-09-18T07:58:35.170071+00:00",
+      "fields": {
+        "开始时间": "2027年09月",
+        "教学形式": "全日制",
+        "学制": "四年",
+        "2+2学习": "可选",
+        "学习地点": "苏州",
+        "院系": "人文社科学院",
+        "学位证书": "毕业生可同时获得中国教育部认可的西交利物浦大学本科毕业证书、学士学位证书和国际认可的英国利物浦大学学士学位证书。"
+      },
+      "metadata_dates": {
+        "datePublished": "2022-10-09T02:38:17+00:00",
+        "dateModified": "2026-08-31T07:12:08+00:00"
+      },
+      "courses": [
+        {
+          "pathway": "课程",
+          "year": "第一学年",
+          "categories": {},
+          "notes": [
+            "西交利物浦大学在第一学年开设了包括学术英语、数理基础、人文教育在内的众多极具特色的通识类课程，点击了解更多。"
+          ]
+        },
+        {
+          "pathway": "课程",
+          "year": "第二学年",
+          "categories": {
+            "核心课程": [
+              "人文与社会科学的人工智能：赋能研究与实践",
+              "人文与社会科学视界"
+            ],
+            "可选课程": [
+              "中国文学概论",
+              "全球媒体产业",
+              "代表性、多样性和身份",
+              "观众和媒体用户",
+              "视频制作概论",
+              "电影研究基础",
+              "新闻学概论",
+              "数字媒体与传播概论",
+              "文学研究概论",
+              "文学与人工智能",
+              "文学与电影",
+              "世界文学概论",
+              "英语的声音",
+              "语言学导论：语法",
+              "句法",
+              "语言与社会",
+              "语言学导论：口语和书面话语",
+              "语义和语用",
+              "人工智能赋能的翻译与跨文化交际",
+              "笔译和口译概论",
+              "商务沟通与口译",
+              "翻译与全球化"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "课程",
+          "year": "第三学年",
+          "categories": {
+            "核心课程": [
+              "定性研究方法",
+              "定量研究方法"
+            ],
+            "可选课程": [
+              "中国现当代文学",
+              "中国：文化、语言和交流",
+              "中国电影",
+              "健康传播",
+              "媒体与战争",
+              "数字时代音乐研究",
+              "媒介效果研究",
+              "公共关系实务",
+              "多媒体新闻报导",
+              "数字媒体法律与道德",
+              "好莱坞电影院",
+              "新闻摄影",
+              "启蒙文学",
+              "后殖民文学",
+              "文学与性别",
+              "简·奥斯汀",
+              "伊丽莎白一世和詹姆士一世时期悲剧",
+              "现代英国小说",
+              "文学理论",
+              "浪漫主义",
+              "语言与媒体",
+              "双语和多语发展",
+              "语言和性别",
+              "认知语言学",
+              "语言习得",
+              "心理语言学",
+              "语料库语言学",
+              "口译",
+              "翻译语言研究",
+              "视觉翻译",
+              "翻译技术",
+              "翻译与文化",
+              "翻译与新闻学",
+              "文学翻译",
+              "翻译与计算"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "课程",
+          "year": "第四学年",
+          "categories": {
+            "可选课程": [
+              "毕业设计：传播研究",
+              "社会数据科学",
+              "欧洲电影",
+              "人工智能和大数据在社会中的应用",
+              "数字经济下的文化创意产业",
+              "真实故事讲述",
+              "电影中的城市",
+              "电影、哲学和数字技术",
+              "全球化与科学传播",
+              "调查新闻",
+              "健康人文",
+              "文学：毕业设计",
+              "哥特式",
+              "后现代文学",
+              "文学与环境",
+              "乌托邦：一个想法的历史",
+              "现代性文学",
+              "数字人文学科研究与实践",
+              "毕业设计",
+              "语言与权力",
+              "法医语言学",
+              "跨文化交际",
+              "人工智能和应用语言学",
+              "语言教育",
+              "生态语言学：语言和环境",
+              "语言和消费者行为",
+              "笔译和口译：毕业设计",
+              "视听翻译概论",
+              "会议口译",
+              "翻译工作坊2",
+              "翻译工作坊1",
+              "翻译与社会"
+            ]
+          },
+          "notes": []
+        }
+      ],
+      "missing": [
+        "programme_selection_threshold",
+        "confirmed_cohort_curriculum"
+      ],
+      "group": "人文语言与传播",
+      "goal": "把语言学、文学或翻译与新闻公关、数字媒体或电影研究结合。",
+      "career_summary": "传媒、广告、翻译等探索；英语语言文学或传播深造。",
+      "similar_id": "xjtlu-communication-studies",
+      "source_id": "S-xjtlu-english-and-communication-studies",
+      "aliases": [
+        "英语（传媒英语）"
+      ],
+      "parent_id": "xjtlu-parent-english",
+      "entry_type": "direction",
+      "internal_pathways": [],
+      "conflicts": [],
+      "eligibility_status": "pending_verification",
+      "checked_at": "2026-09-18",
+      "version": "0.1.0-rc1",
+      "pathway_note": "官网描述灵活组合：英语板块为语言学/文学/翻译与口译，传播板块为新闻与公共关系/数字媒体/电影研究。它们是组合内容，不另计为独立目录专业；具体组合和课程要求须核实。",
+      "career_section": "就业或职业发展（摘要仅保留领域，省略宣传性成功保证与升学比例）"
+    },
+    {
+      "major_id": "xjtlu-english-and-business",
+      "official_name": "英语（金融商务英语）",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/english-and-business",
+      "final_url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/english-and-business",
+      "status": "read",
+      "sha256": "f28d8ee112809957b3bb44df7e68fb7e1c48ecd28d00c06fbe2660e7df270ca0",
+      "retrieved_at": "2026-09-18T07:58:35.607350+00:00",
+      "fields": {
+        "开始时间": "2027年09月",
+        "教学形式": "全日制",
+        "学制": "四年",
+        "2+2学习": "可选",
+        "学习地点": "苏州",
+        "院系": "人文社科学院",
+        "学位证书": "毕业生可同时获得中国教育部认可的西交利物浦大学本科毕业证书、学士学位证书和国际认可的英国利物浦大学学士学位证书。"
+      },
+      "metadata_dates": {
+        "datePublished": "2022-10-09T08:09:14+00:00",
+        "dateModified": "2026-06-15T04:17:27+00:00"
+      },
+      "courses": [
+        {
+          "pathway": "课程",
+          "year": "第一学年",
+          "categories": {},
+          "notes": [
+            "西交利物浦大学在第一学年开设了包括学术英语、数理基础、人文教育在内的众多极具特色的通识类课程，点击了解更多。"
+          ]
+        },
+        {
+          "pathway": "课程",
+          "year": "第二学年",
+          "categories": {
+            "核心课程": [
+              "财务会计导论",
+              "商业与市场经济学原理",
+              "经济学要领",
+              "定量方法",
+              "金融学概论",
+              "人文与社会科学的人工智能：赋能研究与实践",
+              "人文与社会科学视界",
+              "营销学基础",
+              "语言学导论：口语和书面话语",
+              "语义和语用"
+            ],
+            "可选课程": [
+              "英语的声音",
+              "语言学导论：语法",
+              "句法",
+              "英语史",
+              "语言与社会",
+              "人工智能赋能的翻译与跨文化交际",
+              "笔译和口译概论"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "课程",
+          "year": "第三学年",
+          "categories": {
+            "核心课程": [
+              "国际发展",
+              "财务管理",
+              "证券市场",
+              "企业社会责任",
+              "国际化管理"
+            ],
+            "可选课程": [
+              "计量经济学 1",
+              "国际发展",
+              "中级微观经济学",
+              "公司财务",
+              "证券市场",
+              "语言与媒体",
+              "双语和多语发展",
+              "语言和性别",
+              "语料库语言学",
+              "计算机语言学",
+              "翻译语言研究",
+              "翻译技术",
+              "翻译与计算",
+              "国际商务笔译和口译"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "课程",
+          "year": "第四学年",
+          "categories": {
+            "核心课程": [
+              "国际经济关系",
+              "商业金融",
+              "金融与市场",
+              "服务营销",
+              "国际营销",
+              "金融商务英语的毕业设计",
+              "战略管理和商业政策"
+            ],
+            "可选课程": [
+              "健康人文",
+              "语言与权力",
+              "法医语言学",
+              "跨文化交际",
+              "人工智能和应用语言学",
+              "语言教育",
+              "生态语言学：语言和环境",
+              "语言和消费者行为",
+              "语言病理学",
+              "翻译与社会",
+              "本地化和翻译项目管理"
+            ]
+          },
+          "notes": []
+        }
+      ],
+      "missing": [
+        "programme_selection_threshold",
+        "confirmed_cohort_curriculum"
+      ],
+      "group": "人文语言与传播",
+      "goal": "结合英语研究、语言或翻译训练与金融经济或商务管理。",
+      "career_summary": "商务沟通、翻译、市场公关；英语、商务与金融深造。",
+      "similar_id": "xjtlu-international-business-with-a-language",
+      "source_id": "S-xjtlu-english-and-business",
+      "aliases": [
+        "英语（金融商务英语）"
+      ],
+      "parent_id": "xjtlu-parent-english",
+      "entry_type": "direction",
+      "internal_pathways": [
+        {
+          "pathway_id": "xjtlu-english-and-business--finance-economics",
+          "name": "金融经济"
+        },
+        {
+          "pathway_id": "xjtlu-english-and-business--business-management",
+          "name": "商务管理"
+        }
+      ],
+      "conflicts": [
+        "课程 / 第三学年同名课程重复或跨核心/选修列表出现：国际发展、证券市场；可能涉及方向或选课组合，不能直接认定人人同修或删去重复，须核实。"
+      ],
+      "eligibility_status": "pending_verification",
+      "checked_at": "2026-09-18",
+      "version": "0.1.0-rc1",
+      "pathway_note": "官网概览列出上述方向；公开课程表合列而非逐方向分表，不能认定全部方向课程都由每位学生同修。个人方向、学分要求和可选组合待对应培养方案确认。 官网说明金融经济与商务管理两个方向任选其一。",
+      "career_section": "就业或职业发展（摘要仅保留领域，省略宣传性成功保证与升学比例）"
+    },
+    {
+      "major_id": "xjtlu-english-studies",
+      "official_name": "英语（全球语境下的英语研究）",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/english-studies",
+      "final_url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/english-studies",
+      "status": "read",
+      "sha256": "7869aefdfa915dff58c0d415862e1fdc952080c7132fe22e916d5efbd940eb90",
+      "retrieved_at": "2026-09-18T07:58:39.891780+00:00",
+      "fields": {
+        "开始时间": "2027年09月",
+        "教学形式": "全日制",
+        "学制": "四年",
+        "2+2学习": "可选",
+        "学习地点": "苏州",
+        "院系": "人文社科学院",
+        "学位证书": "毕业生可同时获得中国教育部认可的西交利物浦大学本科毕业证书、学士学位证书和国际认可的英国利物浦大学学士学位证书。"
+      },
+      "metadata_dates": {
+        "datePublished": "2022-10-10T05:58:33+00:00",
+        "dateModified": "2026-06-15T04:19:00+00:00"
+      },
+      "courses": [
+        {
+          "pathway": "课程",
+          "year": "第一学年",
+          "categories": {},
+          "notes": [
+            "西交利物浦大学在第一学年开设了包括学术英语、数理基础、人文教育在内的众多极具特色的通识类课程，点击了解更多。"
+          ]
+        },
+        {
+          "pathway": "课程",
+          "year": "第二学年",
+          "categories": {
+            "核心课程": [
+              "人文与社会科学的人工智能：赋能研究与实践",
+              "人文与社会科学视界",
+              "世界历史：二十世纪至今",
+              "文学研究概论",
+              "文学与人工智能",
+              "文学与电影",
+              "世界文学概论",
+              "英语史"
+            ],
+            "可选课程": [
+              "中国文学概论",
+              "修辞与媒体分析",
+              "语言与社会",
+              "语言学导论：口语和书面话语",
+              "笔译和口译概论",
+              "翻译与全球化"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "课程",
+          "year": "第三学年",
+          "categories": {
+            "核心课程": [
+              "启蒙文学",
+              "后殖民文学"
+            ],
+            "可选课程": [
+              "中国现当代文学",
+              "中国：文化、语言和交流",
+              "国际传播",
+              "文学与性别",
+              "简·奥斯汀",
+              "伊丽莎白一世和詹姆士一世时期悲剧",
+              "现代英国小说",
+              "文学理论",
+              "浪漫主义",
+              "文献记录语言学",
+              "翻译语言研究",
+              "翻译与文化",
+              "文学翻译"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "课程",
+          "year": "第四学年",
+          "categories": {
+            "核心课程": [
+              "哥特式",
+              "数字人文学科研究与实践"
+            ],
+            "可选课程": [
+              "中国：文化遗产研究",
+              "智慧之道：中国哲学与其现代意义",
+              "欧洲电影",
+              "健康人文",
+              "文学：毕业设计",
+              "后现代文学",
+              "文学与环境",
+              "乌托邦：一个想法的历史",
+              "毕业设计",
+              "语言与权力",
+              "跨文化交际",
+              "人工智能和应用语言学",
+              "生态语言学：语言和环境",
+              "笔译和口译：毕业设计",
+              "翻译中国1：文化与历史"
+            ]
+          },
+          "notes": []
+        }
+      ],
+      "missing": [
+        "programme_selection_threshold",
+        "confirmed_cohort_curriculum"
+      ],
+      "group": "人文语言与传播",
+      "goal": "以文学和语言研究为核心，联系电影、历史、国际关系及翻译。",
+      "career_summary": "语言和内容相关工作；英语教育、文学、语言学或翻译深造。",
+      "similar_id": "xjtlu-applied-linguistics",
+      "source_id": "S-xjtlu-english-studies",
+      "aliases": [
+        "英语（全球语境下的英语研究）"
+      ],
+      "parent_id": "xjtlu-parent-english",
+      "entry_type": "direction",
+      "internal_pathways": [],
+      "conflicts": [],
+      "eligibility_status": "pending_verification",
+      "checked_at": "2026-09-18",
+      "version": "0.1.0-rc1",
+      "career_section": "就业或职业发展（摘要仅保留领域，省略宣传性成功保证与升学比例）"
+    },
+    {
+      "major_id": "xjtlu-applied-linguistics",
+      "official_name": "英语（应用语言学）",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/applied-linguistics",
+      "final_url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/applied-linguistics",
+      "status": "read",
+      "sha256": "4dd1a600d757ce89db47a8a1a505df05215e99a8511d57f20dc5bece587ccb39",
+      "retrieved_at": "2026-09-18T07:58:38.866755+00:00",
+      "fields": {
+        "开始时间": "2027年09月",
+        "教学形式": "全日制",
+        "学制": "四年",
+        "2+2学习": "可选",
+        "学习地点": "苏州",
+        "院系": "人文社科学院",
+        "学位证书": "毕业生可同时获得中国教育部认可的西交利物浦大学本科毕业证书、学士学位证书和国际认可的英国利物浦大学学士学位证书。"
+      },
+      "metadata_dates": {
+        "datePublished": "2022-10-09T06:21:46+00:00",
+        "dateModified": "2026-08-31T07:16:23+00:00"
+      },
+      "courses": [
+        {
+          "pathway": "课程",
+          "year": "第一学年",
+          "categories": {},
+          "notes": [
+            "西交利物浦大学在第一学年开设了包括学术英语、数理基础、人文教育在内的众多极具特色的通识类课程，点击了解更多。"
+          ]
+        },
+        {
+          "pathway": "课程",
+          "year": "第二学年",
+          "categories": {
+            "核心课程": [
+              "人文与社会科学的人工智能：赋能研究与实践",
+              "人文与社会科学视界",
+              "英语的声音",
+              "语言学导论：语法",
+              "语言与社会",
+              "语言学导论：口语和书面话语",
+              "语义和语用"
+            ],
+            "可选课程": [
+              "文学研究概论",
+              "文学与人工智能",
+              "文学与电影",
+              "句法",
+              "英语史",
+              "人工智能赋能的翻译与跨文化交际",
+              "笔译和口译概论"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "课程",
+          "year": "第三学年",
+          "categories": {
+            "可选课程": [
+              "中国：文化、语言和交流",
+              "文学与性别",
+              "简·奥斯汀",
+              "语言与媒体",
+              "双语和多语发展",
+              "语言和性别",
+              "认知语言学",
+              "语言习得",
+              "心理语言学",
+              "语料库语言学",
+              "文献记录语言学",
+              "汉语语言学",
+              "历史语言学",
+              "计算机语言学",
+              "翻译语言研究",
+              "翻译技术",
+              "翻译与计算",
+              "国际商务笔译和口译"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "课程",
+          "year": "第四学年",
+          "categories": {
+            "核心课程": [
+              "毕业设计"
+            ],
+            "可选课程": [
+              "健康人文",
+              "后现代文学",
+              "文学与环境",
+              "语言与权力",
+              "法医语言学",
+              "跨文化交际",
+              "人工智能和应用语言学",
+              "语言教育",
+              "生态语言学：语言和环境",
+              "语言和消费者行为",
+              "语言病理学",
+              "视听翻译概论",
+              "翻译与社会"
+            ]
+          },
+          "notes": []
+        }
+      ],
+      "missing": [
+        "programme_selection_threshold",
+        "confirmed_cohort_curriculum"
+      ],
+      "group": "人文语言与传播",
+      "goal": "训练语言研究方法，联系计算语言、教育、传媒及健康等应用。",
+      "career_summary": "语言技术、教育、跨文化与本地化；语言、教育、翻译相关深造。",
+      "similar_id": "xjtlu-translation-and-interpreting",
+      "source_id": "S-xjtlu-applied-linguistics",
+      "aliases": [
+        "英语（应用语言学）"
+      ],
+      "parent_id": "xjtlu-parent-english",
+      "entry_type": "direction",
+      "internal_pathways": [],
+      "conflicts": [],
+      "eligibility_status": "pending_verification",
+      "checked_at": "2026-09-18",
+      "version": "0.1.0-rc1",
+      "pathway_note": "官网介绍科技、健康、传媒和教育等可组合的职业导向模块；这是模块化探索，不代表独立备案方向，也不等于取得言语治疗等职业资格。",
+      "career_section": "就业或职业发展（摘要仅保留领域，省略宣传性成功保证与升学比例）"
+    },
+    {
+      "major_id": "xjtlu-arts-technology-and-entertainment",
+      "official_name": "艺术与科技",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/arts-technology-and-entertainment",
+      "final_url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/arts-technology-and-entertainment",
+      "status": "read",
+      "sha256": "94e57ee76ab59e9b87c1b6d8877badc2838e0ff5dcf9a84a53dc23061dde6f96",
+      "retrieved_at": "2026-09-18T07:58:39.266029+00:00",
+      "fields": {
+        "开始时间": "2027年09月",
+        "教学形式": "全日制",
+        "学制": "四年",
+        "2+2学习": "不可选",
+        "学习地点": "太仓",
+        "院系": "影视与创意科技学院",
+        "学位证书": "毕业生可同时获得中国教育部认可的西交利物浦大学本科毕业证书、学士学位证书和国际认可的英国利物浦大学学士学位证书。"
+      },
+      "metadata_dates": {
+        "datePublished": "2022-10-10T05:24:35+00:00",
+        "dateModified": "2026-06-15T04:19:13+00:00"
+      },
+      "courses": [
+        {
+          "pathway": "课程",
+          "year": "第一学年",
+          "categories": {},
+          "notes": [
+            "西交利物浦大学在第一学年开设了包括学术英语、数理基础、人文教育在内的众多极具特色的通识类课程，点击了解更多。"
+          ]
+        },
+        {
+          "pathway": "课程",
+          "year": "第二学年",
+          "categories": {
+            "核心课程": [
+              "形式、创新和文化",
+              "实时引擎入门",
+              "游戏设计原理",
+              "艺术、技术和娱乐场域中以人工智能为核心的技术基础和视角",
+              "创意工具包",
+              "战略智慧",
+              "深度实践中的融合式教育"
+            ],
+            "可选课程": [
+              "交互系统导论",
+              "游戏与交互音频概论"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "课程",
+          "year": "第三学年",
+          "categories": {
+            "核心课程": [
+              "进阶游戏开发",
+              "沉浸式和虚拟世界",
+              "图像设计和环境创建",
+              "数字化创业实验室",
+              "行业技能准备"
+            ],
+            "可选课程": [
+              "形式、创新与受众",
+              "空间媒介：高级交互系统",
+              "高级游戏音频架构与沉浸式空间声学"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "课程",
+          "year": "第四学年",
+          "categories": {
+            "核心课程": [
+              "产业项目策划与实现",
+              "毕业项目",
+              "科创团队管理"
+            ]
+          },
+          "notes": []
+        }
+      ],
+      "missing": [
+        "programme_selection_threshold",
+        "confirmed_cohort_curriculum"
+      ],
+      "group": "创意媒体与艺术",
+      "goal": "把创意内容、技术实践与商业思维结合，采用融合式教育。",
+      "career_summary": "创意制作、艺术指导与互动设计；艺术设计相关深造。",
+      "similar_id": "xjtlu-digital-media-arts",
+      "source_id": "S-xjtlu-arts-technology-and-entertainment",
+      "aliases": [
+        "艺术与科技"
+      ],
+      "parent_id": null,
+      "entry_type": "directory_entry",
+      "internal_pathways": [
+        {
+          "pathway_id": "xjtlu-arts-technology-and-entertainment--immersive",
+          "name": "动态与沉浸式艺术"
+        },
+        {
+          "pathway_id": "xjtlu-arts-technology-and-entertainment--games",
+          "name": "游戏设计与开发"
+        },
+        {
+          "pathway_id": "xjtlu-arts-technology-and-entertainment--audiovisual",
+          "name": "视听内容创作"
+        },
+        {
+          "pathway_id": "xjtlu-arts-technology-and-entertainment--creative-management",
+          "name": "创意策划管理"
+        }
+      ],
+      "conflicts": [],
+      "eligibility_status": "pending_verification",
+      "checked_at": "2026-09-18",
+      "version": "0.1.0-rc1",
+      "pathway_note": "官网概览列出上述方向；公开课程表合列而非逐方向分表，不能认定全部方向课程都由每位学生同修。个人方向、学分要求和可选组合待对应培养方案确认。",
+      "career_section": "就业或职业发展（摘要仅保留领域，省略宣传性成功保证与升学比例）",
+      "school_note": "信息卡列影视与创意科技学院，概览称隶属西浦创业家学院（太仓）；可能是层级关系，未将其强行合并成单一组织口径。"
+    },
+    {
+      "major_id": "xjtlu-intelligent-manufacturing-engineering",
+      "official_name": "智能制造工程",
+      "url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/intelligent-manufacturing-engineering",
+      "final_url": "https://www.xjtlu.edu.cn/zh/study/undergraduate/intelligent-manufacturing-engineering",
+      "status": "read",
+      "sha256": "8ac5a823292ef1601219ac31d9c6fd008620637dcf8ab2974af3b66c76c33724",
+      "retrieved_at": "2026-09-18T07:58:39.703992+00:00",
+      "fields": {
+        "开始时间": "2027年09月",
+        "教学形式": "全日制",
+        "学制": "四年",
+        "2+2学习": "不可选",
+        "学习地点": "苏州太仓",
+        "院系": "西浦创业家学院（太仓）；智造生态学院",
+        "学位证书": "毕业生可同时获得中国教育部认可的西交利物浦大学本科毕业证书、学士学位证书和国际认可的英国利物浦大学学士学位证书。"
+      },
+      "metadata_dates": {
+        "datePublished": "2022-10-10T06:03:19+00:00",
+        "dateModified": "2026-08-26T01:15:42+00:00"
+      },
+      "courses": [
+        {
+          "pathway": "课程",
+          "year": "第一学年",
+          "categories": {},
+          "notes": [
+            "西交利物浦大学在第一学年开设了包括学术英语、数理基础、人文教育在内的众多极具特色的通识类课程，点击了解更多。"
+          ]
+        },
+        {
+          "pathway": "课程",
+          "year": "第二学年",
+          "categories": {
+            "核心课程": [
+              "创意工具包",
+              "战略智慧",
+              "深度实践中的融合式教育",
+              "材料学概论",
+              "电子电路基础",
+              "热力学和流体力学",
+              "机电一体化概论",
+              "工程制图",
+              "面向智能制造工程的人工智能核心动力传输技术（海尔）",
+              "智能制造工程编程基础",
+              "工程数学"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "课程",
+          "year": "第三学年",
+          "categories": {
+            "核心课程": [
+              "数字化创业实验室",
+              "行业技能准备",
+              "机械设计原理",
+              "人工智能与数据分析",
+              "制造流程",
+              "面向客户的大规模定制与制造系统规划（海尔）",
+              "增材制造",
+              "传感器，仪表及工业应用"
+            ]
+          },
+          "notes": []
+        },
+        {
+          "pathway": "课程",
+          "year": "第四学年",
+          "categories": {
+            "核心课程": [
+              "科创团队管理",
+              "毕业设计",
+              "人单合一管理模式（海尔）",
+              "制造企业管理"
+            ],
+            "可选课程": [
+              "智能制造信息系统（海尔）",
+              "智能自动化",
+              "自然语言处理与深度学习",
+              "AI增强智能制造"
+            ]
+          },
+          "notes": []
+        }
+      ],
+      "missing": [
+        "programme_selection_threshold",
+        "confirmed_cohort_curriculum"
+      ],
+      "group": "电子工程与制造",
+      "goal": "综合机械、电气与工业工程，研究智能装备和工厂系统的运营。",
+      "career_summary": "智能产品与制造、系统工程；制造、控制、机电及数据相关深造。",
+      "similar_id": "xjtlu-mechatronics-and-robotic-systems",
+      "source_id": "S-xjtlu-intelligent-manufacturing-engineering",
+      "aliases": [
+        "智能制造工程"
+      ],
+      "parent_id": null,
+      "entry_type": "directory_entry",
+      "internal_pathways": [],
+      "conflicts": [],
+      "eligibility_status": "pending_verification",
+      "checked_at": "2026-09-18",
+      "version": "0.1.0-rc1",
+      "career_section": "就业或职业发展（摘要仅保留领域，省略宣传性成功保证与升学比例）"
+    }
+  ]
+}

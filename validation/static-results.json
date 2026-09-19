@@ -1,0 +1,1777 @@
+{
+  "version": "0.1.1-rc1",
+  "date": "2026-09-18",
+  "kind": "static_artifact_validation",
+  "passed": true,
+  "checks": [
+    {
+      "check": "stable_unique_ids",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "catalog_index_identity",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "no_missing_or_orphan_profiles",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "check": "source_ids_unique",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "directory_count_dynamic",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "no_packaged_real_thresholds",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "profile_identity:xjtlu-materials-science-and-engineering-2",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "registered_source:xjtlu-materials-science-and-engineering-2",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "course_transfer:xjtlu-materials-science-and-engineering-2",
+      "passed": true,
+      "detail": "28 course list entries"
+    },
+    {
+      "check": "similar_profile:xjtlu-materials-science-and-engineering-2",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "profile_identity:xjtlu-urban-planning-and-design",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "registered_source:xjtlu-urban-planning-and-design",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "course_transfer:xjtlu-urban-planning-and-design",
+      "passed": true,
+      "detail": "27 course list entries"
+    },
+    {
+      "check": "similar_profile:xjtlu-urban-planning-and-design",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "profile_identity:xjtlu-communication-studies",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "registered_source:xjtlu-communication-studies",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "course_transfer:xjtlu-communication-studies",
+      "passed": true,
+      "detail": "53 course list entries"
+    },
+    {
+      "check": "similar_profile:xjtlu-communication-studies",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "profile_identity:xjtlu-electrical-engineering",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "registered_source:xjtlu-electrical-engineering",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "course_transfer:xjtlu-electrical-engineering",
+      "passed": true,
+      "detail": "40 course list entries"
+    },
+    {
+      "check": "similar_profile:xjtlu-electrical-engineering",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "profile_identity:xjtlu-electronic-science-and-technology",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "registered_source:xjtlu-electronic-science-and-technology",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "course_transfer:xjtlu-electronic-science-and-technology",
+      "passed": true,
+      "detail": "35 course list entries"
+    },
+    {
+      "check": "similar_profile:xjtlu-electronic-science-and-technology",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "profile_identity:xjtlu-translation-and-interpreting",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "registered_source:xjtlu-translation-and-interpreting",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "course_transfer:xjtlu-translation-and-interpreting",
+      "passed": true,
+      "detail": "32 course list entries"
+    },
+    {
+      "check": "similar_profile:xjtlu-translation-and-interpreting",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "profile_identity:xjtlu-business-administration",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "registered_source:xjtlu-business-administration",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "course_transfer:xjtlu-business-administration",
+      "passed": true,
+      "detail": "28 course list entries"
+    },
+    {
+      "check": "similar_profile:xjtlu-business-administration",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "profile_identity:xjtlu-industrial-design",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "registered_source:xjtlu-industrial-design",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "course_transfer:xjtlu-industrial-design",
+      "passed": true,
+      "detail": "23 course list entries"
+    },
+    {
+      "check": "similar_profile:xjtlu-industrial-design",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "profile_identity:xjtlu-intelligent-supply-chain",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "registered_source:xjtlu-intelligent-supply-chain",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "course_transfer:xjtlu-intelligent-supply-chain",
+      "passed": true,
+      "detail": "35 course list entries"
+    },
+    {
+      "check": "similar_profile:xjtlu-intelligent-supply-chain",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "profile_identity:xjtlu-film-and-television-production",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "registered_source:xjtlu-film-and-television-production",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "course_transfer:xjtlu-film-and-television-production",
+      "passed": true,
+      "detail": "23 course list entries"
+    },
+    {
+      "check": "similar_profile:xjtlu-film-and-television-production",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "profile_identity:xjtlu-international-business-with-a-language",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "registered_source:xjtlu-international-business-with-a-language",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "course_transfer:xjtlu-international-business-with-a-language",
+      "passed": true,
+      "detail": "58 course list entries"
+    },
+    {
+      "check": "similar_profile:xjtlu-international-business-with-a-language",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "profile_identity:xjtlu-international-relations",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "registered_source:xjtlu-international-relations",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "course_transfer:xjtlu-international-relations",
+      "passed": true,
+      "detail": "100 course list entries"
+    },
+    {
+      "check": "similar_profile:xjtlu-international-relations",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "profile_identity:xjtlu-china-studies",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "registered_source:xjtlu-china-studies",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "course_transfer:xjtlu-china-studies",
+      "passed": true,
+      "detail": "87 course list entries"
+    },
+    {
+      "check": "similar_profile:xjtlu-china-studies",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "profile_identity:xjtlu-environmental-science",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "registered_source:xjtlu-environmental-science",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "course_transfer:xjtlu-environmental-science",
+      "passed": true,
+      "detail": "42 course list entries"
+    },
+    {
+      "check": "similar_profile:xjtlu-environmental-science",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "profile_identity:xjtlu-accounting",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "registered_source:xjtlu-accounting",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "course_transfer:xjtlu-accounting",
+      "passed": true,
+      "detail": "30 course list entries"
+    },
+    {
+      "check": "similar_profile:xjtlu-accounting",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "profile_identity:xjtlu-architecture",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "registered_source:xjtlu-architecture",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "course_transfer:xjtlu-architecture",
+      "passed": true,
+      "detail": "23 course list entries"
+    },
+    {
+      "check": "similar_profile:xjtlu-architecture",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "profile_identity:xjtlu-economics",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "registered_source:xjtlu-economics",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "course_transfer:xjtlu-economics",
+      "passed": true,
+      "detail": "37 course list entries"
+    },
+    {
+      "check": "similar_profile:xjtlu-economics",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "profile_identity:xjtlu-economics-and-finance",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "registered_source:xjtlu-economics-and-finance",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "course_transfer:xjtlu-economics-and-finance",
+      "passed": true,
+      "detail": "35 course list entries"
+    },
+    {
+      "check": "similar_profile:xjtlu-economics-and-finance",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "profile_identity:xjtlu-actuarial-science",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "registered_source:xjtlu-actuarial-science",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "course_transfer:xjtlu-actuarial-science",
+      "passed": true,
+      "detail": "34 course list entries"
+    },
+    {
+      "check": "similar_profile:xjtlu-actuarial-science",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "profile_identity:xjtlu-financial-mathematics",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "registered_source:xjtlu-financial-mathematics",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "course_transfer:xjtlu-financial-mathematics",
+      "passed": true,
+      "detail": "33 course list entries"
+    },
+    {
+      "check": "similar_profile:xjtlu-financial-mathematics",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "profile_identity:xjtlu-intelligent-robotics-engineering",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "registered_source:xjtlu-intelligent-robotics-engineering",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "course_transfer:xjtlu-intelligent-robotics-engineering",
+      "passed": true,
+      "detail": "35 course list entries"
+    },
+    {
+      "check": "similar_profile:xjtlu-intelligent-robotics-engineering",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "profile_identity:xjtlu-computer-science-and-technology",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "registered_source:xjtlu-computer-science-and-technology",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "course_transfer:xjtlu-computer-science-and-technology",
+      "passed": true,
+      "detail": "34 course list entries"
+    },
+    {
+      "check": "similar_profile:xjtlu-computer-science-and-technology",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "profile_identity:xjtlu-mechatronics-and-robotic-systems",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "registered_source:xjtlu-mechatronics-and-robotic-systems",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "course_transfer:xjtlu-mechatronics-and-robotic-systems",
+      "passed": true,
+      "detail": "38 course list entries"
+    },
+    {
+      "check": "similar_profile:xjtlu-mechatronics-and-robotic-systems",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "profile_identity:xjtlu-artificial-intelligence",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "registered_source:xjtlu-artificial-intelligence",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "course_transfer:xjtlu-artificial-intelligence",
+      "passed": true,
+      "detail": "78 course list entries"
+    },
+    {
+      "check": "similar_profile:xjtlu-artificial-intelligence",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "profile_identity:xjtlu-human-resource-management",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "registered_source:xjtlu-human-resource-management",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "course_transfer:xjtlu-human-resource-management",
+      "passed": true,
+      "detail": "31 course list entries"
+    },
+    {
+      "check": "similar_profile:xjtlu-human-resource-management",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "profile_identity:xjtlu-biological-sciences",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "registered_source:xjtlu-biological-sciences",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "course_transfer:xjtlu-biological-sciences",
+      "passed": true,
+      "detail": "35 course list entries"
+    },
+    {
+      "check": "similar_profile:xjtlu-biological-sciences",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "profile_identity:xjtlu-bioinformatics",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "registered_source:xjtlu-bioinformatics",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "course_transfer:xjtlu-bioinformatics",
+      "passed": true,
+      "detail": "33 course list entries"
+    },
+    {
+      "check": "similar_profile:xjtlu-bioinformatics",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "profile_identity:xjtlu-biomedical-sciences",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "registered_source:xjtlu-biomedical-sciences",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "course_transfer:xjtlu-biomedical-sciences",
+      "passed": true,
+      "detail": "32 course list entries"
+    },
+    {
+      "check": "similar_profile:xjtlu-biomedical-sciences",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "profile_identity:xjtlu-biopharmaceuticals",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "registered_source:xjtlu-biopharmaceuticals",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "course_transfer:xjtlu-biopharmaceuticals",
+      "passed": true,
+      "detail": "32 course list entries"
+    },
+    {
+      "check": "similar_profile:xjtlu-biopharmaceuticals",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "profile_identity:xjtlu-marketing",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "registered_source:xjtlu-marketing",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "course_transfer:xjtlu-marketing",
+      "passed": true,
+      "detail": "32 course list entries"
+    },
+    {
+      "check": "similar_profile:xjtlu-marketing",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "profile_identity:xjtlu-data-science-and-big-data-technology",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "registered_source:xjtlu-data-science-and-big-data-technology",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "course_transfer:xjtlu-data-science-and-big-data-technology",
+      "passed": true,
+      "detail": "29 course list entries"
+    },
+    {
+      "check": "similar_profile:xjtlu-data-science-and-big-data-technology",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "profile_identity:xjtlu-digital-media-technology",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "registered_source:xjtlu-digital-media-technology",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "course_transfer:xjtlu-digital-media-technology",
+      "passed": true,
+      "detail": "32 course list entries"
+    },
+    {
+      "check": "similar_profile:xjtlu-digital-media-technology",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "profile_identity:xjtlu-digital-media-arts",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "registered_source:xjtlu-digital-media-arts",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "course_transfer:xjtlu-digital-media-arts",
+      "passed": true,
+      "detail": "26 course list entries"
+    },
+    {
+      "check": "similar_profile:xjtlu-digital-media-arts",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "profile_identity:xjtlu-telecommunications-engineering",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "registered_source:xjtlu-telecommunications-engineering",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "course_transfer:xjtlu-telecommunications-engineering",
+      "passed": true,
+      "detail": "37 course list entries"
+    },
+    {
+      "check": "similar_profile:xjtlu-telecommunications-engineering",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "profile_identity:xjtlu-civil-engineering",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "registered_source:xjtlu-civil-engineering",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "course_transfer:xjtlu-civil-engineering",
+      "passed": true,
+      "detail": "55 course list entries"
+    },
+    {
+      "check": "similar_profile:xjtlu-civil-engineering",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "profile_identity:xjtlu-microelectronic-science-and-engineering",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "registered_source:xjtlu-microelectronic-science-and-engineering",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "course_transfer:xjtlu-microelectronic-science-and-engineering",
+      "passed": true,
+      "detail": "32 course list entries"
+    },
+    {
+      "check": "similar_profile:xjtlu-microelectronic-science-and-engineering",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "profile_identity:xjtlu-internet-of-things-engineering",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "registered_source:xjtlu-internet-of-things-engineering",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "course_transfer:xjtlu-internet-of-things-engineering",
+      "passed": true,
+      "detail": "32 course list entries"
+    },
+    {
+      "check": "similar_profile:xjtlu-internet-of-things-engineering",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "profile_identity:xjtlu-psychology-bsc",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "registered_source:xjtlu-psychology-bsc",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "course_transfer:xjtlu-psychology-bsc",
+      "passed": true,
+      "detail": "23 course list entries"
+    },
+    {
+      "check": "similar_profile:xjtlu-psychology-bsc",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "profile_identity:xjtlu-information-management-and-information-systems",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "registered_source:xjtlu-information-management-and-information-systems",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "course_transfer:xjtlu-information-management-and-information-systems",
+      "passed": true,
+      "detail": "45 course list entries"
+    },
+    {
+      "check": "similar_profile:xjtlu-information-management-and-information-systems",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "profile_identity:xjtlu-information-and-computing-science",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "registered_source:xjtlu-information-and-computing-science",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "course_transfer:xjtlu-information-and-computing-science",
+      "passed": true,
+      "detail": "30 course list entries"
+    },
+    {
+      "check": "similar_profile:xjtlu-information-and-computing-science",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "profile_identity:xjtlu-pharmaceutical-sciences",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "registered_source:xjtlu-pharmaceutical-sciences",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "course_transfer:xjtlu-pharmaceutical-sciences",
+      "passed": true,
+      "detail": "35 course list entries"
+    },
+    {
+      "check": "similar_profile:xjtlu-pharmaceutical-sciences",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "profile_identity:xjtlu-filmmaking",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "registered_source:xjtlu-filmmaking",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "course_transfer:xjtlu-filmmaking",
+      "passed": true,
+      "detail": "30 course list entries"
+    },
+    {
+      "check": "similar_profile:xjtlu-filmmaking",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "profile_identity:xjtlu-applied-chemistry",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "registered_source:xjtlu-applied-chemistry",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "course_transfer:xjtlu-applied-chemistry",
+      "passed": true,
+      "detail": "31 course list entries"
+    },
+    {
+      "check": "similar_profile:xjtlu-applied-chemistry",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "profile_identity:xjtlu-applied-mathematics",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "registered_source:xjtlu-applied-mathematics",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "course_transfer:xjtlu-applied-mathematics",
+      "passed": true,
+      "detail": "36 course list entries"
+    },
+    {
+      "check": "similar_profile:xjtlu-applied-mathematics",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "profile_identity:xjtlu-applied-statistics",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "registered_source:xjtlu-applied-statistics",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "course_transfer:xjtlu-applied-statistics",
+      "passed": true,
+      "detail": "29 course list entries"
+    },
+    {
+      "check": "similar_profile:xjtlu-applied-statistics",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "profile_identity:xjtlu-applied-physics-bsc",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "registered_source:xjtlu-applied-physics-bsc",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "course_transfer:xjtlu-applied-physics-bsc",
+      "passed": true,
+      "detail": "31 course list entries"
+    },
+    {
+      "check": "similar_profile:xjtlu-applied-physics-bsc",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "profile_identity:xjtlu-english-and-communication-studies",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "registered_source:xjtlu-english-and-communication-studies",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "course_transfer:xjtlu-english-and-communication-studies",
+      "passed": true,
+      "detail": "93 course list entries"
+    },
+    {
+      "check": "similar_profile:xjtlu-english-and-communication-studies",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "profile_identity:xjtlu-english-and-business",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "registered_source:xjtlu-english-and-business",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "course_transfer:xjtlu-english-and-business",
+      "passed": true,
+      "detail": "54 course list entries"
+    },
+    {
+      "check": "similar_profile:xjtlu-english-and-business",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "profile_identity:xjtlu-english-studies",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "registered_source:xjtlu-english-studies",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "course_transfer:xjtlu-english-studies",
+      "passed": true,
+      "detail": "46 course list entries"
+    },
+    {
+      "check": "similar_profile:xjtlu-english-studies",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "profile_identity:xjtlu-applied-linguistics",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "registered_source:xjtlu-applied-linguistics",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "course_transfer:xjtlu-applied-linguistics",
+      "passed": true,
+      "detail": "46 course list entries"
+    },
+    {
+      "check": "similar_profile:xjtlu-applied-linguistics",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "profile_identity:xjtlu-arts-technology-and-entertainment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "registered_source:xjtlu-arts-technology-and-entertainment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "course_transfer:xjtlu-arts-technology-and-entertainment",
+      "passed": true,
+      "detail": "20 course list entries"
+    },
+    {
+      "check": "similar_profile:xjtlu-arts-technology-and-entertainment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "profile_identity:xjtlu-intelligent-manufacturing-engineering",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "registered_source:xjtlu-intelligent-manufacturing-engineering",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "course_transfer:xjtlu-intelligent-manufacturing-engineering",
+      "passed": true,
+      "detail": "27 course list entries"
+    },
+    {
+      "check": "similar_profile:xjtlu-intelligent-manufacturing-engineering",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "relative_links",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doubao_version",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doubao_catalog_exact_coverage",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doubao_source_hash:xjtlu-materials-science-and-engineering-2",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doubao_full_profile:xjtlu-materials-science-and-engineering-2",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doubao_source_hash:xjtlu-applied-chemistry",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doubao_full_profile:xjtlu-applied-chemistry",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doubao_source_hash:xjtlu-applied-physics-bsc",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doubao_full_profile:xjtlu-applied-physics-bsc",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doubao_source_hash:xjtlu-urban-planning-and-design",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doubao_full_profile:xjtlu-urban-planning-and-design",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doubao_source_hash:xjtlu-industrial-design",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doubao_full_profile:xjtlu-industrial-design",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doubao_source_hash:xjtlu-architecture",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doubao_full_profile:xjtlu-architecture",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doubao_source_hash:xjtlu-civil-engineering",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doubao_full_profile:xjtlu-civil-engineering",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doubao_source_hash:xjtlu-communication-studies",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doubao_full_profile:xjtlu-communication-studies",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doubao_source_hash:xjtlu-translation-and-interpreting",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doubao_full_profile:xjtlu-translation-and-interpreting",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doubao_source_hash:xjtlu-international-relations",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doubao_full_profile:xjtlu-international-relations",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doubao_source_hash:xjtlu-china-studies",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doubao_full_profile:xjtlu-china-studies",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doubao_source_hash:xjtlu-english-and-communication-studies",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doubao_full_profile:xjtlu-english-and-communication-studies",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doubao_source_hash:xjtlu-english-and-business",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doubao_full_profile:xjtlu-english-and-business",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doubao_source_hash:xjtlu-english-studies",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doubao_full_profile:xjtlu-english-studies",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doubao_source_hash:xjtlu-applied-linguistics",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doubao_full_profile:xjtlu-applied-linguistics",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doubao_source_hash:xjtlu-electrical-engineering",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doubao_full_profile:xjtlu-electrical-engineering",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doubao_source_hash:xjtlu-electronic-science-and-technology",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doubao_full_profile:xjtlu-electronic-science-and-technology",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doubao_source_hash:xjtlu-intelligent-robotics-engineering",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doubao_full_profile:xjtlu-intelligent-robotics-engineering",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doubao_source_hash:xjtlu-mechatronics-and-robotic-systems",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doubao_full_profile:xjtlu-mechatronics-and-robotic-systems",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doubao_source_hash:xjtlu-telecommunications-engineering",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doubao_full_profile:xjtlu-telecommunications-engineering",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doubao_source_hash:xjtlu-microelectronic-science-and-engineering",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doubao_full_profile:xjtlu-microelectronic-science-and-engineering",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doubao_source_hash:xjtlu-internet-of-things-engineering",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doubao_full_profile:xjtlu-internet-of-things-engineering",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doubao_source_hash:xjtlu-intelligent-manufacturing-engineering",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doubao_full_profile:xjtlu-intelligent-manufacturing-engineering",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doubao_source_hash:xjtlu-business-administration",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doubao_full_profile:xjtlu-business-administration",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doubao_source_hash:xjtlu-intelligent-supply-chain",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doubao_full_profile:xjtlu-intelligent-supply-chain",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doubao_source_hash:xjtlu-international-business-with-a-language",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doubao_full_profile:xjtlu-international-business-with-a-language",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doubao_source_hash:xjtlu-accounting",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doubao_full_profile:xjtlu-accounting",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doubao_source_hash:xjtlu-economics",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doubao_full_profile:xjtlu-economics",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doubao_source_hash:xjtlu-economics-and-finance",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doubao_full_profile:xjtlu-economics-and-finance",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doubao_source_hash:xjtlu-human-resource-management",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doubao_full_profile:xjtlu-human-resource-management",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doubao_source_hash:xjtlu-marketing",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doubao_full_profile:xjtlu-marketing",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doubao_source_hash:xjtlu-information-management-and-information-systems",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doubao_full_profile:xjtlu-information-management-and-information-systems",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doubao_source_hash:xjtlu-film-and-television-production",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doubao_full_profile:xjtlu-film-and-television-production",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doubao_source_hash:xjtlu-digital-media-arts",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doubao_full_profile:xjtlu-digital-media-arts",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doubao_source_hash:xjtlu-filmmaking",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doubao_full_profile:xjtlu-filmmaking",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doubao_source_hash:xjtlu-arts-technology-and-entertainment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doubao_full_profile:xjtlu-arts-technology-and-entertainment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doubao_source_hash:xjtlu-environmental-science",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doubao_full_profile:xjtlu-environmental-science",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doubao_source_hash:xjtlu-biological-sciences",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doubao_full_profile:xjtlu-biological-sciences",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doubao_source_hash:xjtlu-bioinformatics",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doubao_full_profile:xjtlu-bioinformatics",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doubao_source_hash:xjtlu-biomedical-sciences",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doubao_full_profile:xjtlu-biomedical-sciences",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doubao_source_hash:xjtlu-biopharmaceuticals",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doubao_full_profile:xjtlu-biopharmaceuticals",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doubao_source_hash:xjtlu-psychology-bsc",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doubao_full_profile:xjtlu-psychology-bsc",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doubao_source_hash:xjtlu-pharmaceutical-sciences",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doubao_full_profile:xjtlu-pharmaceutical-sciences",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doubao_source_hash:xjtlu-actuarial-science",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doubao_full_profile:xjtlu-actuarial-science",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doubao_source_hash:xjtlu-financial-mathematics",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doubao_full_profile:xjtlu-financial-mathematics",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doubao_source_hash:xjtlu-applied-mathematics",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doubao_full_profile:xjtlu-applied-mathematics",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doubao_source_hash:xjtlu-applied-statistics",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doubao_full_profile:xjtlu-applied-statistics",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doubao_source_hash:xjtlu-computer-science-and-technology",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doubao_full_profile:xjtlu-computer-science-and-technology",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doubao_source_hash:xjtlu-artificial-intelligence",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doubao_full_profile:xjtlu-artificial-intelligence",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doubao_source_hash:xjtlu-data-science-and-big-data-technology",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doubao_full_profile:xjtlu-data-science-and-big-data-technology",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doubao_source_hash:xjtlu-digital-media-technology",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doubao_full_profile:xjtlu-digital-media-technology",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doubao_source_hash:xjtlu-information-and-computing-science",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doubao_full_profile:xjtlu-information-and-computing-science",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "txt_equivalence:00-核心规则与全专业简表.md",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "txt_equivalence:01-领域分组索引.md",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "txt_equivalence:C00-职业与升学方向卡.md",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "txt_equivalence:G01-材料化学与物理.md",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "txt_equivalence:G02-建筑设计与城市.md",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "txt_equivalence:G03-人文语言与传播.md",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "txt_equivalence:G04-电子工程与制造.md",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "txt_equivalence:G05-商业经济与金融.md",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "txt_equivalence:G06-创意媒体与艺术.md",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "txt_equivalence:G07-生命环境与健康.md",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "txt_equivalence:G08-数学统计与数据.md",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "txt_equivalence:G09-计算人工智能与系统.md",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "zip_integrity:xjtlu-major-advisor-chatgpt-plugin-0.1.1-rc1.zip",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "plugin_layout",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "package_core_identity:xjtlu-major-advisor-chatgpt-plugin-0.1.1-rc1.zip",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "zip_integrity:xjtlu-major-advisor-core-0.1.1-rc1.zip",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "core_layout",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "package_core_identity:xjtlu-major-advisor-core-0.1.1-rc1.zip",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "zip_integrity:xjtlu-major-advisor-doubao-0.1.1-rc1.zip",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "zip_integrity:xjtlu-major-advisor-source-0.1.1-rc1.zip",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "zip_integrity:xjtlu-major-advisor-traework-0.1.1-rc1.zip",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "root_skill:xjtlu-major-advisor-traework-0.1.1-rc1.zip",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "package_core_identity:xjtlu-major-advisor-traework-0.1.1-rc1.zip",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "zip_integrity:xjtlu-major-advisor-workbuddy-0.1.1-rc1.zip",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "root_skill:xjtlu-major-advisor-workbuddy-0.1.1-rc1.zip",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "package_core_identity:xjtlu-major-advisor-workbuddy-0.1.1-rc1.zip",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "no_forbidden_student_files_or_archive_paths",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "no_key_or_private_path_patterns",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "minimum_example_reports",
+      "passed": true,
+      "detail": ""
+    }
+  ],
+  "counts": {
+    "checks": 350,
+    "failed": 0,
+    "profiles": 52,
+    "sources": 85,
+    "markdown_scanned": 122,
+    "archives": {
+      "xjtlu-major-advisor-chatgpt-plugin-0.1.1-rc1.zip": 74,
+      "xjtlu-major-advisor-core-0.1.1-rc1.zip": 73,
+      "xjtlu-major-advisor-doubao-0.1.1-rc1.zip": 29,
+      "xjtlu-major-advisor-source-0.1.1-rc1.zip": 156,
+      "xjtlu-major-advisor-traework-0.1.1-rc1.zip": 73,
+      "xjtlu-major-advisor-workbuddy-0.1.1-rc1.zip": 73
+    }
+  },
+  "limits": [
+    "Pattern scans cannot prove absence of all possible personal data; provenance and manual review required.",
+    "No platform runtime or actual student counseling claim."
+  ]
+}

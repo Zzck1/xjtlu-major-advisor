@@ -1,0 +1,63 @@
+{
+  "fixture_id": "fictional-policy",
+  "warning": "虚构政策，仅供测试。所有学校、专业、课程、门槛与学生资料均为虚构；不得用于真实西浦咨询，不得进入学生安装包或豆包上传资料。",
+  "version": "0.1.0-rc1",
+  "scope": {"entry_year": 2099, "entry_identity": "TEST-ENTRY", "institution": "TEST-INSTITUTION"},
+  "policy": {
+    "source_id": "fictional-policy",
+    "title": "虚构测试机构 2099 选择政策（仅供测试）",
+    "applicability_complete": true,
+    "conditions_complete": true,
+    "section": "TEST-SECTION-1",
+    "rules": [
+      {"major_id": "TEST-MAJOR-A", "required_course": "TEST-MATH", "operator": ">=", "minimum": 60},
+      {"major_id": "TEST-MAJOR-B", "required_course": "TEST-CODE", "operator": ">=", "minimum": 60},
+      {"major_id": "TEST-MAJOR-C", "required_course": "TEST-WRITE", "operator": ">=", "minimum": 60},
+      {"major_id": "TEST-MAJOR-D", "required_course": "TEST-MATH", "operator": ">=", "minimum": 90},
+      {"major_id": "TEST-MAJOR-E", "conditions_complete": false, "unresolved": "测试规则故意未提供该项目的完整条件"}
+    ]
+  },
+  "dossiers": [
+    {
+      "major_id": "TEST-MAJOR-A", "name": "虚构建模项目 A", "read_status": "complete", "source_id": "fictional-policy",
+      "curriculum": {"year_1": ["TEST-MATH"], "year_2": ["TEST-MODEL"], "year_3": ["TEST-CASE"], "year_4": ["TEST-PROJECT-A"]},
+      "core_tasks": ["用数学模型表达一个简化问题", "解释模型假设与结果"],
+      "learning_requirements": ["愿意反复核对计算", "愿意解释假设"],
+      "career_boundary": "虚构资料不支持真实岗位或升学判断，只测试学习任务比较"
+    },
+    {
+      "major_id": "TEST-MAJOR-B", "name": "虚构程序项目 B", "read_status": "complete", "source_id": "fictional-policy",
+      "curriculum": {"year_1": ["TEST-CODE"], "year_2": ["TEST-DEBUG"], "year_3": ["TEST-SYSTEM"], "year_4": ["TEST-PROJECT-B"]},
+      "core_tasks": ["编写短程序", "定位和修复错误"],
+      "learning_requirements": ["持续调试", "阅读任务说明"],
+      "career_boundary": "虚构资料不支持真实岗位或升学判断，只测试学习任务比较"
+    },
+    {
+      "major_id": "TEST-MAJOR-C", "name": "虚构表达项目 C", "read_status": "complete", "source_id": "fictional-policy",
+      "curriculum": {"year_1": ["TEST-WRITE"], "year_2": ["TEST-READ"], "year_3": ["TEST-ARGUMENT"], "year_4": ["TEST-PROJECT-C"]},
+      "core_tasks": ["比较论点", "改写短篇论证"],
+      "learning_requirements": ["持续阅读", "接受修改反馈"],
+      "career_boundary": "虚构资料不支持真实岗位或升学判断，只测试学习任务比较"
+    },
+    {
+      "major_id": "TEST-MAJOR-D", "name": "虚构进阶项目 D", "read_status": "complete", "source_id": "fictional-policy",
+      "curriculum": {"year_1": ["TEST-MATH"], "year_2": ["TEST-PROOF"], "year_3": ["TEST-ADVANCED"], "year_4": ["TEST-PROJECT-D"]},
+      "core_tasks": ["推导抽象命题"], "learning_requirements": ["抽象推导"],
+      "career_boundary": "虚构资料不支持真实岗位或升学判断"
+    },
+    {
+      "major_id": "TEST-MAJOR-E", "name": "虚构待核实项目 E", "read_status": "complete", "source_id": "fictional-policy",
+      "curriculum": {"year_1": ["TEST-EXPLORE"], "year_2": ["TEST-EXPLORE-2"], "year_3": ["TEST-EXPLORE-3"], "year_4": ["TEST-PROJECT-E"]},
+      "core_tasks": ["整理探索记录"], "learning_requirements": ["记录与反思"],
+      "career_boundary": "虚构资料不支持真实岗位或升学判断"
+    }
+  ],
+  "unit_cases": [
+    {"case_id": "TEST-ELIGIBLE-BOUNDARY", "entry_year": 2099, "entry_identity": "TEST-ENTRY", "major_id": "TEST-MAJOR-A", "student_course": "TEST-MATH", "student_score": 60, "student_evidence_type": "self_report", "expected": "confirmed_eligible"},
+    {"case_id": "TEST-INELIGIBLE-BOUNDARY", "entry_year": 2099, "entry_identity": "TEST-ENTRY", "major_id": "TEST-MAJOR-A", "student_course": "TEST-MATH", "student_score": 59, "student_evidence_type": "self_report", "expected": "confirmed_ineligible"},
+    {"case_id": "TEST-UNKNOWN-SCORE", "entry_year": 2099, "entry_identity": "TEST-ENTRY", "major_id": "TEST-MAJOR-A", "student_course": "TEST-MATH", "student_score": null, "expected": "pending_verification"},
+    {"case_id": "TEST-WRONG-YEAR", "entry_year": 2098, "entry_identity": "TEST-ENTRY", "major_id": "TEST-MAJOR-A", "student_course": "TEST-MATH", "student_score": 80, "expected": "pending_verification"},
+    {"case_id": "TEST-WRONG-IDENTITY", "entry_year": 2099, "entry_identity": "TEST-OTHER", "major_id": "TEST-MAJOR-A", "student_course": "TEST-MATH", "student_score": 80, "expected": "pending_verification"},
+    {"case_id": "TEST-MISSING-RULE", "entry_year": 2099, "entry_identity": "TEST-ENTRY", "major_id": "TEST-MAJOR-E", "student_course": "TEST-MATH", "student_score": 100, "expected": "pending_verification"}
+  ]
+}
